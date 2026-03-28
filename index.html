@@ -32,8 +32,8 @@
                     <h1 class="text-2xl font-black tracking-tight text-gray-800 flex items-center gap-2 mt-1">
                         📻 キッズ・ニュース <span class="text-green-600 text-lg border-2 border-green-600 px-2 py-0.5 rounded-xl">学習アプリ</span>
                     </h1>
-                    <div id="syncIndicator" class="hidden mt-2 text-xs text-green-500 font-bold animate-pulse flex items-center gap-1">
-                        <span>🔄</span> うらで新しいニュースを確認しています...
+                    <div id="syncIndicator" class="hidden mt-2 text-xs text-green-500 font-bold flex items-center gap-1">
+                        <span>⚡️</span> 最新のニュースを読み込みました
                     </div>
                 </div>
                 
@@ -54,8 +54,7 @@
     <main class="max-w-4xl mx-auto px-4 mt-6">
         <div id="loading" class="hidden text-center py-20 text-green-600">
             <div class="animate-spin w-12 h-12 border-4 border-green-500 border-t-transparent rounded-full mx-auto mb-4"></div>
-            <p class="font-bold text-lg">はじめての準備をしています...</p>
-            <p class="text-sm text-green-500 mt-2 font-bold">10秒くらいかかるかも！すこし待ってね。</p>
+            <p class="font-bold text-lg">ニュースを準備しています...</p>
         </div>
         
         <div id="instruction-box" class="hidden mb-6 bg-blue-50 border-2 border-blue-200 p-4 rounded-2xl flex items-center gap-3 shadow-sm">
@@ -150,6 +149,7 @@
 
         async function initApp() {
             try {
+                // 番組フィルターの準備
                 const res = await fetch('./podcasts.json');
                 const podcasts = await res.json();
                 
@@ -163,6 +163,7 @@
 
                 await cleanupOldEpisodes();
 
+                // データベースから前回のデータを読み込む
                 allEpisodes = await loadEpisodesFromDB();
                 allEpisodes.sort((a, b) => b.timestamp - a.timestamp);
 
@@ -173,7 +174,8 @@
                     document.getElementById('loading').classList.remove('hidden');
                 }
 
-                await fetchBackgroundUpdates(podcasts);
+                // 新しいニュースを一瞬で読み込む
+                await fetchBackgroundUpdates();
             } catch (e) {
                 console.error(e);
                 document.getElementById('content').innerHTML = `
@@ -184,81 +186,29 @@
             }
         }
 
-        async function fetchBackgroundUpdates(podcasts) {
-            const syncIndicator = document.getElementById('syncIndicator');
-            syncIndicator.classList.remove('hidden');
+        // 🌟 ここが劇的にシンプルになりました！ 🌟
+        async function fetchBackgroundUpdates() {
+            try {
+                // GitHub Actionsが作ってくれた news.json を読み込むだけ
+                const res = await fetch('./news.json');
+                if (!res.ok) throw new Error("news.jsonがまだありません");
+                const fetchedEpisodes = await res.json();
 
-            const fetchPromises = podcasts.map(async (pod) => {
-                try {
-                    const itunesRes = await fetch(`https://itunes.apple.com/lookup?id=${pod.id}&country=jp`);
-                    const itunesData = await itunesRes.json();
-                    if(!itunesData.results || itunesData.results.length === 0) return [];
-                    
-                    const feedUrl = itunesData.results[0].feedUrl;
-                    const artwork = itunesData.results[0].artworkUrl100;
-
-                    const proxies = [
-                        `https://api.allorigins.win/raw?url=${encodeURIComponent(feedUrl)}`,
-                        `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrl)}`,
-                        `https://corsproxy.io/?${encodeURIComponent(feedUrl)}`
-                    ];
-
-                    let xmlText = "";
-                    for (let i = 0; i < proxies.length; i++) {
-                        try {
-                            const res = await fetch(proxies[i]);
-                            const text = await res.text();
-                            if (text.includes('<rss') || text.includes('<feed')) {
-                                xmlText = text;
-                                break;
-                            }
-                        } catch (e) {}
-                    }
-
-                    if (!xmlText) return [];
-
-                    const parser = new DOMParser();
-                    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
-                    const items = xmlDoc.querySelectorAll("item");
-                    const cutoff = Date.now() - TWO_WEEKS_MS;
-
-                    return Array.from(items).slice(0, 15).map(item => {
-                        const title = item.querySelector("title")?.textContent || "タイトルなし";
-                        const pubDateStr = item.querySelector("pubDate")?.textContent;
-                        
-                        const dateObj = pubDateStr ? new Date(pubDateStr) : new Date(0);
-                        const timestamp = isNaN(dateObj.getTime()) ? 0 : dateObj.getTime();
-                        const date = pubDateStr ? dateObj.toLocaleDateString('ja-JP') : "";
-
-                        const audio = item.querySelector("enclosure")?.getAttribute("url") || "";
-                        let desc = item.querySelector("description")?.textContent || "（ニュースの文章がありません）";
-                        desc = desc.replace(/<[^>]*>?/gm, '').trim(); 
-                        const epId = item.querySelector("guid")?.textContent || title;
-
-                        return { id: epId, podcastName: pod.name, title, date, timestamp, audio, image: artwork, desc };
-                    }).filter(ep => ep.timestamp >= cutoff);
-                } catch (e) {
-                    return [];
-                }
-            });
-
-            const results = await Promise.all(fetchPromises);
-            let fetchedEpisodes = [];
-            results.forEach(episodesArray => {
-                fetchedEpisodes = fetchedEpisodes.concat(episodesArray);
-            });
-
-            const existingIds = new Set(allEpisodes.map(ep => ep.id));
-            const newEpisodes = fetchedEpisodes.filter(ep => !existingIds.has(ep.id));
-
-            if (newEpisodes.length > 0) {
-                await saveEpisodesToDB(newEpisodes);
-                allEpisodes = allEpisodes.concat(newEpisodes);
+                // データベースを更新して画面を描画
+                await saveEpisodesToDB(fetchedEpisodes);
+                allEpisodes = fetchedEpisodes;
                 allEpisodes.sort((a, b) => b.timestamp - a.timestamp);
                 render();
+                
+                // 読み込み完了のサインを少しだけ表示
+                const syncIndicator = document.getElementById('syncIndicator');
+                syncIndicator.classList.remove('hidden');
+                setTimeout(() => syncIndicator.classList.add('hidden'), 3000);
+
+            } catch (e) {
+                console.log("ニュースファイル(news.json)の読み込みを待機しています...");
             }
 
-            syncIndicator.classList.add('hidden');
             document.getElementById('loading').classList.add('hidden');
             document.getElementById('instruction-box').classList.remove('hidden');
             
