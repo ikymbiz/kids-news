@@ -8,7 +8,7 @@ async function fetchNews() {
     let allEpisodes = [];
     
     // 過去1年分（365日）のニュースを取得するように変更
-    const cutoff = Date.now() - (365 * 24 * 60 * 60 * 1000); 
+    const cutoff = Date.now() - (20 * 24 * 60 * 60 * 1000); 
 
     for (const pod of podcasts) {
         try {
