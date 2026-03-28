@@ -1,0 +1,32 @@
+name: ニュース自動取得ロボット
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 6時間ごとに自動で実行
+  workflow_dispatch: # GitHubの画面から手動でポチッと実行できるボタン
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリのコードを取得
+        uses: actions/checkout@v4
+
+      - name: 実行環境（Node.js）を準備
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: RSSを読み込むための便利ツールをインストール
+        run: npm install rss-parser
+
+      - name: ニュース取得プログラム（fetch_news.js）を実行！
+        run: node fetch_news.js
+
+      - name: 新しくできたnews.jsonをGitHubに保存
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          # ニュースに更新があった場合だけ保存（コミット）する
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 ニュースデータを自動更新しました" && git push)
