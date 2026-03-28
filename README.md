@@ -1,1 +1,1 @@
-# kids-news
+kids news
