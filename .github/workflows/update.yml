@@ -8,6 +8,8 @@ on:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    env: # 👈 警告を消すための設定を追加！
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: リポジトリのコードを取得
         uses: actions/checkout@v4
@@ -15,7 +17,7 @@ jobs:
       - name: 実行環境（Node.js）を準備
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24' # 👈 20 から最新の 24 に変更！
 
       - name: RSSを読み込むための便利ツールをインストール
         run: npm install rss-parser
