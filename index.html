@@ -3,55 +3,71 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NewsStation List View - Unbreakable</title>
+    <title>キッズ・ニュースステーション - 安全辞書・JSON管理版</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #f1f5f9; color: #1e293b; }
-        .active-tab { background-color: #4f46e5 !important; color: white !important; box-shadow: 0 4px 12px rgba(79,70,229,0.3); transform: translateY(-1px); }
+        body { font-family: 'Hiragino Maru Gothic ProN', 'Rounded Mplus 1c', 'Helvetica Neue', Arial, sans-serif; background-color: #f0fdf4; color: #334155; }
+        .active-tab { background-color: #16a34a !important; color: white !important; box-shadow: 0 4px 12px rgba(22,163,74,0.3); transform: translateY(-2px); }
         .no-scrollbar::-webkit-scrollbar { display: none; }
-        .episode-row:hover { background-color: #f8fafc; }
-        .highlight { background-color: #fef08a; color: #1e293b; padding: 0 2px; border-radius: 2px; font-weight: bold; }
-        #dict-popup { display: none; position: fixed; bottom: 20px; right: 20px; width: 320px; z-index: 1000; }
+        .episode-row:hover { background-color: #ffffff; transform: scale(1.01); border-color: #bbf7d0; }
+        .highlight { background-color: #fef08a; color: #1e293b; padding: 0 4px; border-radius: 4px; font-weight: bold; }
+        #dict-popup { display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 90%; max-width: 500px; max-height: 80vh; z-index: 1000; overflow-y: auto; }
+        #popup-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 999; backdrop-filter: blur(2px); }
+        .listened { opacity: 0.8; }
+        .reading-area::-webkit-scrollbar, #dict-popup::-webkit-scrollbar { width: 8px; }
+        .reading-area::-webkit-scrollbar-track, #dict-popup::-webkit-scrollbar-track { background: #fef9c3; border-radius: 4px; }
+        .reading-area::-webkit-scrollbar-thumb, #dict-popup::-webkit-scrollbar-thumb { background: #fde047; border-radius: 4px; }
     </style>
 </head>
 <body class="pb-20">
 
-    <header class="sticky top-0 z-50 bg-white/90 backdrop-blur-xl border-b border-gray-200">
+    <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-xl border-b border-green-200 shadow-sm">
         <div class="max-w-4xl mx-auto p-4">
-            <div class="flex items-center justify-between mb-4">
-                <h1 class="text-xl font-black tracking-tighter text-gray-800">🎙️ NewsStation <span class="text-indigo-600">Free</span></h1>
-                <div class="relative w-1/2 md:w-64">
-                    <input type="text" id="searchInput" placeholder="タイトルや内容を検索..." 
-                           class="w-full pl-10 pr-4 py-2 bg-gray-100 border-none rounded-2xl text-sm focus:ring-2 focus:ring-indigo-500 outline-none transition-all">
-                    <span class="absolute left-3 top-2.5 text-gray-400 text-sm">🔍</span>
+            <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-4">
+                <h1 class="text-2xl font-black tracking-tight text-gray-800 flex items-center gap-2">
+                    📻 キッズ・ニュース <span class="text-green-600 text-lg border-2 border-green-600 px-2 py-0.5 rounded-xl">安全辞書版</span>
+                </h1>
+                <div class="relative w-full md:w-72">
+                    <input type="text" id="searchInput" placeholder="ニュースをさがす..." 
+                           class="w-full pl-10 pr-4 py-3 bg-green-50 border-2 border-green-100 rounded-2xl text-sm font-bold focus:ring-4 focus:ring-green-200 focus:border-green-400 outline-none transition-all">
+                    <span class="absolute left-3 top-3 text-lg">🔍</span>
                 </div>
             </div>
-            <div id="tabs" class="flex gap-2 overflow-x-auto no-scrollbar pb-1"></div>
+            <div id="tabs" class="flex gap-3 overflow-x-auto no-scrollbar pb-2"></div>
         </div>
     </header>
 
     <main class="max-w-4xl mx-auto px-4 mt-6">
-        <div id="loading" class="hidden text-center py-20 text-gray-400">
-            <div class="animate-spin w-8 h-8 border-4 border-indigo-500 border-t-transparent rounded-full mx-auto mb-4"></div>
-            <p id="loadingText" class="font-bold">ニュースを取得中...</p>
-            <p id="proxyStatus" class="text-xs text-gray-400 mt-2"></p>
+        <div id="loading" class="hidden text-center py-20 text-green-600">
+            <div class="animate-spin w-10 h-10 border-4 border-green-500 border-t-transparent rounded-full mx-auto mb-4"></div>
+            <p id="loadingText" class="font-bold text-lg">ニュースをあつめています...</p>
+            <p id="proxyStatus" class="text-sm text-green-400 mt-2 font-bold"></p>
         </div>
         
-        <div id="content" class="space-y-3"></div>
+        <div class="mb-4 bg-blue-50 border-2 border-blue-200 p-4 rounded-2xl flex items-center gap-3">
+            <span class="text-2xl">💡</span>
+            <p class="text-sm font-bold text-blue-800">
+                あらすじを読んで、わからない言葉を<span class="bg-blue-200 px-1 rounded">マウスでなぞって（青くして）</span>から「調べる」ボタンを押そう！
+            </p>
+        </div>
+        <div id="content" class="space-y-6"></div>
     </main>
 
-    <div id="dict-popup" class="bg-white shadow-2xl rounded-3xl p-6 border border-indigo-50 border-t-4 border-t-indigo-500">
-        <div class="flex justify-between items-center mb-4">
-            <h4 class="font-bold text-indigo-600 text-xs tracking-widest uppercase">Research Word</h4>
-            <button onclick="document.getElementById('dict-popup').style.display='none'" class="text-gray-400 hover:text-gray-600 text-lg">&times;</button>
+    <div id="popup-overlay" onclick="closePopup()"></div>
+
+    <div id="dict-popup" class="bg-white shadow-2xl rounded-3xl p-6 border-2 border-green-100 border-t-8 border-t-green-500">
+        <div class="flex justify-between items-center mb-4 sticky top-0 bg-white pb-2 border-b-2 border-gray-50">
+            <h4 class="font-black text-green-600 text-sm tracking-widest">🕵️‍♂️ 辞書でしらべたよ</h4>
+            <button onclick="closePopup()" class="text-gray-400 hover:text-gray-600 text-3xl font-bold leading-none">&times;</button>
         </div>
-        <div id="dict-result"></div>
+        <div id="dict-result" class="text-gray-700"></div>
     </div>
 
     <script>
         let allEpisodes = [];
         let currentSearch = "";
 
+        // ★ JSONファイルから番組リストを読み込むように戻しました
         async function initApp() {
             try {
                 const res = await fetch('./podcasts.json');
@@ -60,14 +76,18 @@
 
                 podcasts.forEach((pod, idx) => {
                     const btn = document.createElement('button');
-                    btn.className = "whitespace-nowrap px-6 py-2 rounded-xl bg-white text-gray-500 text-sm font-bold shadow-sm transition-all border border-gray-100 hover:bg-gray-50";
+                    btn.className = "whitespace-nowrap px-5 py-2.5 rounded-2xl bg-white text-gray-600 text-sm font-bold shadow-sm transition-all border-2 border-gray-100 hover:bg-green-50 hover:border-green-200";
                     btn.innerText = pod.name;
                     btn.onclick = () => loadPodcast(pod.id, btn);
                     tabs.appendChild(btn);
                     if (idx === 0) loadPodcast(pod.id, btn);
                 });
-            } catch (e) { 
-                document.getElementById('content').innerHTML = `<p class="text-center text-red-500 py-10">設定エラー: podcasts.jsonが見つかりません</p>`; 
+            } catch (e) {
+                document.getElementById('content').innerHTML = `
+                    <div class="bg-red-50 border border-red-200 p-6 rounded-2xl text-center mt-10">
+                        <strong class="text-red-600 text-sm">設定エラー: podcasts.jsonが読み込めません</strong>
+                        <p class="text-red-400 text-xs mt-2">ファイルを直接開いている場合は、VSCodeのLive Serverなどのローカルサーバー経由で開いてみてください。</p>
+                    </div>`;
             }
         }
 
@@ -80,58 +100,51 @@
             const proxyStatus = document.getElementById('proxyStatus');
             content.innerHTML = '';
             loading.classList.remove('hidden');
-            proxyStatus.innerText = "番組情報を検索中...";
+            proxyStatus.innerText = "番組の情報をさがしています...";
 
             try {
-                // 1. iTunes APIから生のRSSのURLを取得
                 const itunesRes = await fetch(`https://itunes.apple.com/lookup?id=${id}&country=jp`);
                 const itunesData = await itunesRes.json();
+                if(!itunesData.results || itunesData.results.length === 0) throw new Error("番組が見つかりませんでした。");
+                
                 const feedUrl = itunesData.results[0].feedUrl;
                 const artwork = itunesData.results[0].artworkUrl100;
 
-                // 2. 複数の無料中継サーバー（Proxies）をリストアップ
                 const proxies = [
-                    `https://api.allorigins.win/raw?url=${encodeURIComponent(feedUrl)}`, // 第1候補
-                    `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrl)}`, // 第2候補
-                    `https://corsproxy.io/?${encodeURIComponent(feedUrl)}` // 第3候補
+                    `https://api.allorigins.win/raw?url=${encodeURIComponent(feedUrl)}`,
+                    `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrl)}`,
+                    `https://corsproxy.io/?${encodeURIComponent(feedUrl)}`
                 ];
 
                 let xmlText = "";
-
-                // 3. 生きているサーバーが見つかるまで順番にアタック（フェイルオーバー）
                 for (let i = 0; i < proxies.length; i++) {
-                    proxyStatus.innerText = `サーバー ${i+1}/${proxies.length} に接続中...`;
+                    proxyStatus.innerText = `通信ルート ${i+1}/${proxies.length} を確認中...`;
                     try {
                         const res = await fetch(proxies[i]);
                         const text = await res.text();
-                        
-                        // "Oops..." のようなエラー文字ではなく、ちゃんとRSSのデータが返ってきているかチェック
                         if (text.includes('<rss') || text.includes('<feed')) {
                             xmlText = text;
-                            break; // 成功したらループを抜ける
+                            break;
                         }
                     } catch (e) {
                         console.warn(`Proxy ${i+1} failed.`);
                     }
                 }
 
-                // 全滅した場合のエラー処理
-                if (!xmlText) throw new Error("全ての中継サーバーが混雑しています。数分後にもう一度試してください。");
+                if (!xmlText) throw new Error("いま、インターネットが混み合っているみたいです。あとでもう一度試してね。");
 
-                // 4. 無事に取得できたXMLをブラウザで解析
-                proxyStatus.innerText = "データを解析中...";
+                proxyStatus.innerText = "ニュースを整理しています...";
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(xmlText, "text/xml");
                 const items = xmlDoc.querySelectorAll("item");
 
-                // 50件取得
-                allEpisodes = Array.from(items).slice(0, 50).map(item => {
+                allEpisodes = Array.from(items).slice(0, 30).map(item => {
                     const title = item.querySelector("title")?.textContent || "タイトルなし";
                     const pubDateStr = item.querySelector("pubDate")?.textContent;
                     const date = pubDateStr ? new Date(pubDateStr).toLocaleDateString('ja-JP') : "";
                     const audio = item.querySelector("enclosure")?.getAttribute("url") || "";
-                    const descRaw = item.querySelector("description")?.textContent || "";
-                    const desc = descRaw.replace(/<[^>]*>?/gm, '').slice(0, 150);
+                    let desc = item.querySelector("description")?.textContent || "（ニュースの文章がありません）";
+                    desc = desc.replace(/<[^>]*>?/gm, '').trim(); 
                     const epId = item.querySelector("guid")?.textContent || title;
 
                     return { id: epId, title, date, audio, image: artwork, desc };
@@ -142,10 +155,10 @@
             } catch (e) {
                 loading.classList.add('hidden');
                 content.innerHTML = `
-                    <div class="bg-red-50 border border-red-200 p-6 rounded-2xl text-center">
-                        <strong class="text-red-600 text-sm">⚠️ 取得エラー</strong>
-                        <p class="text-red-400 text-xs mt-2">${e.message}</p>
-                        <button onclick="loadPodcast('${id}', document.querySelector('.active-tab'))" class="mt-4 px-4 py-2 bg-white border border-red-200 text-red-500 rounded-xl text-xs font-bold hover:bg-red-50 transition-all">再読み込み</button>
+                    <div class="bg-red-50 border-2 border-red-200 p-8 rounded-3xl text-center">
+                        <strong class="text-red-600 text-lg font-black">⚠️ エラーがおきました</strong>
+                        <p class="text-red-500 font-bold mt-2">${e.message}</p>
+                        <button onclick="loadPodcast('${id}', document.querySelector('.active-tab'))" class="mt-6 px-6 py-3 bg-white border-2 border-red-200 text-red-500 rounded-2xl font-bold hover:bg-red-50 transition-all">もう一度やってみる</button>
                     </div>`;
             }
         }
@@ -158,38 +171,44 @@
             );
 
             if (filtered.length === 0) {
-                content.innerHTML = `<p class="text-center text-gray-400 py-20 font-bold">一致するニュースはありません 🕵️‍♂️</p>`;
+                content.innerHTML = `<p class="text-center text-gray-500 py-20 font-bold text-lg">ニュースが見つかりません 🕵️‍♂️</p>`;
                 return;
             }
 
             content.innerHTML = filtered.map(ep => {
                 let displayTitle = ep.title;
+                let displayDesc = ep.desc;
+                
                 if (currentSearch) {
                     const reg = new RegExp(`(${currentSearch})`, "gi");
                     displayTitle = ep.title.replace(reg, '<span class="highlight">$1</span>');
+                    displayDesc = ep.desc.replace(reg, '<span class="highlight">$1</span>');
                 }
 
+                const isListened = localStorage.getItem(`listened_${ep.id}`) === 'true';
+
                 return `
-                <div class="episode-row bg-white p-4 rounded-[1.5rem] border border-gray-100 flex flex-col md:flex-row gap-4 items-center transition-all shadow-sm">
-                    <div class="flex items-center gap-4 w-full md:w-auto">
-                        <img src="${ep.image}" class="w-16 h-16 rounded-xl shadow-sm object-cover">
-                        <div class="md:hidden flex-1">
-                             <p class="text-[10px] text-indigo-500 font-black mb-1 uppercase">${ep.date}</p>
-                             <h3 class="text-sm font-bold text-gray-800 leading-tight">${displayTitle}</h3>
+                <div class="episode-row bg-white p-6 rounded-3xl border-2 border-gray-100 transition-all shadow-sm ${isListened ? 'listened' : ''}" id="card-${ep.id}">
+                    <div class="flex flex-col md:flex-row gap-5 items-start md:items-center">
+                        <img src="${ep.image}" class="w-16 h-16 rounded-2xl shadow-sm object-cover border-2 border-gray-50 hidden md:block">
+                        <div class="flex-1 w-full">
+                            <div class="mb-2">
+                                <span class="text-xs text-green-600 font-bold mr-2 bg-green-50 border border-green-100 px-3 py-1 rounded-lg">${ep.date}</span>
+                                <h3 class="text-lg font-bold text-gray-800 inline leading-relaxed">${displayTitle}</h3>
+                            </div>
+                            <audio src="${ep.audio}" controls class="w-full h-10 mt-2 rounded-full border-2 border-gray-100" onplay="markAsListened('${ep.id}')"></audio>
                         </div>
                     </div>
-
-                    <div class="flex-1 w-full">
-                        <div class="hidden md:block mb-1">
-                             <span class="text-[10px] text-indigo-400 font-bold mr-2 bg-indigo-50 px-2 py-1 rounded-md">${ep.date}</span>
-                             <h3 class="text-sm font-bold text-gray-800 inline leading-relaxed">${displayTitle}</h3>
+                    <div class="mt-4 bg-[#fffbeb] border-2 border-[#fef08a] rounded-2xl p-4">
+                        <p class="text-xs text-orange-600 font-bold mb-2 flex items-center gap-1"><span>📖</span> ニュースのあらすじ</p>
+                        <div class="reading-area max-h-32 overflow-y-auto text-gray-700 text-sm leading-relaxed font-medium select-text">
+                            ${displayDesc}
                         </div>
-                        <audio src="${ep.audio}" controls class="w-full h-8 mt-2 opacity-90 hover:opacity-100 transition-opacity"></audio>
                     </div>
-
-                    <div class="flex gap-2 w-full md:w-auto mt-2 md:mt-0">
-                        <button onclick="lookupSelection()" class="flex-1 md:flex-none px-5 py-2.5 bg-indigo-50 text-indigo-600 rounded-xl text-[11px] font-bold hover:bg-indigo-100 transition-colors">🔍 調べる</button>
-                        <button onclick="addMemo('${ep.id}')" class="flex-1 md:flex-none px-5 py-2.5 bg-gray-50 text-gray-600 rounded-xl text-[11px] font-bold hover:bg-gray-100 transition-colors">📝 メモ</button>
+                    <div class="mt-4 flex justify-end">
+                        <button onclick="lookupSelection()" class="w-full md:w-auto px-8 py-3 bg-blue-500 text-white border border-blue-600 rounded-xl text-sm font-black hover:bg-blue-600 transition-colors shadow-md flex justify-center items-center gap-2">
+                            🔍 なぞった言葉を調べる
+                        </button>
                     </div>
                 </div>`;
             }).join('');
@@ -200,28 +219,69 @@
             render();
         });
 
-        function lookupSelection() {
+        async function lookupSelection() {
             const sel = window.getSelection().toString().trim();
-            if (!sel) { alert("調べたい言葉をマウスで選択（ハイライト）してからボタンを押してください！"); return; }
+            if (!sel) { 
+                alert("調べたい言葉が選ばれていません！\n黄色の「ニュースのあらすじ」の中から、わからない言葉をマウスでなぞって（青くして）からボタンを押してね。"); 
+                return; 
+            }
             
             const popup = document.getElementById('dict-popup');
+            const overlay = document.getElementById('popup-overlay');
+            const resultDiv = document.getElementById('dict-result');
+            
             popup.style.display = 'block';
-            document.getElementById('dict-result').innerHTML = `
-                <p class="text-lg font-black text-gray-800 mb-4 border-l-4 border-indigo-500 pl-3">${sel}</p>
-                <div class="space-y-2">
-                    <a href="https://kotobank.jp/word/${encodeURIComponent(sel)}" target="_blank" class="block p-3 bg-gray-50 rounded-xl text-xs font-bold hover:bg-indigo-50 transition-all border border-transparent hover:border-indigo-100 text-gray-700">📚 コトバンクで意味を確認</a>
-                    <a href="https://www.google.com/search?q=${encodeURIComponent(sel)}+とは+わかりやすく" target="_blank" class="block p-3 bg-gray-50 rounded-xl text-xs font-bold hover:bg-indigo-50 transition-all border border-transparent hover:border-indigo-100 text-gray-700">🔍 Googleで易しい解説を探す</a>
+            overlay.style.display = 'block';
+            
+            resultDiv.innerHTML = `
+                <p class="text-2xl font-black text-gray-800 mb-4 border-l-8 border-green-500 pl-3 bg-gray-50 py-2 rounded-r-xl">${sel}</p>
+                <div class="text-center py-6">
+                    <div class="animate-spin w-8 h-8 border-4 border-green-500 border-t-transparent rounded-full mx-auto mb-2"></div>
+                    <p class="text-green-600 font-bold text-sm">意味をさがしています...</p>
                 </div>
             `;
+
+            try {
+                const apiUrl = `https://ja.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&origin=*&titles=${encodeURIComponent(sel)}`;
+                const response = await fetch(apiUrl);
+                const data = await response.json();
+                
+                const pages = data.query.pages;
+                const pageId = Object.keys(pages)[0];
+
+                if (pageId === "-1" || !pages[pageId].extract) {
+                    resultDiv.innerHTML = `
+                        <p class="text-2xl font-black text-gray-800 mb-4 border-l-8 border-green-500 pl-3 bg-gray-50 py-2 rounded-r-xl">${sel}</p>
+                        <div class="bg-orange-50 border-2 border-orange-200 p-4 rounded-xl text-center">
+                            <p class="text-orange-700 font-bold">うーん、この言葉のくわしい説明が見つかりませんでした🤔</p>
+                            <p class="text-sm text-orange-600 mt-2">もう少し短く言葉を選び直すか、先生やおうちの人に聞いてみよう！</p>
+                        </div>
+                    `;
+                } else {
+                    const extract = pages[pageId].extract;
+                    const cleanText = extract.replace(/\n/g, '<br><br>');
+                    
+                    resultDiv.innerHTML = `
+                        <p class="text-2xl font-black text-gray-800 mb-4 border-l-8 border-green-500 pl-3 bg-gray-50 py-2 rounded-r-xl">${pages[pageId].title}</p>
+                        <div class="bg-blue-50 border-2 border-blue-100 p-4 rounded-xl text-sm leading-loose font-medium text-gray-800 shadow-inner">
+                            ${cleanText}
+                        </div>
+                        <p class="text-xs text-gray-400 text-right mt-3 font-bold">出典: Wikipedia</p>
+                    `;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<p class="text-red-500 font-bold">通信エラーがおきました。もう一度ためしてね。</p>`;
+            }
         }
 
-        function addMemo(id) {
-            const existing = localStorage.getItem(`memo_${id}`) || "";
-            const memo = prompt("学習メモを入力：\n(保存されたメモはブラウザ内に蓄積されます)", existing);
-            if (memo !== null) {
-                localStorage.setItem(`memo_${id}`, memo);
-                alert("保存しました。");
-            }
+        function closePopup() {
+            document.getElementById('dict-popup').style.display = 'none';
+            document.getElementById('popup-overlay').style.display = 'none';
+        }
+
+        function markAsListened(id) {
+            localStorage.setItem(`listened_${id}`, 'true');
+            document.getElementById(`card-${id}`).classList.add('listened');
         }
 
         initApp();
