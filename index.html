@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NewsStation List View</title>
+    <title>NewsStation List View - Pro</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #f1f5f9; color: #1e293b; }
@@ -19,7 +19,7 @@
     <header class="sticky top-0 z-50 bg-white/90 backdrop-blur-xl border-b border-gray-200">
         <div class="max-w-4xl mx-auto p-4">
             <div class="flex items-center justify-between mb-4">
-                <h1 class="text-xl font-black tracking-tighter text-gray-800">🎙️ NewsStation <span class="text-indigo-600">List</span></h1>
+                <h1 class="text-xl font-black tracking-tighter text-gray-800">🎙️ NewsStation <span class="text-indigo-600">Free</span></h1>
                 <div class="relative w-1/2 md:w-64">
                     <input type="text" id="searchInput" placeholder="タイトルや内容を検索..." 
                            class="w-full pl-10 pr-4 py-2 bg-gray-100 border-none rounded-2xl text-sm focus:ring-2 focus:ring-indigo-500 outline-none transition-all">
@@ -33,7 +33,7 @@
     <main class="max-w-4xl mx-auto px-4 mt-6">
         <div id="loading" class="hidden text-center py-20 text-gray-400">
             <div class="animate-spin w-8 h-8 border-4 border-indigo-500 border-t-transparent rounded-full mx-auto mb-4"></div>
-            <p id="loadingText">最新ニュースをリストアップ中...</p>
+            <p id="loadingText">最新ニュースを直接解析中...</p>
         </div>
         
         <div id="content" class="space-y-3"></div>
@@ -68,11 +68,11 @@
                     if (idx === 0) loadPodcast(pod.id, btn);
                 });
             } catch (e) { 
-                document.getElementById('content').innerHTML = `<p class="text-center text-red-500 py-10">設定ファイルエラー: ${e.message}</p>`; 
+                document.getElementById('content').innerHTML = `<p class="text-center text-red-500 py-10">設定エラー: ${e.message}</p>`; 
             }
         }
 
-        // 2. データ取得 (エラー対策・キャッシュ回避強化)
+        // 2. データ取得 (完全無料・制限なしの独自パース方式)
         async function loadPodcast(id, btn) {
             document.querySelectorAll('#tabs button').forEach(b => b.classList.remove('active-tab'));
             btn.classList.add('active-tab');
@@ -86,26 +86,41 @@
                 // Step 1: iTunesから番組URLを取得
                 const itunesRes = await fetch(`https://itunes.apple.com/lookup?id=${id}&country=jp`).catch(() => { throw new Error("iTunesへの接続がブロックされました") });
                 const itunesData = await itunesRes.json();
-                if (!itunesData.results || itunesData.results.length === 0) throw new Error("iTunesに番組データがありません");
+                if (!itunesData.results || itunesData.results.length === 0) throw new Error("番組データがありません");
+                
                 const feedUrl = itunesData.results[0].feedUrl;
+                const artwork = itunesData.results[0].artworkUrl100;
 
-                // Step 2: RSSをJSONに変換（キャッシュ回避のため時間パラメータを付与）
-                const rssApiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}&count=30&nocache=${Date.now()}`;
-                const rssRes = await fetch(rssApiUrl);
-                const data = await rssRes.json();
+                // Step 2: AllOrigins(無料中継器)経由で生のRSSデータを取得し、ブラウザで解析する
+                const proxyUrl = `https://api.allorigins.win/get?disableCache=true&url=${encodeURIComponent(feedUrl)}`;
+                const rssRes = await fetch(proxyUrl);
+                const proxyData = await rssRes.json();
 
-                // 変換サービス側でエラーが起きていないかチェック
-                if (data.status !== 'ok') throw new Error(`変換サービスエラー: ${data.message}`);
-                if (!data.items) throw new Error("エピソードが見つかりません");
+                // ブラウザの標準機能(DOMParser)でXMLを解析
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(proxyData.contents, "text/xml");
+                const items = xmlDoc.querySelectorAll("item");
 
-                allEpisodes = data.items.map(item => ({
-                    id: item.guid || item.link,
-                    title: item.title,
-                    date: new Date(item.pubDate).toLocaleDateString('ja-JP'),
-                    audio: item.enclosure ? item.enclosure.link : '',
-                    image: data.feed.image || itunesData.results[0].artworkUrl100,
-                    desc: (item.description || '').replace(/<[^>]*>?/gm, '').slice(0, 150)
-                }));
+                if (items.length === 0) throw new Error("エピソードが見つかりません");
+
+                // 最大50件まで取得（制限はないので自由に増やせます）
+                allEpisodes = Array.from(items).slice(0, 50).map(item => {
+                    const title = item.querySelector("title")?.textContent || "タイトルなし";
+                    const pubDateStr = item.querySelector("pubDate")?.textContent;
+                    const date = pubDateStr ? new Date(pubDateStr).toLocaleDateString('ja-JP') : "";
+                    
+                    const enclosure = item.querySelector("enclosure");
+                    const audio = enclosure ? enclosure.getAttribute("url") : "";
+                    
+                    const descRaw = item.querySelector("description")?.textContent || "";
+                    const desc = descRaw.replace(/<[^>]*>?/gm, '').slice(0, 150);
+                    
+                    const guid = item.querySelector("guid")?.textContent;
+                    const link = item.querySelector("link")?.textContent;
+                    const epId = guid || link || title;
+
+                    return { id: epId, title, date, audio, image: artwork, desc };
+                });
 
                 loading.classList.add('hidden');
                 render();
