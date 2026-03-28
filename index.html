@@ -190,7 +190,9 @@
         async function fetchBackgroundUpdates() {
             try {
                 // GitHub Actionsが作ってくれた news.json を読み込むだけ
-                const res = await fetch('./news.json');
+                // ?t=... をつけることで、ブラウザに「これは毎回違う新しいファイルだよ！」と錯覚させます
+                const res = await fetch('./news.json?t=' + new Date().getTime(), { cache: 'no-store' });
+
                 if (!res.ok) throw new Error("news.jsonがまだありません");
                 const fetchedEpisodes = await res.json();
 
