@@ -6,7 +6,7 @@ async function fetchNews() {
     // podcasts.jsonを読み込む
     const podcasts = JSON.parse(fs.readFileSync('./podcasts.json', 'utf8'));
     let allEpisodes = [];
-    const TWO_WEEKS_MS = 14 * 24 * 60 * 60 * 1000;
+    const TWO_WEEKS_MS = 365 * 24 * 60 * 60 * 1000;
     const cutoff = Date.now() - TWO_WEEKS_MS;
 
     for (const pod of podcasts) {
