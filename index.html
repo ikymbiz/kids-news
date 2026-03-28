@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NewsStation List View - Pro</title>
+    <title>NewsStation List View - Stable</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #f1f5f9; color: #1e293b; }
@@ -72,7 +72,7 @@
             }
         }
 
-        // 2. データ取得 (完全無料・制限なしの独自パース方式)
+        // 2. データ取得 (プロキシサーバーを安定版に変更)
         async function loadPodcast(id, btn) {
             document.querySelectorAll('#tabs button').forEach(b => b.classList.remove('active-tab'));
             btn.classList.add('active-tab');
@@ -91,19 +91,20 @@
                 const feedUrl = itunesData.results[0].feedUrl;
                 const artwork = itunesData.results[0].artworkUrl100;
 
-                // Step 2: AllOrigins(無料中継器)経由で生のRSSデータを取得し、ブラウザで解析する
-                const proxyUrl = `https://api.allorigins.win/get?disableCache=true&url=${encodeURIComponent(feedUrl)}`;
+                // Step 2: 安定性の高い別の無料中継器(CodeTabs)に変更し、直接XMLを取得
+                const proxyUrl = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrl)}`;
                 const rssRes = await fetch(proxyUrl);
-                const proxyData = await rssRes.json();
+                if (!rssRes.ok) throw new Error(`ニュースデータの取得に失敗しました (Status: ${rssRes.status})`);
+                const xmlText = await rssRes.text();
 
                 // ブラウザの標準機能(DOMParser)でXMLを解析
                 const parser = new DOMParser();
-                const xmlDoc = parser.parseFromString(proxyData.contents, "text/xml");
+                const xmlDoc = parser.parseFromString(xmlText, "text/xml");
                 const items = xmlDoc.querySelectorAll("item");
 
-                if (items.length === 0) throw new Error("エピソードが見つかりません");
+                if (items.length === 0) throw new Error("エピソードが見つかりません。XML形式が想定と異なる可能性があります。");
 
-                // 最大50件まで取得（制限はないので自由に増やせます）
+                // 最大50件まで取得
                 allEpisodes = Array.from(items).slice(0, 50).map(item => {
                     const title = item.querySelector("title")?.textContent || "タイトルなし";
                     const pubDateStr = item.querySelector("pubDate")?.textContent;
@@ -125,6 +126,7 @@
                 loading.classList.add('hidden');
                 render();
             } catch (e) {
+                console.error("Fetch Error:", e);
                 loading.classList.add('hidden');
                 content.innerHTML = `
                     <div class="bg-red-50 border border-red-200 p-6 rounded-2xl text-center">
