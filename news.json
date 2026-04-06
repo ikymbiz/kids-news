@@ -1,5 +1,25 @@
 [
   {
+    "id": "7f2ff23a-3f17-4271-8bf4-1feb94968ef8",
+    "podcastName": "Sakura English",
+    "title": "🔰 やさしい瞬間英作文〜直訳つき【378】",
+    "date": "2026/4/6",
+    "timestamp": 1775466799000,
+    "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/226c1bfdc54c3e144200cbf4ed06871b.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
+    "desc": "【Sakura Englishの新刊・予約受付中！】\n「ネイティブみたい」じゃなくていい！80パターンで すごい英会話\n\n\n👇Amazon\nhttps://amzn.to/414zCdu\n👇楽天\nhttps://books.rakuten.co.jp/rb/18563597/"
+  },
+  {
+    "id": "e02ba911-7263-4a87-a812-21209f6932c2",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "ハワイで何が美味かった？",
+    "date": "2026/4/6",
+    "timestamp": 1775462400000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/117930333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-3%2F06bc0679-ec47-926a-11cc-8b2ea5884471.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "ポキボウルがこんなに人気だとは思わなかった【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "5ccaa2ea-30f5-11f1-907d-4f76635a1ea4",
     "podcastName": "ながら日経",
     "title": "4月6日（月）三菱ふそうと鴻海 日台連合で大型EVバスを輸出、イランで撃墜の米軍機 乗員の残る1人を救出",
@@ -18,6 +38,16 @@
     "audio": "https://sphinx.acast.com/p/open/s/65a19d6398c1070016f3e0f8/e/69d01f388123638c299540bd/media.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/32/01/fb/3201fb9f-c284-8273-6832-0aed6b7a4d28/mza_6432996578399273752.jpg/100x100bb.jpg",
     "desc": "スキマ時間に気軽に楽しめるHapa Intro Clip。今回は、春の訪れを祝うイベント「Easter（イースター）」についてご紹介します。イースターバニーやエッグハントなどの楽しい習慣やその背景、アメリカの家庭での過ごし方を、子どもの頃の思い出を交えながらわかりやすく解説します。アメリカ文化を身近に感じたい方、季節のイベントについて英語で話せるようになりたい方におすすめのエピソードです！ \n-\n\n\n【AIコーチと学ぶ英語｜Hapa School春学期スタート】\nこの春、Hapa Schoolが新しく生まれ変わります。テーマは「AIコーチと伸ばす、日本の魅力を英語で伝える力」。アウトプット中心の学習に加え、AIと人間の両方から毎日フィードバックを受けられるハイブリッド型の学習環境で、リアルなコミュニケーションと組み合わせながら“話せる英語力”を実践的に伸ばしていきます。英語で自分の考えをしっかり伝えたい方、学び方を次のレベルに引き上げたい方にぴったりのプログラムです。4月11日スタート、詳細はHapa英会話の公式サイトでご覧いただけます。詳細：https://hapaeikaiwa.com/school/\n-\n-\n\n\n【Hapa Buddiesに無料プランが新登場！】\nHapa英会話オンラインコミュニティ「Hapa Buddies」に、【無料プラン】が新たに追加されました！\n🎬 毎日の短い動画\n✏️ 1日1文ライティング\n💬 ディスカッション\n💡 無料イベント\n\nBuddiesと一緒にあなたも話せる英語を身に付けませんか？ hapaeikaiwa.com/buddies/\n・\n・\n\n\n【Podcast Plusで学びを深めよう！】\nHapa英会話Podcastをもっと楽しみたい方は、Podcast Plusで一歩先の学びを！\n📘 全エピソードの和訳付きスクリプト\n🎧 クリックひとつで再生できる英語音声機能\n🎬 Live Conversationの収録風景\n💬Junに気軽に質問OK！\n\nスマホやパソコンから、いつでもどこでも学習可能。 初月無料でお試しいただけますので、興味をお持ちの方はぜひ一度お試しください！\nhttps://www.hapaeikaiwa-shop.net/products/detail.php?product_id=408\n\n Hosted on Acast. See acast.com/privacy for more information."
+  },
+  {
+    "id": "996f4d33-8186-4bd7-88cb-97c65acb4566",
+    "podcastName": "歴史を面白く学ぶコテンラジオ (COTEN RADIO)",
+    "title": "【64-6】“戦い”から“対話”へ！幕臣 勝海舟との対峙 〜命懸けの和平交渉〜【COTEN RADIO 西郷隆盛編6】",
+    "date": "2026/4/5",
+    "timestamp": 1775422800000,
+    "audio": "https://anchor.fm/s/8c2088c/podcast/play/114618315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-27%2Fe98a1420-93a8-55cc-3c05-2a4f1572d3fe.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e3/bd/be/e3bdbe9a-ebe1-03be-2fd2-658c5e64825a/mza_10324805544078569436.jpg/100x100bb.jpg",
+    "desc": "高杉晋作回へのSpotifyリンクはこちら\n:::::::::::::::::: 今回のお話 ::::::::::::::::::\n将軍権力で打倒長州／勝海舟の視座の高さ／再度歯向かう長州、まとまらない幕府／手を結ぶ薩摩と長州／中岡慎太郎、坂本龍馬の活躍／二度目は不参加 薩摩の思惑／将軍家茂の急逝、長州征伐の終わり\n※番組内で紹介する歴史の内容には諸説あります。\n :::::::::::::::::: 参考文献 ::::::::::::::::::\n 参考文献は、⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠\t\n :::::::::::::: COTEN CREW 募集中 ::::::::::::::\n コテンラジオや世界史データベースなど、COTENの活動はCOTEN CREWのみなさんの応援によって成り立っています。 月額サポートで、いっしょに人文知を社会に活かす仲間になりませんか？\n ▶︎ ⁠⁠⁠⁠⁠⁠COTEN CREWに参加する⁠⁠⁠⁠⁠⁠\t\n :::::::::::::::::: クレジット ::::::::::::::::::\n\n\n出演：深井龍之介／⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠／⁠⁠⁠⁠⁠⁠樋口聖典⁠⁠⁠⁠⁠⁠\n台本制作：深井龍之介／⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠／西谷剛史／橋本雅也\n書籍提供：⁠⁠⁠⁠⁠⁠株式会社バリューブックス⁠⁠⁠⁠⁠⁠\n収録スタジオ：⁠⁠⁠⁠⁠⁠ACRO.POLIS⁠⁠⁠⁠⁠⁠\n録音エンジニア：山口裕大\n音声編集：⁠⁠⁠⁠⁠⁠株式会社FUBI⁠⁠⁠⁠⁠⁠\nタイトル作成：⁠⁠⁠⁠⁠⁠政光真吾⁠⁠⁠⁠⁠⁠\nYouTubeサムネイル：⁠⁠⁠⁠⁠⁠やましょー⁠⁠⁠⁠⁠⁠\nYouTubeアニメーション（ドット絵）：⁠⁠⁠⁠⁠⁠庭月野議啓⁠⁠⁠⁠⁠⁠\nPodcastサムネイル：⁠⁠⁠⁠⁠⁠高野菜々子⁠⁠⁠⁠⁠⁠\n制作管理：⁠⁠⁠⁠⁠⁠内山千咲⁠⁠⁠⁠⁠⁠\n\n\n :::::::::::::: COTENについて ::::::::::::::\n 公式サイト：⁠⁠⁠⁠⁠⁠https://coten.co.jp/⁠⁠⁠⁠⁠⁠ 公式X（旧Twitter）：⁠⁠⁠⁠⁠⁠@CotenInc⁠⁠⁠⁠⁠⁠  採用情報：⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠\n\n\n  ::::: ご意見・ご感想・お問い合わせはこちらから :::::\n  ご感想・ご意見・お問い合わせは、お気軽にチャットでお送りください。  ▶︎ ⁠⁠⁠⁠⁠⁠お問い合わせ⁠⁠⁠"
   },
   {
     "id": "8114c22b-30a2-433f-91e1-1461270a2998",
@@ -750,16 +780,6 @@
     "desc": "今回のテーマは、「血液のはたらき」と「人のからだのつくり」です。\n自分の脈拍を感じ取ることはできるのか、血液の通り道、臓器についてあれこれおしゃべりしました。\n--\n★目次 \n(01:14)　脈拍が見つからない   \n(06:02)　聴診器の扱いは慎重に    \n(08:05)　静寂の15秒    \n(10:44)　血液は1分間で全身を回る    \n(13:02)　献血量は給食の牛乳パック2個分の衝撃    \n(15:00)　血液版物流システム    \n(21:56)　床屋さんと手術    \n(25:04)　できれば内科的な治療で済ませたい    \n(29:45)　アフタートーク\n\n\n-\n★参考    \nサイエントーク    \n232.人間vs痛みの戦い！ 麻酔と鎮痛薬はどう誕生したのか？    \nhttps://open.spotify.com/episode/7pMO9ebjKjhVeiqsWKoP3W\n\n\n-\n★パーソナリティー    \n木月里美（武蔵野市立小学校 主任教諭）    \n 辻　 健 （筑波大学附属小学校 教諭）    \n森田雄介（東京書籍 理科編集部）\n\n\n-\n★教科書『新編 新しい理科』のご案内    \nhttps://ten.tokyo-shoseki.co.jp/text/shou/rika/\n\n\n-\n★おたよりフォーム    \n・感想やお悩み相談、「理科川柳」はこちらから！    \n　https://forms.gle/EqdeyxDS9BLnyApm8\n\n\n=\n企画協力／音響,SE製作：株式会社 雑談     \n制作：東京書籍 株式会社\n="
   },
   {
-    "id": "c8a0eb14-efc2-40aa-b1a5-25a523e6890e",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "やまは小学生の時にハリーポッターの本を読んでいた",
-    "date": "2026/3/18",
-    "timestamp": 1773820800000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/116676986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2Faaca86fb-ddaf-1877-294f-9a9a294a33a8.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "俺グラセフやってる場合じゃなかったわ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
     "id": "0ee8f82f-2728-4d84-89b0-46441b92907e",
     "podcastName": "Kids News",
     "title": "【3月18日】戦争（せんそう）ってなに？",
@@ -768,15 +788,5 @@
     "audio": "https://anchor.fm/s/10afb9540/podcast/play/116674091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F91d81391-0c0e-b3e9-52cd-39aba1e01222.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
     "desc": "▶︎イベントのお知らせ\n『Kids' News - キッズニュース』初のオンラインイベントを開催します。\n日時：3月27日（金）19:00〜20:00／オンライン開催\n︎お申し込み先はこちら：https://peatix.com/event/4887281/\n︎詳細はこちら：https://note.com/rinaarailevia/n/ncc30a77796fb\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】\nなぜ日本にほんは戦争せんそうをしたの？https://nagasakipeace.jp/reference/materials/kids/commentary/senso.html\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
-  },
-  {
-    "id": "daihonnashi.podbean.com/bf72c40b-08c5-300b-99bc-312e55eafd1c",
-    "podcastName": "台本なし英会話レッスン",
-    "title": "イラン戦争は終わるの？アメリカ人に聞いてみた",
-    "date": "2026/3/17",
-    "timestamp": 1773742752000,
-    "audio": "https://mcdn.podbean.com/mf/web/3kuawdmcapgcbjqm/6ahwb.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/05/a9/29/05a92940-6481-f638-a5a4-754af9650e6d/mza_16045631423465565.jpg/100x100bb.jpg",
-    "desc": "【前回の続き】戦争と平和について英語ディスカッションしました。話は繋がっているので前回EPもお聞きください🕊️\n\n3年制作してきた「語彙強化本」の詳細発表🥹\n→ 想いよ届け\n \n\n簡単な英単語に言い換えるための練習法\n→ スピーキング練習\n\n\n【英語のそーた SNS】\n\n\n☆Instagram → フォロー \n\n\n☆X  → フォロー\n\n\n☆Threads → フォロー\n\n☆YouTube → チャンネル登録\n \n【そーたが制作した学習本】\n\n\n\n📗英語脳を鍛えるスピーキング本\n「いま知ってる単語だけで英語が話せる思考スイッチの法則15」\n\n\n→ 読んでみる\n→ 読んでみる\n \n※初著書です！体得をしていただければ必ず発音に変化が出ますので！何周もしたり、色んな英文に当てはめたりして反復をしてくださいね。気持ちを込めて作ったので皆さんのお役に立てますよう心から願っています。「作品作り」が夢だったので、２年間の制作は大変ではありつつも良い経験をさせていただきました。長く愛していただける作品になりますように...全国の書店にもあります！\n　\n📗アニメーション映画で学ぶ英語\n\n\n\nサマーウォーズ\n→ 読んでみる\n読んでみる\n \n細田守監督作品とのコラボ🎬ストーリーを英語で読みながら、日本語原作の作品が英語に「どう翻訳されているのか」をテーマに作ってみました📗翻訳や言葉の奥深さを楽しんでいただけたら嬉しいです！\n \n \n📗ディズニー映画で身につく そのまま使える英会話フレーズ\n \n→ 読んでみる\n \n発音本と同様に数年かけて作り上げた作品です🙏ただの英会話フレーズ本ではなく「どうすれば頭に英単語が残りやすくなるか」をコンセプトに制作しました✍️大のディズニー好きとして想いを込めて作らせて頂きました。また、英語学習者の方のお悩みをどうディズニーコンテンツで解決できるかを考え抜き、斬新で新しい作品になるよう尽力しました。気持ちが伝われば幸いです。\n \n\n【台本なし英会話専用インスタ】\n単語リストはこちらに載せています♪\n単語リストを見る\n \n台本なし英会話 Twitter\n\n→ 更新のお知らせ\n \n【Reillyのインスタグラム】\n→ フォロー"
   }
 ]
