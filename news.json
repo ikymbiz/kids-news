@@ -1,5 +1,25 @@
 [
   {
+    "id": "2623d8da-31c0-11f1-a7b1-b3646423ddcb",
+    "podcastName": "ながら日経",
+    "title": "4月7日（火）企業の外国人転勤者 来日前の勤務証明必要に、三井住友FGと日本生命 買収融資ファンド検討",
+    "date": "2026/4/6",
+    "timestamp": 1775511000000,
+    "audio": "https://traffic.megaphone.fm/NRBC4669284874.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "desc": "■火曜パーソナリティ：寺島啓太\n\n\n\nフリーアナウンサー（元四国放送・文化放送）\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
+  },
+  {
+    "id": "95bfc967-c9fd-4bb3-a6a1-3557a04f9a2a",
+    "podcastName": "News Connect",
+    "title": "【4月7日】トランプ大統領のNATO脱退発言を受け、NATO事務総長が訪米へ",
+    "date": "2026/4/6",
+    "timestamp": 1775505600000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/118039775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-6%2Fd82ff4ac-1d04-e632-2475-7f8e7253746b.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n\n\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n\n\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）https://x.com/nmrtkfm⁠⁠⁠⁠⁠⁠⁠\n\n\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n\n\n▼参考ニュース：\nTrump interview: I am strongly considering pulling out of Nato\nhttps://www.telegraph.co.uk/world-news/2026/04/01/donald-trump-strongly-considering-pulling-us-out-of-nato/?recomm_id=20a3c221-7b26-44ec-8f48-3089688fc39e\nEuropean allies are losing hope of keeping America in NATO\nhttps://www.economist.com/europe/2026/04/05/european-allies-are-losing-hope-of-keeping-america-in-nato\nRutte meets Trump in face-to-face talks amid US NATO withdrawal threats\nhttps://www.eunews.it/en/2026/04/03/rutte-meets-trump-in-face-to-face-talks-amid-us-nato-withdrawal-threats/\n‘You have to be serious’: Macron criticises Trump’s mixed messages about Nato and Iran\nhttps://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran\nCan Trump Really Pull the US Out of NATO?\nhttps://www.bloomberg.com/news/articles/2026-04-01/can-trump-pull-the-us-out-of-nato\nBy the End of the Week, the Trump Administration’s War in Iran Will Likely Have Cost $25 Billion\nhttps://www.americanprogress.org/article/by-the-end-of-the-week-the-trump-administrations-war-in-iran-will-likely-have-cost-25-billion/\nWhat Does the Iran War Cost?\nhttps://ips-dc.org/how-much-is-the-war-in-iran-costing-american-taxpayers/\nNATO Is Marking Its Seventy-Seventh Anniversary. Will It Be Its Last? \nhttps://www.cfr.org/articles/nato-is-marking-its-seventy-seventh-anniversary-will-it-be-its-last\n\n\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/"
+  },
+  {
     "id": "7f2ff23a-3f17-4271-8bf4-1feb94968ef8",
     "podcastName": "Sakura English",
     "title": "🔰 やさしい瞬間英作文〜直訳つき【378】",
@@ -560,16 +580,6 @@
     "desc": "何しに行ってるの？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "1f45c7c2-2783-11f1-af06-9760cd7b7f2c",
-    "podcastName": "ながら日経",
-    "title": "3月25日（水）G7首脳ら相次ぐ「高市詣で」米中との距離腐心、新興の社債発行を後押し「低格付け債」発行しやすく",
-    "date": "2026/3/24",
-    "timestamp": 1774387800000,
-    "audio": "https://traffic.megaphone.fm/NRBC7295893352.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
-    "desc": "【PR】\n\n日経電子版から、お得なキャンペーンのご案内です。\n\n\n\n技術革新が加速する今、新聞も進化を続けています。\n\n日々ニュースを追いかける1500人の記者の情報を、アプリで素早く表示したり、AIで理解を深めたりできる。\n\n日経を「読む」から「使う」へ。新しいニュース体験をあなたに。\n\n\n\n日経電子版は、今なら２カ月無料キャンペーン実施中。\n\n更に、23歳以下の方ならお得な「U23割」や、家族で使える「ファミリープラン」もご用意しています。\n\n\n\n詳細は以下のリンクからご確認ください。\n\nhttps://www.nikkei.com/promotion/?n_cid=DSPRM1OTR0126haru_nagara\n\n\n\n■水曜パーソナリティ：藤井 みりか\n\nフリーアナウンサー/ナレーター。こども話し方教室の運営や、日本酒Podcast番組などを担当"
-  },
-  {
     "id": "69bda122508d39908b01a9f8",
     "podcastName": "Hapa英会話 Podcast",
     "title": "第586回インタビュー企画（矢部大輔）シャドーイング、本当に効果あるの？専門家に全部聞いてみた",
@@ -670,16 +680,6 @@
     "desc": "『Kids' News - キッズニュース』\n▶︎イベントのお知らせ\n『Kids' News - キッズニュース』初のオンラインイベントを開催します。\n日時：3月27日（金）19:00〜20:00／オンライン開催\n︎お申し込み先はこちら：https://peatix.com/event/4887281/\n︎詳細はこちら：https://note.com/rinaarailevia/n/ncc30a77796fb\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】\nインバウンドってなに？https://edu.web.nhk/school/watch/clip/?das_id=D0005311503_00000\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
   },
   {
-    "id": "2ba99ae0-3449-4937-9a32-ce997ad6dafd",
-    "podcastName": "News Connect",
-    "title": "【3月23日】イラン外相、日本船通過「認める用意」との報道。日本政府の反応は",
-    "date": "2026/3/22",
-    "timestamp": 1774209600000,
-    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/117299367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-22%2Fa5d61e4a-b35e-49cf-ee1a-eccb275a67af.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）https://x.com/nmrtkfm⁠⁠⁠⁠⁠⁠⁠\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n▼参考ニュース：\nTrump threatens to “hit and obliterate” Iran's power plants if Strait of Hormuz not opened in 48 hours\nhttps://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-21-26?post-id=cmn0zk4vh00003b6tmwbpvvey\nIran says it will allow Japanese ships to transit the Strait of Hormuz\nhttps://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz\nIran establishes ‘safe’ shipping corridor for approved and paid for transits\nhttps://www.lloydslist.com/LL1156656/Iran-establishes-safe-shipping-corridor-for-approved-and-paid-for-transits\nTrump's team game planning for potential Iran peace talks\nhttps://www.axios.com/2026/03/21/trump-peace-deal-iran-kushner-witkoff\n\n\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/"
-  },
-  {
     "id": "14a52f3d-4d92-4099-91ff-26824f44c552",
     "podcastName": "Kevin's English Room Podcast",
     "title": "ケビンのTikTokフィードが不健康過ぎる",
@@ -778,15 +778,5 @@
     "audio": "https://anchor.fm/s/f291afd0/podcast/play/117052270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2F469b6635-6f69-afa5-7cd7-2981e32b01fb.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/96/a6/4a96a6a7-e328-744f-f2d4-3fb045037166/mza_9168702762650049181.jpg/100x100bb.jpg",
     "desc": "今回のテーマは、「血液のはたらき」と「人のからだのつくり」です。\n自分の脈拍を感じ取ることはできるのか、血液の通り道、臓器についてあれこれおしゃべりしました。\n--\n★目次 \n(01:14)　脈拍が見つからない   \n(06:02)　聴診器の扱いは慎重に    \n(08:05)　静寂の15秒    \n(10:44)　血液は1分間で全身を回る    \n(13:02)　献血量は給食の牛乳パック2個分の衝撃    \n(15:00)　血液版物流システム    \n(21:56)　床屋さんと手術    \n(25:04)　できれば内科的な治療で済ませたい    \n(29:45)　アフタートーク\n\n\n-\n★参考    \nサイエントーク    \n232.人間vs痛みの戦い！ 麻酔と鎮痛薬はどう誕生したのか？    \nhttps://open.spotify.com/episode/7pMO9ebjKjhVeiqsWKoP3W\n\n\n-\n★パーソナリティー    \n木月里美（武蔵野市立小学校 主任教諭）    \n 辻　 健 （筑波大学附属小学校 教諭）    \n森田雄介（東京書籍 理科編集部）\n\n\n-\n★教科書『新編 新しい理科』のご案内    \nhttps://ten.tokyo-shoseki.co.jp/text/shou/rika/\n\n\n-\n★おたよりフォーム    \n・感想やお悩み相談、「理科川柳」はこちらから！    \n　https://forms.gle/EqdeyxDS9BLnyApm8\n\n\n=\n企画協力／音響,SE製作：株式会社 雑談     \n制作：東京書籍 株式会社\n="
-  },
-  {
-    "id": "0ee8f82f-2728-4d84-89b0-46441b92907e",
-    "podcastName": "Kids News",
-    "title": "【3月18日】戦争（せんそう）ってなに？",
-    "date": "2026/3/17",
-    "timestamp": 1773777600000,
-    "audio": "https://anchor.fm/s/10afb9540/podcast/play/116674091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F91d81391-0c0e-b3e9-52cd-39aba1e01222.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
-    "desc": "▶︎イベントのお知らせ\n『Kids' News - キッズニュース』初のオンラインイベントを開催します。\n日時：3月27日（金）19:00〜20:00／オンライン開催\n︎お申し込み先はこちら：https://peatix.com/event/4887281/\n︎詳細はこちら：https://note.com/rinaarailevia/n/ncc30a77796fb\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】\nなぜ日本にほんは戦争せんそうをしたの？https://nagasakipeace.jp/reference/materials/kids/commentary/senso.html\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
   }
 ]
