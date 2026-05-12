@@ -1,5 +1,25 @@
 [
   {
+    "id": "5fdb8931-2d91-4b2a-8502-f532e1736487",
+    "podcastName": "Sakura English",
+    "title": "書籍連動 | 80パターンで英語を話す。すごい英会話スピーキング",
+    "date": "2026/5/12",
+    "timestamp": 1778586940000,
+    "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/b57630dc64860e4475def5ec4df4d3a2.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
+    "desc": "【Sakura Englishの新刊連動ポッドキャスト】\n「ネイティブみたい」じゃなくていい！80パターンで すごい英会話\n👇Amazon\n⁠⁠⁠⁠⁠https://amzn.to/414zCdu⁠⁠⁠⁠⁠\n👇楽天\n⁠⁠⁠⁠⁠https://books.rakuten.co.jp/rb/18563597/"
+  },
+  {
+    "id": "f0360b88-a656-4af1-a437-7395d0672e77",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "人気歌手になるともう自分で曲を書かないってホント...？",
+    "date": "2026/5/12",
+    "timestamp": 1778572800000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/119508044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F46905c09-0fc3-8332-9330-bbca9d63a4f4.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "なんで１曲売れるとそれ以降の曲も売れるの？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "7d35a774-4d41-11f1-aad5-d7208ad4dad7",
     "podcastName": "ながら日経",
     "title": "5月12日（火）アジア系ファンドMBK 1300億円でアルミ大手買収、家計簿アプリのマネーフォワード 銀行連携の停止続く",
@@ -628,16 +648,6 @@
     "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/7d82156b62dc1f69714caf27343eb0f6.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
     "desc": "学校で習う構文ではない、生きた構文を学びましょう！\n 【Sakura Englishの新刊・予約受付中！】\n「ネイティブみたい」じゃなくていい！80パターンで すごい英会話\n👇Amazon\n⁠⁠⁠https://amzn.to/414zCdu⁠⁠⁠\n👇楽天\n⁠⁠⁠https://books.rakuten.co.jp/rb/18563597/"
-  },
-  {
-    "id": "bb48ff40-c8d8-4249-9711-bd63f164de32",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "You know…みたいな穴埋め言葉はどこまで多用してOK",
-    "date": "2026/4/27",
-    "timestamp": 1777276800000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/118644860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-18%2Fc0ff7ead-cdf9-44c7-5059-dc433c5697b9.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "使った方がこなれ感があるって聞いたんですが【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "69ebbf3c6166bfd45b031ed5",
