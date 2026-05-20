@@ -1,5 +1,25 @@
 [
   {
+    "id": "3b8541da-537d-11f1-9bf9-dbbb8b7490d9",
+    "podcastName": "ながら日経",
+    "title": "5月20日（水）自衛隊基地にペロブスカイト太陽電池 需要創出へ政府施設の活用拡大、インテル PCに最先端CPUの採用要請",
+    "date": "2026/5/19",
+    "timestamp": 1779226200000,
+    "audio": "https://traffic.megaphone.fm/NRBC8714214829.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "desc": "■水曜パーソナリティ：藤井 みりか\n\n\n\nフリーアナウンサー/ナレーター。こども話し方教室の運営や、日本酒Podcast番組などを担当"
+  },
+  {
+    "id": "f179c99a-4e4f-46d2-8761-f20d7ef07b5b",
+    "podcastName": "News Connect",
+    "title": "【5月20日】日本の長期金利が29年ぶりの高値。世界的な金利上昇傾向",
+    "date": "2026/5/19",
+    "timestamp": 1779220800000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/120223257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2Fa375cd1b-6e01-5899-9740-132a7290580a.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）\nhttps://x.com/nmrtkfm\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n▼参考ニュース：\n超長期金利最高、世界的債券売りー円・株とのトリプル安\nhttps://www.bloomberg.com/jp/news/articles/2026-05-18/TF7ED4T9NJLW00#gsc.tab=0\nJapan 30-Year Bond Yield Hits Record 4.17% as Inflation Fears Mount\nhttps://en.bloomingbit.io/feed/news/112310\n10-Year JGB Yield Hits New 29-Year High of 2.8 Pct\nhttps://www.nippon.com/en/news/yjj2026051800204/10-year-jgb-yield-hits-new-29-year-high-of-2-8-pct.html\nJapan's extra budget to include funding from fresh debt, source says\nhttps://www.reuters.com/world/asia-pacific/japans-extra-budget-include-funding-fresh-debt-source-says-2026-05-18/\nJapan’s Economy Accelerated in First Quarter, Backing Case for Rate Hikes\nhttps://www.wsj.com/economy/japans-economy-accelerated-in-first-quarter-backing-case-for-rate-hikes-2a7c5f55\n日本の金利上昇は「健全な証拠」　日銀、引き締め適切―ＩＭＦ高官\nhttps://www.jiji.com/jc/article?k=2026041401243&g=int\n\n\n\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/"
+  },
+  {
     "id": "7d390957-501a-44c8-a1a6-3efab820561d",
     "podcastName": "Sakura English",
     "title": "英語は語順〜海外ドラマ・映画〜英語リスニング【383】",
@@ -610,16 +630,6 @@
     "desc": "みんな納得したよな？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "8cd09492-4877-11f1-b283-e784a10b57d5",
-    "podcastName": "ながら日経",
-    "title": "5月6日（水）産総研がVCファンド設立へ AIや半導体 スタートアップを支援、みずほFG 法人口座を即日開設へ",
-    "date": "2026/5/5",
-    "timestamp": 1778016600000,
-    "audio": "https://traffic.megaphone.fm/NRBC2957122440.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
-    "desc": "■水曜パーソナリティ：藤井 みりか\n\n\n\nフリーアナウンサー/ナレーター。こども話し方教室の運営や、日本酒Podcast番組などを担当"
-  },
-  {
     "id": "447ffd18-d174-4a92-9964-aa6bc9d35ee8",
     "podcastName": "Kids News",
     "title": "【5月6日】こどもの日ってなに？",
@@ -690,16 +700,6 @@
     "desc": "『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n#キッズニュース\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】憲法記念日とは？由来や意味、日本国憲法の基礎知識を紹介https://skywardplus.jal.co.jp/plus_one/calendar/constitution_day/\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
   },
   {
-    "id": "b749dddf-5178-497e-8ebf-d61381643e2f",
-    "podcastName": "News Connect",
-    "title": "【ニュース小話 #214】UAEのOPEC脱退。日本にとってのチャンス到来？",
-    "date": "2026/5/2",
-    "timestamp": 1777755600000,
-    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/119372352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-2%2F3b81f990-af48-47e0-5fa1-043a71590fed.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。日曜は経営共創基盤 代表取締役CEOの塩野誠さんとともに、1週間のニュースを雑談も交えながら、振り返っていきます。\n▼新著『プロ目線のPodcastのつくり方』の購入は⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠から！\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://amzn.asia/d/61gIBJF⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n▼「news23」野村出演回\n⁠⁠⁠⁠⁠⁠https://youtu.be/A2giZkVi0RY?si=HeeoPK_A0qCPARR3⁠⁠⁠⁠⁠⁠\n▼塩野さんの新刊共著『はじめての地経学』⁠⁠⁠⁠⁠⁠⁠https://amzn.asia/d/0fV1uwG1⁠⁠⁠⁠⁠⁠\n▼Chronicleメンバー募集のお知らせ（正社員／業務委託／インターン）\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://note.com/t_nomura/n/n1594013cbbc4⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://x.com/nmrtkfm⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n塩野誠（経営共創基盤 代表取締役CEO）⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://x.com/makoto_tokyo⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n企業や政府機関にコンサルティングを行い、グローバルな企業投資の20年以上の経験を持つ。欧州VC NordicNinja を創業。地経学研究所ではテクノロジーと安全保障について研究。著書に『デジタルテクノロジーと国際政治の力学』など。ゴールドマン・サックス、ベイン&カンパニー等を経て現職。慶大法卒、ワシントン大学ロースクール法学修士\n▼News Connect 土曜版・日曜版 Spotifyプレイリストはこちら\n🟢土曜版\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/playlist/3MKhzjyNlx96n2Khmt35EK⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n🔴日曜版\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/playlist/2cAjmNYGXvSXCtPujQSNVb⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n▼Chronicle制作、4月スタートの新番組「GROWTH QUEST」はこちらからお聴きいただけます！\n🟢Spotify\nhttps://open.spotify.com/show/5ZnmTpZTRw3GKKdbdmqVzp\n🟣Apple Podcast\nhttps://podcasts.apple.com/jp/podcast/id1891595432\n🔵Amazon Music\nhttps://music.amazon.co.jp/podcasts/2bdc426c-02ee-44e3-be43-984c528230c8/\n▼Chronicle制作、4月スタートの新番組「共創前線」はこちらからお聴きいただけます！\n🟢Spotify\n⁠https://open.spotify.com/show/2YSEbgvmGCsvzGJVemKTtH⁠\n🟣Apple Podcast\n⁠https://podcasts.apple.com/us/podcast/id1893554854⁠\n🔴YouTube\n⁠https://www.youtube.com/playlist?list=PL33xL50DB6WaCjvUnNF6Qdrttj6vlSq7o⁠\n🔵Amazon Music\n⁠https://music.amazon.co.jp/podcasts/3c053a38-b9cc-4b3c-9732-7488a34fa7af/⁠\n▼Chronicle制作、4月スタートの新番組「PRの科学」はこちらからお聴きいただけます！\n🟢Spotify\nhttps://open.spotify.com/show/7L0bGaBqNYnb5vatxiSGhl\n🟣Apple Podcast\nhttps://podcasts.apple.com/us/podcast/id1895204575\n🔵Amazon Music\nhttps://music.amazon.co.jp/podcasts/7d700b9b-e059-473e-82f2-10ea43db586a"
-  },
-  {
     "id": "daihonnashi.podbean.com/dae68162-46bb-31ad-9b54-63d42f11137f",
     "podcastName": "台本なし英会話レッスン",
     "title": "アメリカにも「先輩後輩」の感覚はある？🇺🇸",
@@ -728,25 +728,5 @@
     "audio": "https://anchor.fm/s/10afb9540/podcast/play/119198953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-29%2Ff506ee09-61e0-7bd9-c711-b91594ec6244.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
     "desc": "『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n#キッズニュース\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】憲法記念日とは？由来や意味、日本国憲法の基礎知識を紹介https://skywardplus.jal.co.jp/plus_one/calendar/constitution_day/\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
-  },
-  {
-    "id": "613417fe-1869-4497-bebc-8d8ef86e37b5",
-    "podcastName": "歴史を面白く学ぶコテンラジオ (COTEN RADIO)",
-    "title": "【64-13】反乱だらけ！征韓論が暴く明治政府の弱点 〜試される統治の力〜【COTEN RADIO 西郷隆盛編13】",
-    "date": "2026/4/29",
-    "timestamp": 1777496400000,
-    "audio": "https://anchor.fm/s/8c2088c/podcast/play/115060046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-5%2F250d445c-9f49-2429-65f6-4058091169dc.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e3/bd/be/e3bdbe9a-ebe1-03be-2fd2-658c5e64825a/mza_10324805544078569436.jpg/100x100bb.jpg",
-    "desc": ":::::::::::::::::: 今回のお話 ::::::::::::::::::\n東京を離れた穏やかな生活／大久保への反発、自由民権運動の萌芽／募る士族の不満／江藤新平の佐賀の乱、西郷と大久保の心境／私学校の目的は……／武士の特権は減る一方に\n※番組内で紹介する歴史の内容には諸説あります。\n :::::::::::::::::: 参考文献 ::::::::::::::::::\n 参考文献は、⁠⁠⁠⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠⁠⁠⁠\t\n :::::::::::::: COTEN CREW 募集中 ::::::::::::::\n コテンラジオや世界史データベースなど、COTENの活動はCOTEN CREWのみなさんの応援によって成り立っています。 月額サポートで、いっしょに人文知を社会に活かす仲間になりませんか？\n ▶︎ ⁠⁠⁠⁠⁠⁠⁠⁠⁠COTEN CREWに参加する⁠⁠⁠⁠⁠⁠⁠⁠⁠\t\n :::::::::::::::::: クレジット ::::::::::::::::::\n\n\n出演：深井龍之介／⁠⁠⁠⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠⁠⁠⁠／⁠⁠⁠⁠⁠⁠⁠⁠⁠樋口聖典⁠⁠⁠⁠⁠⁠⁠⁠⁠\n台本制作：深井龍之介／⁠⁠⁠⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠⁠⁠⁠／西谷剛史／橋本雅也\n書籍提供：⁠⁠⁠⁠⁠⁠⁠⁠⁠株式会社バリューブックス⁠⁠⁠⁠⁠⁠⁠⁠⁠\n収録スタジオ：⁠⁠⁠⁠⁠⁠⁠⁠⁠ACRO.POLIS⁠⁠⁠⁠⁠⁠⁠⁠⁠\n録音エンジニア：山口裕大\n音声編集：⁠⁠⁠⁠⁠⁠⁠⁠⁠株式会社FUBI⁠⁠⁠⁠⁠⁠⁠⁠⁠\nタイトル作成：⁠⁠⁠⁠⁠⁠⁠⁠⁠政光真吾⁠⁠⁠⁠⁠⁠⁠⁠⁠\nYouTubeサムネイル：⁠⁠⁠⁠⁠⁠⁠⁠⁠やましょー⁠⁠⁠⁠⁠⁠⁠⁠⁠\nYouTubeアニメーション（ドット絵）：⁠⁠⁠⁠⁠⁠⁠⁠⁠庭月野議啓⁠⁠⁠⁠⁠⁠⁠⁠⁠\nPodcastサムネイル：⁠⁠⁠⁠⁠⁠⁠⁠⁠高野菜々子⁠⁠⁠⁠⁠⁠⁠⁠⁠\n制作管理：⁠⁠⁠⁠⁠⁠⁠⁠⁠内山千咲⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n :::::::::::::: COTENについて ::::::::::::::\n 公式サイト：⁠⁠⁠⁠⁠⁠⁠⁠⁠https://coten.co.jp/⁠⁠⁠⁠⁠⁠⁠⁠⁠ 公式X（旧Twitter）：⁠⁠⁠⁠⁠⁠⁠⁠⁠@CotenInc⁠⁠⁠⁠⁠⁠⁠⁠⁠ 採用情報：⁠⁠⁠⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n ::::: ご意見・ご感想・お問い合わせはこちらから :::::\n ご感想・ご意見・お問い合わせは、お気軽にチャットでお送りください。 ▶︎ ⁠⁠⁠⁠⁠⁠⁠⁠⁠お問い合わせ⁠⁠⁠⁠⁠"
-  },
-  {
-    "id": "08bbac1d-d08f-475c-a37c-2bb869939d44",
-    "podcastName": "おしゃべりな理科",
-    "title": "入学式は4月10日にしてください【おたより回】#171",
-    "date": "2026/4/29",
-    "timestamp": 1777492800000,
-    "audio": "https://anchor.fm/s/f291afd0/podcast/play/118909540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-23%2Ffe37e982-2637-870f-b198-14ec85c9c690.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/96/a6/4a96a6a7-e328-744f-f2d4-3fb045037166/mza_9168702762650049181.jpg/100x100bb.jpg",
-    "desc": "今回は、「おたより回」です。\n1年で一番忙しい4月に、たくさんのおたよりをいただきました。ありがとうございます！ 一部を紹介します。新年度スタートのドタバタ劇ですが、ゴールデンウイークまであと少し。いったん息継ぎして、パワーチャージしてくださいね～\n ※この回では学校や教員生活などについてテーマを設定しておしゃべりしています。ここで取り上げてほしいテーマを募集しています。ぜひ、おたよりフォームにおよせください。\n\n\n--\n★目次 \n(01:00)　片足立ちしても体重は変わらない    \n(07:10)　サードプレイスって必要    \n(09:10)　理科準備室の掃除がいったん落ち着きました    \n(12:05)　担任じゃなきゃできないことがある    \n(14:15)　入学式を4月10日にしてください！    \n(19:04)　GWのありがたさ。少しは息継ぎさせて    \n(23:53)　お悩み相談も大募集！\n\n\n-\n★パーソナリティー    \n木月里美（武蔵野市立小学校 主任教諭）    \n 辻　 健 （筑波大学附属小学校 教諭）    \n森田雄介（東京書籍 理科編集部）\n\n\n-\n★教科書『新編 新しい理科』のご案内    \nhttps://ten.tokyo-shoseki.co.jp/text/shou/rika/\n\n\n-\n★おたよりフォーム    \n・感想やお悩み相談、「理科川柳」はこちらから！    \n　https://forms.gle/EqdeyxDS9BLnyApm8\n\n\n=\n企画協力／音響,SE製作：株式会社 雑談     \n制作：東京書籍 株式会社\n="
   }
 ]
