@@ -1,5 +1,35 @@
 [
   {
+    "id": "ee4722dc-5596-11f1-83db-ff42f76da5dd",
+    "podcastName": "ながら日経",
+    "title": "5月22日（金）AI株に陶酔　一極集中マネーが生む歪みとは〜with NIKKEI",
+    "date": "2026/5/22",
+    "timestamp": 1779440400000,
+    "audio": "https://traffic.megaphone.fm/NRBC9426410058.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "desc": "ニュースレター「with NIKKEI」コラボ放送。今週はNQN香港の福井環記者が担当します。\n\n日経平均株価はついに6万円台へ ！しかし、市場に漂う「AIユーフォリア（陶酔）」に歪みはありませんか ？  \n\n現在の株高を牽引するAI関連株ですが、巨額投資の回収リスクや資金の一極集中による「価格発見機能」の鈍化という側面も。香港から福井記者がアジア市場のリアルな歪みを紐解きます。\n\n■ ニュースレター「with NIKKEI」\n\n経済、社会のモヤモヤを記者が読み解くニュースレターです。 日経の若手記者が20～30代の読者の皆様と同じ視点で、ニュースについて考えます。\n\n購読（無料）は⁠こちら⁠からお願いします。\n\n⁠ ⁠⁠https://regist.nikkei.com/ds/setup/briefing.do?me=B014&n_cid=DSPRM1OTR17_202304nagara_withnikkei⁠⁠"
+  },
+  {
+    "id": "2922e796-e094-4f9d-b867-501344cdf36a",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "ビルボードライブのツアーが決まりました",
+    "date": "2026/5/22",
+    "timestamp": 1779436800000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/120064632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-16%2F1b2aad2f-800b-4d15-0c52-e1e67898fa51.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "今度は東京もある！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
+    "id": "e407eba2-554c-11f1-a03e-4307ba4216a9",
+    "podcastName": "ながら日経",
+    "title": "NIKKEI THE PITCH会議室 第18回　東証が世界を呼びにいく！海外スタートアップ誘致の本気度と落とし穴",
+    "date": "2026/5/22",
+    "timestamp": 1779436200000,
+    "audio": "https://traffic.megaphone.fm/NRBC9327445868.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "desc": "ながら日経とNIKKEI THE PITCHのコラボ企画「NIKKEI THE PITCH会議室」\n\nスタートアップ界隈の本当のところを、池田新編集長の鋭い視点と、妖精さんのズバッとコメントで深堀りしていきます。\n\n第18回となる今回のテーマは「東証が世界を呼びにいく！海外スタートアップ誘致の本気度と落とし穴」\n\n\n\n日本市場への海外スタート誘致に向け、オールジャパンで取り組む動きが加速しています。そもそも、東証は海外スタートアップにとって魅力的なのか？制度面の課題はないのか？具体的な事例を交えながらお話します。"
+  },
+  {
     "id": "69fe1ec10179a988cda488c7",
     "podcastName": "Hapa英会話 Podcast",
     "title": "ロサンゼルスは暮らしやすい場所？（#597）",
@@ -580,16 +610,6 @@
     "desc": "だって温かい場所のほうがいいんですよね？？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "62da7522-4ba1-11f1-b092-87416adb364c",
-    "podcastName": "ながら日経",
-    "title": "5月10日（日）大成建設 三井物産と欧州に脱炭素コンクリ供給網、イラン混迷で資源高 日本の所得流出8兆円に",
-    "date": "2026/5/9",
-    "timestamp": 1778367000000,
-    "audio": "https://traffic.megaphone.fm/NRBC3311039591.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
-    "desc": "■日曜パーソナリティ：横田香峰\n\n大学卒業後、個別塾の教室長を経て、現在はラジオパーソナリティ・舞台俳優・構成作家として活動"
-  },
-  {
     "id": "7119181d-bf41-46f8-a3b0-bf347c37990b",
     "podcastName": "Kevin's English Room Podcast",
     "title": "やまが極めてきたパスタレシピ達",
@@ -608,16 +628,6 @@
     "audio": "https://mcdn.podbean.com/mf/web/yixpjq5knp545iq9/_191ng1.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/05/a9/29/05a92940-6481-f638-a5a4-754af9650e6d/mza_16045631423465565.jpg/100x100bb.jpg",
     "desc": "投資をしている人はアメリカには多いの？🤔アメリカ人のお金事情を聞いてみました！\n「使える英単語」をもっと増やしませんか？\n\nSPEAK OUT 声に出して 自分の言葉にする単語帳\n\n→ Amazon\n\n→ 楽天\n\n→使い方の説明&想いの動画\n \nそーたが会話で使っている\"最小限の単語\"を厳選。1300語すべてに音声レッスンをつけました！3年かけて制作したので...想いが届くと嬉しいです🙏\n\n【英語のそーた SNS】\n\n\n☆Instagram → フォロー \n\n\n☆X  → フォロー\n\n\n☆Threads → フォロー\n\n☆YouTube → チャンネル登録\n \n【そーたが制作した学習本】\n\n\n\n📗英語脳を鍛えるスピーキング本\n「いま知ってる単語だけで英語が話せる思考スイッチの法則15」\n\n\n→ 読んでみる(Amazon)\n→ 読んでみる(楽天)\n\n※３作目。７時間半の音声がついています！僕が英語を話す時の\"頭の中\"のすべてを詰め込みました。英会話は思考の切り替え。基礎的な単語を使って簡単に言い換える！それが最短の学習法。その速度が早くなるよう、設計させていただきました！全作品同様、こちらも３年かけて制作した本です。気持ちが伝わりますように。\n→ 読んでみる(Amazon)\n→ 読んでみる(楽天)\n \n※初著書です！体得をしていただければ必ず発音に変化が出ますので！何周もしたり、色んな英文に当てはめたりして反復をしてくださいね。気持ちを込めて作ったので皆さんのお役に立てますよう心から願っています。「作品作り」が夢だったので、２年間の制作は大変ではありつつも良い経験をさせていただきました。長く愛していただける作品になりますように...全国の書店にもあります！\n \n📗ディズニー映画で身につく そのまま使える英会話フレーズ\n \n→ 読んでみる(Amazon)\n→ 読んでみる(楽天)\n\n\n※２作目。こちらも数年かけて作り上げた作品です🙏ただの英会話フレーズ本ではなく「どうすれば頭に英単語が残りやすくなるか」をコンセプトに制作しました✍️大のディズニー好きとして想いを込めて作らせて頂きました。また、英語学習者の方のお悩みをどうディズニーコンテンツで解決できるかを考え抜き、斬新で新しい作品になるよう尽力しました。気持ちが伝われば幸いです。\n \n　\n📗アニメーション映画で学ぶ英語\n\n\n\nサマーウォーズ\n→ 読んでみる(Aamzon)\n→ 読んでみる(楽天)\n読んでみる(Amazon)\n→ 読んでみる(楽天)\n \n４・５作目。細田守監督作品とのコラボ🎬ストーリーを英語で読みながら、日本語原作の作品が英語に「どう翻訳されているのか」をテーマに作ってみました📗翻訳や言葉の奥深さを楽しんでいただけたら嬉しいです！\n \n\n【台本なし英会話専用SNS】\n\n→ 単語リストを見る\n\n→ スクリプト字幕を見る\n \n台本なし英会話 Twitter\n\n→ 更新のお知らせ\n \n【Reillyのインスタグラム】\n→ フォロー"
-  },
-  {
-    "id": "cd1d072a-4add-11f1-b040-c3f2ae014e86",
-    "podcastName": "ながら日経",
-    "title": "5月9日（土）ホンダ初の営業赤字4000億円、取締役の賠償額に上限 政府が会社法改正へ",
-    "date": "2026/5/8",
-    "timestamp": 1778280600000,
-    "audio": "https://traffic.megaphone.fm/NRBC1231063443.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
-    "desc": "■土曜パーソナリティ：河野 千秋　\n\n新聞記者を経てアナウンサーに。NHK BSやTBS NEWSでキャスターを務め、現在はフリーで活動。趣味のゴルフは豪快なスイングが持ち味。"
   },
   {
     "id": "587190cb-0cb0-48c6-81dc-4a42c366b207",
@@ -668,16 +678,6 @@
     "audio": "https://anchor.fm/s/81fb5eec/podcast/play/119639198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2Facdddd5b-54dc-951d-c110-9f9537a41d70.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
     "desc": "【このPodcastについて】\nNews Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかるニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n野上英文（Bloomberg Managing Editor, Japan Digital Lead）　\nhttps://twitter.com/Hi_noga3\n▼出演番組\nBig Take Asia：ユニクロ・柳井正氏に直撃、アメリカ内陸部制覇の執念（Podcast）https://www.bloomberg.com/jp/news/features/2026-04-09/TD7WYFKIUPT000\n\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\n▼参考ニュース：（いずれもブルームバーグ）\n任天堂、株価を上昇気流に乗せない「スイッチ2」のジレンマ\nhttps://www.bloomberg.com/jp/news/articles/2026-05-07/TEMB51KK3NYD00#gsc.tab=0\n任天堂スイッチ2、3月の米ゲーム機販売首位－癒やし系ぽこあ効果\nhttps://www.bloomberg.com/jp/news/articles/2026-04-22/TDVSY8KJH6V500#gsc.tab=0\n任天堂株が反発、12月は米国でのスイッチ2販売が好調-鈍化懸念払拭\nhttps://www.bloomberg.com/jp/news/articles/2026-01-22/T997JWKK3NYD00#gsc.tab=0\n任天堂で注目すべきはマリオ、メモリーではない\nhttps://www.bloomberg.com/jp/news/articles/2026-02-04/T9VMIHKK3NYJ00#gsc.tab=0\n任天堂　7974:JP\nhttps://www.bloomberg.com/jp/quote/7974:JP#gsc.tab=0\n任天堂社長メッセージ\nhttps://www.nintendo.co.jp/ir/management/message.html"
-  },
-  {
-    "id": "9f4b45e9-2a0a-4463-abb0-e69128dcbf62",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "ケビンの最近の美容の旅はどんな感じ？",
-    "date": "2026/5/7",
-    "timestamp": 1778140800000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/118882405/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-22%2F6be42821-a0e6-ed25-ef77-631ea4c1d071.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "韓国行ってきます【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "4fc60ba8-bae1-4e69-b0bd-2b30e20bd097",
