@@ -1,5 +1,35 @@
 [
   {
+    "id": "dc741de7-1fd7-4921-b69e-f12d219a5e28",
+    "podcastName": "Sakura English",
+    "title": "ネイティブが使う30パターンで瞬間英作文とリスニング",
+    "date": "2026/5/25",
+    "timestamp": 1779751037000,
+    "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/5e32677d01fb8e766251d67abe7f1a0d.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
+    "desc": "英語を語順通りに聞き取ってみましょう。今回は海外ドラマ・映画で使われている実際の英語を出典とともにお届けします。\n 【Sakura Englishの新刊発売中！】\n「ネイティブみたい」じゃなくていい！80パターンで すごい英会話\n👇Amazon\n⁠⁠⁠⁠⁠⁠https://amzn.to/414zCdu⁠⁠⁠⁠⁠⁠\n👇楽天\n⁠⁠⁠⁠⁠⁠https://books.rakuten.co.jp/rb/18563597/"
+  },
+  {
+    "id": "285a1182-5835-11f1-8e07-aff571970da3",
+    "podcastName": "ながら日経",
+    "title": "5月26日（火）賃上げ3年連続5%台、人材つなぎとめ、日経調査  日経平均初の6万5000円 全員参加の「ハイボラ相場」",
+    "date": "2026/5/25",
+    "timestamp": 1779744600000,
+    "audio": "https://traffic.megaphone.fm/NRBC2034869137.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "desc": "■火曜パーソナリティ：寺島啓太\n\nフリーアナウンサー（元四国放送・文化放送）\n\n\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
+  },
+  {
+    "id": "0c61e1e9-d69a-44c1-acf0-382d42dcfe4c",
+    "podcastName": "News Connect",
+    "title": "【5月26日】NPT再検討会議、3回連続で最終文書採択できず",
+    "date": "2026/5/25",
+    "timestamp": 1779739200000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/120514187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-25%2Fc00b1adb-df6b-7d9b-03f2-d7cff2036b80.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）\nhttps://x.com/nmrtkfm\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n▼参考ニュース：\nReview of landmark nuclear treaty breaks up without consensus, raising arms race fears\nhttps://news.un.org/en/story/2026/05/1167580\nUS slams failure to reach NPT consensus, cites ‘Iran’s continued noncompliance’\nhttps://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?update=4598804\nConference at UN to review nuclear nonproliferation treaty fails to reach agreement\nhttps://abcnews.com/US/wireStory/conference-review-nuclear-nonproliferation-treaty-fails-reach-agreement-133240422\nNuclear powers are expanding their arsenals instead of disarming. Australia doesn’t have to be complicit in this\nhttps://theconversation.com/nuclear-powers-are-expanding-their-arsenals-instead-of-disarming-australia-doesnt-have-to-be-complicit-in-this-283676\nNPT must not be based on 'nuclear exceptionalism': Deputy FM\nhttps://www.tehrantimes.com/news/526758/NPT-must-not-be-based-on-nuclear-exceptionalism-Deputy-FM\nUN event on nuclear non-proliferation treaty stumbles, US and Iran clash\nhttps://www.scmp.com/news/world/article/3354600/un-event-nuclear-non-proliferation-treaty-stumbles-us-and-iran-clash\n国際原子力機関（IAEA）保障措置\nhttps://www.mofa.go.jp/mofaj/gaiko/atom/iaea/kyoutei.html\n\n\n\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/"
+  },
+  {
     "id": "8663de76-5951-4ef5-82f5-c8fbc2f30d92",
     "podcastName": "Kevin's English Room Podcast",
     "title": "ネイティブフレーズの「Play devil's advocate」の使い方",
@@ -540,16 +570,6 @@
     "desc": "レスィ！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "f97b0d36-4ec9-11f1-a382-6bbf552c73be",
-    "podcastName": "ながら日経",
-    "title": "5月14日（木）3メガバンク AIミュトスのアクセス権入手へ、近畿に「空飛ぶクルマ」実用化拠点",
-    "date": "2026/5/13",
-    "timestamp": 1778707800000,
-    "audio": "https://traffic.megaphone.fm/NRBC7945225557.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
-    "desc": "【PR】\n\n新年度に入って仕事や学びで、\n\n新しいトピックや知らない言葉に出会うことが増えた人もいるでしょう。\n\n\n\n経済やビジネスの気になった言葉は、日経電子版で調べてみましょう。\n\n過去の記事から背景まで確認できるから、理解が深まります。\n\n\n\n日経電子版は、今なら２カ月無料の春割キャンペーン実施中。\n\n更に、23歳以下の方ならお得な「U23割」や、家族で使える「ファミリープラン」でも、春割をご用意しています。\n\n\n\n詳細は以下のリンクからご確認ください。\n\nhttps://www.nikkei.com/promotion/?n_cid=DSPRM1OTR0126haru_nagara\n\n\n\n■木曜パーソナリティ：和田 愛里\n\nシンガー・MC・俳優。大手テーマパークでミュージカルショー等に出演。第40期宝くじ幸運の女神。"
-  },
-  {
     "id": "d5e30781-16b6-463a-91dc-0e875906d191",
     "podcastName": "歴史を面白く学ぶコテンラジオ (COTEN RADIO)",
     "title": "【番外編＃139】変える！コテンラジオ再構築プロジェクト 〜配信開始から8年経ち、思うこと〜",
@@ -680,16 +700,6 @@
     "desc": "『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n#キッズニュース\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】どもに聞かれて説明できる？「日経平均株価」https://www.asahi.com/asagakuplus/article/asasho/15180136\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
   },
   {
-    "id": "50c1ee5e-527b-4830-8215-dd1d9c0dac7a",
-    "podcastName": "News Connect",
-    "title": "【5月11日】ハンタウイルス集団感染のクルーズ船がスペインの島へ到着、一連の動きを振り返る",
-    "date": "2026/5/10",
-    "timestamp": 1778443200000,
-    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/119768377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-10%2F458e80e5-2427-07f2-68af-3b5187d19c74.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかるニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演 佐々木真奈美（経済キャスター・スピークプラス代表）　\nhttps://x.com/manamisasaki\n▼話し方トータルサポートスクール「Speak +」\nhttps://speakplus-lesson.com/\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\n▼参考ニュース\nAnger and resignation in Tenerife as hantavirus ship approaches(BBC)\nhttps://www.bbc.com/news/articles/c5y0gkg038yo\nTenerife medics poised for arrival of virus-hit cruise ship(BBC)\nhttps://www.bbc.com/news/articles/cn7pzmg8zeno\nBefore Hantavirus Outbreak, This Cruise Attracted ‘a Different Type of Traveler’(The New York Times)\nhttps://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html\nHantavirus Vaccines and Treatments Are in the Pipeline(The New York Times)\nhttps://www.nytimes.com/2026/05/09/science/hantavirus-vaccines-treatment.html\nハンタウイルス向けワクチン、初期段階の研究中と米モデルナが発表(Bloomburg)\nhttps://www.bloomberg.com/jp/news/articles/2026-05-08/TEQ99SKK3NY800#gsc.tab=0\nハンタウイルス感染の船、スペインの島に到着へ　WHO事務局長は住民の「不安」解消図る(CNN)\nhttps://www.cnn.co.jp/world/35247302.html"
-  },
-  {
     "id": "daihonnashi.podbean.com/245edbc3-1de7-3394-a932-01ab105b2b6f",
     "podcastName": "台本なし英会話レッスン",
     "title": "お金の教育💰 アメリカ vs 日本",
@@ -748,15 +758,5 @@
     "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/90fb5fd4bb8cf5aad71dc3e32694417c.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
     "desc": "チャンクを知ると英語が聞こえてきます。英語音声のみでどっぷり英語の世界に浸りましょう。\n 【Sakura Englishの新刊発売中！】\n「ネイティブみたい」じゃなくていい！80パターンで すごい英会話\n👇Amazon\n⁠⁠⁠⁠https://amzn.to/414zCdu⁠⁠⁠⁠\n👇楽天\n⁠⁠⁠⁠https://books.rakuten.co.jp/rb/18563597/"
-  },
-  {
-    "id": "447ffd18-d174-4a92-9964-aa6bc9d35ee8",
-    "podcastName": "Kids News",
-    "title": "【5月6日】こどもの日ってなに？",
-    "date": "2026/5/5",
-    "timestamp": 1778011200000,
-    "audio": "https://anchor.fm/s/10afb9540/podcast/play/118960976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-24%2Fdba8c9a0-767f-f604-f777-880074652ac9.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
-    "desc": "『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n#キッズニュース\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】こどもの日の由来や意味とは？https://skywardplus.jal.co.jp/plus_one/calendar/childrens_day/\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
   }
 ]
