@@ -1,15 +1,5 @@
 [
   {
-    "id": "f7826508-c580-4409-8b91-809835d722a6",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "ダウンタイム1週間経ちましたが、どうでしょう",
-    "date": "2026/5/27",
-    "timestamp": 1779854400000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/120467044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-24%2Fb5eec3a5-496f-ec21-a3a7-3bf1d08ffa7b.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "だいぶ良くなってきた【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
     "id": "2166dad2-5906-11f1-a752-e71249fee6b3",
     "podcastName": "ながら日経",
     "title": "5月27日（水）企業評価は人材・設備への投資も重視 経産省が指針、商船三井など海運大手3社が共同保有のLNG船 ホルムズ海峡通過",
@@ -688,6 +678,16 @@
     "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/b57630dc64860e4475def5ec4df4d3a2.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
     "desc": "【Sakura Englishの新刊連動ポッドキャスト】\n「ネイティブみたい」じゃなくていい！80パターンで すごい英会話\n👇Amazon\n⁠⁠⁠⁠⁠https://amzn.to/414zCdu⁠⁠⁠⁠⁠\n👇楽天\n⁠⁠⁠⁠⁠https://books.rakuten.co.jp/rb/18563597/"
+  },
+  {
+    "id": "f0360b88-a656-4af1-a437-7395d0672e77",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "人気歌手になるともう自分で曲を書かないってホント...？",
+    "date": "2026/5/12",
+    "timestamp": 1778572800000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/119508044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F46905c09-0fc3-8332-9330-bbca9d63a4f4.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "なんで１曲売れるとそれ以降の曲も売れるの？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "69ebc0ec6166bfd45b031ed7",
