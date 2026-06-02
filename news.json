@@ -1,5 +1,15 @@
 [
   {
+    "id": "3a1c0879-bdee-4ab1-beb9-04b24b5d11d5",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "今年はどんな記録的気象が起こるのか…",
+    "date": "2026/6/2",
+    "timestamp": 1780387200000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/120467262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-24%2F6c0ed4f7-49e4-8f03-c55e-12ac9d80fd01.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "記録的猛暑恐怖症だわ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "f0c16794-ac76-4c4f-a833-e8882b784400",
     "podcastName": "News Connect",
     "title": "【国際欄 #01】G2時代は現実になるのか。米中首脳会談から読む世界の行方（ゲスト：前嶋和弘さん）",
@@ -658,16 +668,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/120064493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-16%2F3799c24c-303b-c58e-18d8-a194126190b1.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "中国の印象かなり変わった【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "e81ac420-550d-465d-9727-61157462a5c8",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "ピコスポット&ホクロ除去後のダウンタイム中です",
-    "date": "2026/5/18",
-    "timestamp": 1779091200000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/120064451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-16%2F2efa3a4f-c194-f657-a6e4-a547578db8e0.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "2週間これかー【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a07786106ec4f0ca5d844b9",
