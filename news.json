@@ -1,5 +1,15 @@
 [
   {
+    "id": "1c2e648d-9dc8-4d85-af48-055068db89b1",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "ふくらPさんとクイズがしたい　(ふくらPさんコラボ Part 2 of 4)",
+    "date": "2026/6/9",
+    "timestamp": 1780992000000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/120760130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-30%2Fc70f7906-3dce-ce3e-1f4b-ad3196bdfac3.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "スキンケアクイズでもいいですか...?【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "44f6f86d-ca8e-49c3-8f2c-df3d9fd9ccbc",
     "podcastName": "News Connect",
     "title": "【国際欄 #02】アメリカ中間選挙で何が変わる？米国内の事情から世界を見る（ゲスト：前嶋和弘さん）",
@@ -648,16 +658,6 @@
     "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/5e32677d01fb8e766251d67abe7f1a0d.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
     "desc": "英語を語順通りに聞き取ってみましょう。今回は海外ドラマ・映画で使われている実際の英語を出典とともにお届けします。\n 【Sakura Englishの新刊発売中！】\n「ネイティブみたい」じゃなくていい！80パターンで すごい英会話\n👇Amazon\n⁠⁠⁠⁠⁠⁠https://amzn.to/414zCdu⁠⁠⁠⁠⁠⁠\n👇楽天\n⁠⁠⁠⁠⁠⁠https://books.rakuten.co.jp/rb/18563597/"
-  },
-  {
-    "id": "8663de76-5951-4ef5-82f5-c8fbc2f30d92",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "ネイティブフレーズの「Play devil's advocate」の使い方",
-    "date": "2026/5/25",
-    "timestamp": 1779696000000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/120064730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-16%2F970ae548-398d-69d4-b509-87b5e76b7343.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "割と聞くフレーズ！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a0778f406ec4f0ca5d844ba",
