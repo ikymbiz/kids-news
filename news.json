@@ -1,5 +1,25 @@
 [
   {
+    "id": "567ffd0a-6b96-11f1-81c5-efb72e0633fd",
+    "podcastName": "ながら日経",
+    "title": "6月19日（金）ワールドカップと経済〜with NIKKEI",
+    "date": "2026/6/19",
+    "timestamp": 1781859000000,
+    "audio": "https://traffic.megaphone.fm/NRBC6760900144.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "desc": "ニュースレター「with NIKKEI」\n\n4年に一度の祭典が開幕⚽️🏆\n今週は政策報道ユニットの古林悠夏記者と「サッカーが動かす巨額のマネー」を紐解きます。 \n\n🎟 決勝席100万円超!? FIFAの価格戦略\n👕 異次元のヒット！日本代表のアウェイ白ユニが29倍売れた\n🏟 広島に学ぶ「街中スタジアム」地方創生の底力  \n\n■ ニュースレター「with NIKKEI」\n\n経済、社会のモヤモヤを記者が読み解くニュースレターです。 日経の若手記者が20～30代の読者の皆様と同じ視点で、ニュースについて考えます。\n\n購読（無料）は⁠こちら⁠からお願いします。\n\n⁠ ⁠⁠https://regist.nikkei.com/ds/setup/briefing.do?me=B014&n_cid=DSPRM1OTR17_202304nagara_withnikkei⁠⁠"
+  },
+  {
+    "id": "015781a2-f277-4922-b221-e5aeef44c40b",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "日本語・英語・フランス語高速切替ゲーム",
+    "date": "2026/6/19",
+    "timestamp": 1781856000000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/121285417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-10%2F703233fc-993d-d045-b141-bb0f914bc5ce.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "ドラムやってたから得意なはずなのに…【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "3f6076cc-6b91-11f1-a275-17e93b1c7139",
     "podcastName": "ながら日経",
     "title": "NIKKEI THE PITCH会議室 第21回 【IVS2026直前スペシャル版！】CVC担当者がIVSを100倍有効活用するための「IVSの歩き方」",
@@ -560,16 +580,6 @@
     "desc": "お越しいただきありがとうございます！！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "59f46aba-626e-11f1-8db7-a793b3305418",
-    "podcastName": "ながら日経",
-    "title": "6月8日（月)年金3号「専業主夫」30年で3倍の13万人、ヤマダ・エディオン 統合交渉「対等合併」",
-    "date": "2026/6/7",
-    "timestamp": 1780867800000,
-    "audio": "https://traffic.megaphone.fm/NRBC4058772602.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
-    "desc": "【ラジオNIKKEIからのお知らせ】\n\n6月15日（月）朝　「吉野直也のNIKKEI切り抜きニュース　プレミアムセミナー」開催\n\nhttps://radionikkei.shop-pro.jp/?pid=191865338\n\n\n\n「吉野直也のNIKKEI切り抜きニュース」が、ポッドキャストを飛び出して、\n\n6月15日・月曜日、朝8時、虎ノ門琴平タワーで\n\n“完全オフレコ”のプレミアムセミナーを開催。\n\n\n\nゲストは、毎日新聞・佐藤千矢子氏、\n\n読売新聞・伊藤俊行氏。\n\nテーマは――『高市政権は４年続くのか』  \n\n日本経済新聞の吉野直也がゲストとともに徹底展望します。\n\n\n\n参加費は税込1万1千円。\n\n配信なし、ここだけの話が展開される特別な朝。\n\n\n\nお申し込みはこちらから\n\nhttps://radionikkei.shop-pro.jp/?pid=191865338\n\n\n\n■月曜パーソナリティ：外村 倫子\n\n\n\n国家資格キャリアコンサルタント/フリーアナウンサー"
-  },
-  {
     "id": "6a231925443a6b31bc9cab07",
     "podcastName": "Hapa英会話 Podcast",
     "title": "またやらかした…洗濯機で“赤いクレヨン事件”発生",
@@ -648,16 +658,6 @@
     "audio": "https://anchor.fm/s/10afb9540/podcast/play/120551359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2Fe1f4cd2c-e7e4-ddd4-2045-2a1879b908fb.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
     "desc": "『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n#キッズニュース\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】イスラムきょう【イスラム教】https://kids.gakken.co.jp/jiten/dictionary01200228/\nコーラン（クルアーン）https://kids.gakken.co.jp/jiten/dictionary02500990/\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
-  },
-  {
-    "id": "3062ba6a-041c-4c65-9a98-67614688f511",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "ChatGPTを試す質問、新たにあります",
-    "date": "2026/6/4",
-    "timestamp": 1780560000000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/120467341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-24%2F33b99d83-0342-fd2a-834d-abdfeea3e4d7.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "さあ今度は正しく答えられるか【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "527fb8e8-04b7-4347-b491-b83caac2dc77",
