@@ -1,5 +1,25 @@
 [
   {
+    "id": "5d81a3e6-7957-11f1-98d2-1b3e229005bf",
+    "podcastName": "ながら日経",
+    "title": "7月7日（火）新米の価格2割安 26年産早場米 前年在庫増え値下がりへ  、KDDI 761万人分のパスワード漏洩を確認　",
+    "date": "2026/7/6",
+    "timestamp": 1783373400000,
+    "audio": "https://traffic.megaphone.fm/NRBC6722060262.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n\n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n\n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n\n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n\n\n■火曜パーソナリティ：寺島啓太\n\n\n\nフリーアナウンサー（元四国放送・文化放送）\n\n\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
+  },
+  {
+    "id": "47aadd6f-c62f-444a-849b-697b0a6a4035",
+    "podcastName": "News Connect",
+    "title": "【7月7日】はやぶさ2がトリフネに接近。「北海道の1円玉を沖縄から射抜く」困難さ",
+    "date": "2026/7/6",
+    "timestamp": 1783368000000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/122455469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F3c442b42-f2cc-3965-ad8e-b2e75d8cbd82.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）\nhttps://x.com/nmrtkfm\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n▼参考ニュース：\nJAXAはやぶさ2拡張ミッション\nhttps://www.hayabusa2.jaxa.jp/\n小惑星2001 CC21の名前が「トリフネ」と決まりました\nhttps://www.hayabusa2.jaxa.jp/topics/20240925_2001_CC21/index.html\n沖縄から、北海道にある1円玉をレールガンで射貫くくらいの難しさ\nhttps://wired.jp/articl/hayabusa2-torifune-flyby-livestream/\nJapanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'\nhttps://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids\nJAXA sets July 5 Hayabusa2 Trifune flyby at 18:30\nhttps://jp.ibtimes.com/jaxa-sets-july-5-hayabusa2-trifune-flyby-1830-101583\nJAXA Demonstrates Planetary Defense Tech, Becoming Second Nation After US\nhttps://www.chosun.com/english/world-en/2026/07/06/23DZXLMBANBMTIQARMXPHLAPP4/\nJapan Space Probe Performs Flyby Of Asteroid. It May Help Protect The Earth\nhttps://www.ndtv.com/world-news/japan-space-probe-performs-flyby-of-asteroid-it-may-help-protect-the-earth-11730682\n火星衛星のサンプルから、生命誕生・居住可能性と火星圏の起源に迫るMMX\nhttps://www.mmx.jaxa.jp/\n\n\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/"
+  },
+  {
     "id": "4cf1cd3a-89fd-4ab9-b6d7-159d5d05510a",
     "podcastName": "Sakura English",
     "title": "英単語が覚えられない人へ｜中学英語635をチャンクで聞き流し",
@@ -580,16 +600,6 @@
     "desc": ":::::::::::::::::: 今回のお話 ::::::::::::::::::\n女性医師が誕生した日／賛否両論勃発の世論／医学の先進地パリへ！／過酷な産科修行／医師としての自覚と自信／左目失明の絶望／外科医への夢が断たれ、ロンドンへ／ナイチンゲールとの邂逅\n※番組内で紹介する歴史の内容には諸説あります。\n :::::::::::::::::: 参考文献 ::::::::::::::::::\n 参考文献は、⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠\t\n :::::::::::::: COTEN CREW 募集中 ::::::::::::::\n コテンラジオや世界史データベースなど、COTENの活動はCOTEN CREWのみなさんの応援によって成り立っています。 月額サポートで、いっしょに人文知を社会に活かす仲間になりませんか？\n ▶︎ ⁠⁠⁠⁠⁠⁠COTEN CREWに参加する⁠⁠⁠⁠⁠⁠\t\n :::::::::::::::::: クレジット ::::::::::::::::::\n\n\n出演：深井龍之介／⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠／⁠⁠⁠⁠⁠⁠樋口聖典⁠⁠⁠⁠⁠⁠\n台本制作：深井龍之介／⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠／西谷剛史／橋本雅也\n書籍提供：⁠⁠⁠⁠⁠⁠株式会社バリューブックス⁠⁠⁠⁠⁠⁠\n収録スタジオ：⁠⁠⁠⁠⁠⁠ACRO.POLIS⁠⁠⁠⁠⁠⁠\n録音エンジニア：山口裕大\n音声編集：⁠⁠⁠⁠⁠⁠株式会社FUBI⁠⁠⁠⁠⁠⁠\nタイトル作成：⁠⁠⁠⁠⁠⁠政光真吾⁠⁠⁠⁠⁠⁠\nYouTubeサムネイル：⁠⁠⁠⁠⁠⁠やましょー⁠⁠⁠⁠⁠⁠\nYouTubeアニメーション（ドット絵）：⁠⁠⁠⁠⁠⁠庭月野議啓⁠⁠⁠⁠⁠⁠\nPodcastサムネイル：⁠⁠⁠⁠⁠⁠高野菜々子⁠⁠⁠⁠⁠⁠\n制作管理：⁠⁠⁠⁠⁠⁠内山千咲⁠⁠⁠⁠⁠⁠\n\n\n :::::::::::::: COTENについて ::::::::::::::\n 公式サイト：⁠⁠⁠⁠⁠⁠https://coten.co.jp/⁠⁠⁠⁠⁠⁠ 公式X（旧Twitter）：⁠⁠⁠⁠⁠⁠@CotenInc⁠⁠⁠⁠⁠⁠ 採用情報：⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠\n\n\n ::::: ご意見・ご感想・お問い合わせはこちらから :::::\n  ご感想・ご意見・お問い合わせは、お気軽にチャットでお送りください。  ▶︎ ⁠⁠⁠⁠⁠⁠お問い合わせ⁠⁠"
   },
   {
-    "id": "36863133-8d24-4315-8744-a19876cfd012",
-    "podcastName": "News Connect",
-    "title": "【6月25日】米イラン協議が本格化。60日後の「核合意」の行方は",
-    "date": "2026/6/24",
-    "timestamp": 1782331200000,
-    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/121918659/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F1b3d798d-77d2-6414-4e60-700ab9eb4541.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n新井里菜（オーディオジャーナリスト）　\nhttps://twitter.com/RinaAraiLevia\n子ども向けニュース番組『Kids' News - キッズニュース』\nhttps://open.spotify.com/show/1I9MfdGDCgbSj0NUupLjxq\n音声ドキュメンタリー『越境家族 - Transnational Family』\nhttps://open.spotify.com/show/42rkNGnYDASc315Ph3W7XL\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n▼新刊書籍『プロ目線のPodcastのつくり方』\n⁠https://amzn.asia/d/0n3gLJN\n▼参考ニュース：\nトランプ政権「イランがＩＡＥＡ査察に合意」イランは否定（NHK）\nhttps://news.web.nhk/newsweb/na/na-k10015156631000\nWeapons, money and ships: How is this Iran deal different from others?（BBC）\nhttps://www.bbc.com/news/articles/c74ynmnrwmeo\n４８兆円規模のイラン復興・開発計画策定へ、日本などの企業から２４兆円以上拠出決定済み…米イラン覚書（讀賣）\nhttps://www.yomiuri.co.jp/world/20260618-GYT1T00364/\n　\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/"
-  },
-  {
     "id": "397dbe7e-ebfb-48e7-a51b-2258e61f40b5",
     "podcastName": "おしゃべりな理科",
     "title": "アルタイルとベガがちょっとだけ近づいて見える夜の話【4年 夏の星】#179",
@@ -608,16 +618,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/121909284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F718e7fcd-cf05-aabf-e94f-1d4994db4278.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "やっぱりか...【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "d0a4fd9e-6eff-11f1-99a4-3fb29ae11c85",
-    "podcastName": "ながら日経",
-    "title": "6月24日（水）欧州の防衛ドローン企業が日本に製造拠点 輸出視野 丸紅が進出支援、日産株主総会 ルノーが「みずほ色」に反発",
-    "date": "2026/6/23",
-    "timestamp": 1782250200000,
-    "audio": "https://traffic.megaphone.fm/NRBC8721525090.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
-    "desc": "■水曜パーソナリティ：藤井 みりか\n\n\n\nフリーアナウンサー/ナレーター。こども話し方教室の運営や、日本酒Podcast番組などを担当"
   },
   {
     "id": "53e6708a-d311-434e-9333-667a7e6503fc",
