@@ -1,12 +1,22 @@
 [
   {
+    "id": "7005dc12-45bd-437d-aeb0-d0dd0d014f48",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "ネイマールは美味い飯を食いすぎてコンディションが落ちたらしい",
+    "date": "2026/7/15",
+    "timestamp": 1784102400000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/122371165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F4a07d426-0d7f-e2ff-47bd-10ee79b40086.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "そんな選手聞いたことないわ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "cee03f8e-7f88-11f1-936c-83b499a7c1ed",
     "podcastName": "ながら日経",
     "title": "7月15日（水）日本の特許競争力 G7で最低 産学連携のビジネス活用弱く、NVIDIAと三菱重工 AIデータセンターで提携",
     "date": "2026/7/14",
     "timestamp": 1784064600000,
     "audio": "https://traffic.megaphone.fm/NRBC1178358694.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "■（代打）火曜パーソナリティ：寺島啓太\n\n\n\nフリーアナウンサー（元四国放送・文化放送）\n\n\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
   },
   {
@@ -76,7 +86,7 @@
     "date": "2026/7/13",
     "timestamp": 1783978200000,
     "audio": "https://traffic.megaphone.fm/NRBC9560604493.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "■（代打）水曜パーソナリティ：藤井 みりか\n\n\n\nフリーアナウンサー/ナレーター。こども話し方教室の運営や、日本酒Podcast番組などを担当"
   },
   {
@@ -116,7 +126,7 @@
     "date": "2026/7/13",
     "timestamp": 1783929000000,
     "audio": "https://traffic.megaphone.fm/NRBC8469125624.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "ながら日経とNIKKEI THE PITCHのコラボ企画「NIKKEI THE PITCH会議室」\n\n\nECサイトに「接客」がないって、考えたことありますか？今回はwevnal代表・磯山博文さんをゲストに迎え、AIが変えるこれからの接客の形を深掘りします。広告代理店からAI企業へと進化した歩みや、AIエージェントが描く未来、さらに人と聞き間違えるほど自然なAI音声デモもお届け。これからの「接客」の可能性に迫ります。"
   },
   {
@@ -126,7 +136,7 @@
     "date": "2026/7/12",
     "timestamp": 1783891800000,
     "audio": "https://traffic.megaphone.fm/NRBC3405290245.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "■月曜パーソナリティ：外村 倫子\n\n\n\n国家資格キャリアコンサルタント/フリーアナウンサー"
   },
   {
@@ -186,7 +196,7 @@
     "date": "2026/7/11",
     "timestamp": 1783810200000,
     "audio": "https://traffic.megaphone.fm/NRBC5298043914.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n \n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n \n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n \n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n \n\n■日曜パーソナリティ：横田香峰\n\n大学卒業後、個別塾の教室長を経て、現在はラジオパーソナリティ・舞台俳優・構成作家として活動"
   },
   {
@@ -216,7 +226,7 @@
     "date": "2026/7/10",
     "timestamp": 1783723800000,
     "audio": "https://traffic.megaphone.fm/NRBC8108235042.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n \n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n \n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n \n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n \n\n■土曜パーソナリティ：河野 千秋　\n\n新聞記者を経てアナウンサーに。NHK BSやTBS NEWSでキャスターを務め、現在はフリーで活動。趣味のゴルフは豪快なスイングが持ち味。"
   },
   {
@@ -236,7 +246,7 @@
     "date": "2026/7/10",
     "timestamp": 1783673400000,
     "audio": "https://traffic.megaphone.fm/NRBC8865727612.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "ニュースレター「with NIKKEI」コラボ放送。今週はくらし経済グループの河井萌記者です。\n最高気温30度超えの猛暑が続くなか、いま「ナイトタイムエコノミー」が各地で大活況です！  \n\n昼は涼しい室内で休み、夕方からアクティブに動き出す。お酒だけではない、水族館や特別なディナーなど「大人の夜遊び」の最新トレンドを河合記者が解説します 🎧\n\n詳しくはニュースレターで👇 \n\n■ ニュースレター「with NIKKEI」\n\n経済、社会のモヤモヤを記者が読み解くニュースレターです。 日経の若手記者が20～30代の読者の皆様と同じ視点で、ニュースについて考えます。\n\n購読（無料）は⁠こちら⁠からお願いします。⁠ ⁠⁠https://regist.nikkei.com/ds/setup/briefing.do?me=B014&n_cid=DSPRM1OTR17_202304nagara_withnikkei⁠⁠"
   },
   {
@@ -266,7 +276,7 @@
     "date": "2026/7/9",
     "timestamp": 1783632600000,
     "audio": "https://traffic.megaphone.fm/NRBC6455881520.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n\n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n\n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n\n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n\n\n■金曜パーソナリティ：石井 しおり\n\n福岡・北海道での局アナ経験を経て、現在はナレーターとして活動中。\n\n日本テレビ「ZIP!」、BS-TBS「トレンド・クリップ」でナレーションを担当するほか、イベントや動画のMC、婚活プランナー、子ども向け英会話講師など様々な顔を持つ。一児の母。"
   },
   {
@@ -316,7 +326,7 @@
     "date": "2026/7/8",
     "timestamp": 1783546200000,
     "audio": "https://traffic.megaphone.fm/NRBC7703450697.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n\n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n\n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n\n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n\n\n■木曜パーソナリティ：和田 愛里\n\nシンガー・MC・俳優。大手テーマパークでミュージカルショー等に出演。第40期宝くじ幸運の女神。"
   },
   {
@@ -366,7 +376,7 @@
     "date": "2026/7/7",
     "timestamp": 1783459800000,
     "audio": "https://traffic.megaphone.fm/NRBC9550768824.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n\n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n\n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n\n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n\n\n■水曜パーソナリティ：藤井 みりか\n\n\n\nフリーアナウンサー/ナレーター。こども話し方教室の運営や、日本酒Podcast番組などを担当"
   },
   {
@@ -426,7 +436,7 @@
     "date": "2026/7/6",
     "timestamp": 1783373400000,
     "audio": "https://traffic.megaphone.fm/NRBC6722060262.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n\n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n\n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n\n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n\n\n■火曜パーソナリティ：寺島啓太\n\n\n\nフリーアナウンサー（元四国放送・文化放送）\n\n\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
   },
   {
@@ -466,7 +476,7 @@
     "date": "2026/7/5",
     "timestamp": 1783287000000,
     "audio": "https://traffic.megaphone.fm/NRBC8241534271.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【PR】\n\n7月15日生配信　NIKKEI LIVE「必修！ディープテック　AI半導体入門　技術を知ってチャンスをつかむ」\n\n\n\n人工知能（AI）や半導体、量子などに「難しそうだが興味はある」方必見の番組を始めます。注目の最新技術のポイントを誰にでも分かりやすくコンパクトに、NIKKEI Tech Foresightの編集長や記者が解説します。\n\n\n\n初回のテーマは「AI半導体」。そもそもAI半導体って何？という素朴な疑問を出発点に、業界のキープレーヤーや5年後の見通しなど、大事なところだけを分かりやすく解説します。アーカイブ視聴も可能です。\n\n\n\n視聴登録特典として、NIKKEI Tech Foresightの2カ月無料クーポンもご用意していますので、興味のある方は以下のリンクからお申し込みください。\n\nhttps://www.nikkei.com/live/event/EVT260608001/?n_cid=DSPRM1OTR01_nagara\n\n\n\n■月曜パーソナリティ：外村 倫子\n\n\n\n国家資格キャリアコンサルタント/フリーアナウンサー"
   },
   {
@@ -526,7 +536,7 @@
     "date": "2026/7/4",
     "timestamp": 1783205400000,
     "audio": "https://traffic.megaphone.fm/NRBC5592269838.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "■日曜パーソナリティ：横田香峰\n\n大学卒業後、個別塾の教室長を経て、現在はラジオパーソナリティ・舞台俳優・構成作家として活動"
   },
   {
@@ -566,7 +576,7 @@
     "date": "2026/7/3",
     "timestamp": 1783119000000,
     "audio": "https://traffic.megaphone.fm/NRBC4593663898.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "■土曜パーソナリティ：河野 千秋　\n\n新聞記者を経てアナウンサーに。NHK BSやTBS NEWSでキャスターを務め、現在はフリーで活動。趣味のゴルフは豪快なスイングが持ち味。"
   },
   {
@@ -586,7 +596,7 @@
     "date": "2026/7/3",
     "timestamp": 1783068900000,
     "audio": "https://traffic.megaphone.fm/NRBC8095851481.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/88/57/c188574c-c823-81db-2eb2-a779872f1ff8/mza_2827368413544672262.jpg/100x100bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
     "desc": "【30年ぶり「金利1%」の世界へ。あなたの家計はプラス？マイナス？】\n\nニュースレターwith NIKKEI。今週は市場グループの佐伯太朗記者が担当です。\n\n日経平均7万円、40年ぶりの円安が進む中、日銀の利上げで政策金利が30年ぶりの高水準に。\n\n🏠 住宅ローンを抱える30代：年〇万円の負担増⁉️\n\n\n👴 預金を持つシニア層：年〇万円の押し上げ効果⁉️\n🛡️ 損したくない人のための「守りの投資」とは"
   },
   {
@@ -668,16 +678,6 @@
     "audio": "https://anchor.fm/s/10afb9540/podcast/play/121868338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F8aaefbb1-1685-dbd3-e3e1-ffe5c05d2bd8.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
     "desc": "🈵【満席御礼・キャンセル待ち受付中】夏休み親子イベント\n本イベントはご好評につき、定員に達したためチケットは完売（満席）となりました。たくさんのお申し込みをいただき、誠にありがとうございます！\n現在は「キャンセル待ち」として受付を行っております。ご希望の方は、以下のフォームよりご登録をお願いいたします。\n▶︎ キャンセル待ち登録フォーム：https://forms.gle/mUHzAgcDWGKL3PpF7\n※キャンセルが発生し、お席にご案内できる場合のみ、ご登録いただいたメールアドレス宛にご連絡いたします。\n▼ イベント詳細（参考）\n『Kids' News - キッズニュース』初のリアル親子イベント！\n日時：2026年7月20日（月・祝）10:00〜12:00\n場所：JELLY JELLY CAFE 吉祥寺店（JR吉祥寺駅 徒歩5分）\n対象：お子さん＋保護者（文字の読み書きができる小学生以上におすすめ）\n・イベント詳細（note）：⁠https://note.com/rinaarailevia/n/nc56ca0c2b5a1\n・Peatix（満席）：https://peatix.com/event/5035795\n\nーーーーーーーーーーーーーーーーーーーー\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です。\nこの人（ひと）だれ？\nどんな国（くに）？\nなんでニュースになってるの？\nそんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう。\n#キッズニュース\n▶︎質問箱（しつもんばこ）\n『Kids' News - キッズニュース』にこたえてほしい質問（しつもん）をおくってください。\nお父さんやお母さん、大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n⁠https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の人へ】\n〜親子に信頼できる情報源を〜\n『Kids' News - キッズニュース』は小学校低学年から聞ける子ども向けニュース番組です。\nファクトに基づき、できるだけバイアス少なく、小学低学年でもわかるように時事ニュースを解説していきます。\nお子さんと一緒に聞くことで会話のきっかけにもしていただけると幸いです。\n▶︎ この番組について：⁠https://note.com/rinaarailevia/n/ne1b89db80c45⁠\n【サポート会員〜キッズニュースPTA会員とは】\nこの番組はサポート会員の皆様のご支援により運営しております。\nご支援いただいた皆様には週末版エピソードを配信中です。\nこの番組を応援してくださる方はぜひ、PTA会員へのお申し込みをご検討いただけると嬉しいです。\n▶︎ キッズニュースPTA会員とは：https://note.com/rinaarailevia/n/n29019f024e71\n▶︎ キッズニュースPTA会員お申し込みリンク：https://note.com/rinaarailevia/membership\n【本日の参考ニュース】ベンヤミン・ネタニヤフhttps://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%A4%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%8D%E3%82%BF%E3%83%8B%E3%83%A4%E3%83%95\n【配信スケジュール】\n毎週 月・水・金　朝05：00配信\n【制作】\n新井里菜（オーディオジャーナリスト）\nポッドキャストに特化したニュース番組やドキュメンタリー番組制作が専門のオーディオジャーナリスト\n制作番組は『⁠⁠ニュースコネクト〜あなたと経済をつなぐ5分間⁠⁠』『⁠⁠越境家族 - Transnational Family⁠⁠』など多数\nX：⁠⁠https://x.com/RinaAraiLevia⁠⁠\nProfile：⁠⁠https://bio.site/RinaAraiLevia⁠"
-  },
-  {
-    "id": "a59b103e-5bfe-4a44-a9f8-46c9e90d9ec3",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "マチュー・マコノヒーって実際の名前の発音と違いすぎでは？",
-    "date": "2026/6/30",
-    "timestamp": 1782806400000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/121909424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F5c51700e-3577-ddbf-d28f-79cc91cacefb.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "マコノヘイでしょ？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a3d9bd68743abfff3b9308a",
