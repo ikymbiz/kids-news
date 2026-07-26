@@ -1,15 +1,5 @@
 [
   {
-    "id": "f079b51d-1adf-4d77-a735-4125706b8fa4",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "スタバのテーブルに足を乗っけている外国人観光客がいたことに関して",
-    "date": "2026/7/26",
-    "timestamp": 1785052800000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/122656256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F8c01c9b1-cd7c-334e-efb2-de561df4574b.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "足文化違うよね〜【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
     "id": "6325940c-8829-11f1-973e-737a2a25c5f5",
     "podcastName": "ながら日経",
     "title": "7月26日（日）日本の対米巨額投資 シティとJPモルガン参加、スペースXロケット ほぼ無傷でインド洋着水",
@@ -678,6 +668,16 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/122371139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F83c9acb7-1e54-5108-9cd4-9b4a9767b434.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "俺のゴールにさせてくれや！！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
+    "id": "c113b401-3b78-49f7-9f31-be7eb3f8ef1a",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "W杯チュニジア戦を終えて",
+    "date": "2026/7/11",
+    "timestamp": 1783756800000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/122371122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F2a3d9f12-9c85-9b71-8a4e-aa761e99b04a.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "放送のタイムラグすごいな...【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a3d85048743abfff3b93089",
