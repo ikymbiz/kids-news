@@ -1,5 +1,35 @@
 [
   {
+    "id": "aca03902-8cbb-11f1-8c84-c363f5fb6fd2",
+    "podcastName": "ながら日経",
+    "title": "NIKKEI THE PITCH会議室 第23回 SmartHR上場延期―\"失敗したIPO\"なのか、日本最強の資本政策なのか",
+    "date": "2026/7/31",
+    "timestamp": 1785487260000,
+    "audio": "https://traffic.megaphone.fm/NRBC4149623924.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
+    "desc": "ながら日経とNIKKEI THE PITCHのコラボ企画「NIKKEI THE PITCH会議室」。\n\nスタートアップ界隈の本当のところを、池田編集長の鋭い視点と、妖精さんのズバッとコメントで深掘りしていきます。\n\n\n\n第23回となる今回のテーマは、SmartHR上場延期―\"失敗したIPO\"なのか、日本最強の資本政策なのか。 SmartHRが年内に目指していた東証上場を延期する方針だと報じられました。業績は好調なのに、なぜ延期という選択ができたのか？SaaS企業の評価が下がっている背景や、この事例から見えてくるスタートアップの資本政策の示唆について考えます。"
+  },
+  {
+    "id": "d562849a-8c92-11f1-8fb3-ffae103333ad",
+    "podcastName": "ながら日経",
+    "title": "香港便り④最新スポーツに最先端エリア　富裕層マネーも回復〜with NIKKEI",
+    "date": "2026/7/31",
+    "timestamp": 1785484800000,
+    "audio": "https://traffic.megaphone.fm/NRBC4226213709.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
+    "desc": "ニュースレター「withNIKKEI」コラボ放送\n\nNQN香港の福井記者の「香港便り」第4弾！駐在3年4カ月の視点から、急速に変化する香港の“今”を解説します\n\n🏓話題の最新スポーツ「ピックルボール」体験談 \n\n🏙️旧啓徳空港跡地のハイテク再開発とカオスな旧市街 \n\n💰香港に富裕層マネー回帰の理由\n\n■ ニュースレター「with NIKKEI」\n\n経済、社会のモヤモヤを記者が読み解くニュースレターです。 日経の若手記者が20～30代の読者の皆様と同じ視点で、ニュースについて考えます。\n\n購読（無料）は⁠こちら⁠からお願いします。\n\nhttps://regist.nikkei.com/ds/setup/briefing.do?me=B014"
+  },
+  {
+    "id": "6deb0597-2d6c-4b83-bc0d-016e5f1225cf",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "ケビン、引越し完了",
+    "date": "2026/7/31",
+    "timestamp": 1785484800000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/122687182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2F38008d1a-de28-9c68-70ee-bdb63d6cf4b5.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "New Chapterの始まりですな【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "6a5e7ec4b2634fbe9a67de12",
     "podcastName": "Hapa英会話 Podcast",
     "title": "日本の学校が大切にしていること（#612）",
@@ -610,16 +640,6 @@
     "desc": "さあ予想は的中するのか【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "750ef94a-836c-11f1-9ef2-03307793c171",
-    "podcastName": "ながら日経",
-    "title": "7月20日（月）企業の役員選任  一般株主の支持率わかりやすく、Amazon配送大手 運送2300社とステーブルコイン決済",
-    "date": "2026/7/19",
-    "timestamp": 1784496600000,
-    "audio": "https://traffic.megaphone.fm/NRBC8416528975.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
-    "desc": "■月曜パーソナリティ：外村 倫子\n\n\n\n国家資格キャリアコンサルタント/フリーアナウンサー"
-  },
-  {
     "id": "6a5a82984857cc2d09fa334a",
     "podcastName": "Hapa英会話 Podcast",
     "title": "夏になると、なぜやる気がなくなるのか？",
@@ -660,16 +680,6 @@
     "desc": "学ばせていただいてますよGPTに...【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "b761de02-829f-11f1-830b-371babbbf7ed",
-    "podcastName": "ながら日経",
-    "title": "7月19日（日）地銀 信金の与信管理 金融庁が点検へ、過熱AI相場「期待修正」でマネー逆流",
-    "date": "2026/7/18",
-    "timestamp": 1784415000000,
-    "audio": "https://traffic.megaphone.fm/NRBC6360778773.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
-    "desc": "■日曜パーソナリティ：横田香峰\n\n大学卒業後、個別塾の教室長を経て、現在はラジオパーソナリティ・舞台俳優・構成作家として活動"
-  },
-  {
     "id": "2a49c9c6-6ccf-453a-b0a1-237ae0c70e1b",
     "podcastName": "Kevin's English Room Podcast",
     "title": "複数人に対して「You」が使えること、ケビンは知らなかった",
@@ -708,16 +718,6 @@
     "audio": "https://anchor.fm/s/10afb9540/podcast/play/122230299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F17c6ce06-1fb7-0532-e423-8ad29798b3b7.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
     "desc": "【本日の参考ニュース】\n日本銀行についてhttps://www.boj.or.jp/about/education/oshiete/outline/a02.htm\n日本銀行ってなにをしているの？https://www.j-flec.go.jp/links/kinyu-navi/walking/kouza6/\nーーーーーーーーーーーーーーーーーーーー\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n 世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です\n この人（ひと）だれ？どんな国（くに）？なんでニュースになってるの？ そんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう！\n #キッズニュース\n▶︎質問箱（しつもんばこ）\n 番組にこたえてほしい質問（しつもん）をおくってください。大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の皆様へ】\n 〜親子に信頼できる情報源を〜\n 当番組は、ファクトに基づきバイアスを少なく、小学校低学年でもわかるように時事ニュースを解説しています。お子さんとの会話のきっかけにしていただけると幸いです。\n▼ noteでテキスト版や限定コンテンツを配信中！\n 大人の方に向けた「解説ノート」をnoteでスタートしました。ニュースの概要はどなたでも【無料】でお読みいただけます。\n また、番組の継続運営をサポートしてくださる「キッズニュースPTA会員」の皆様には、制作の裏話や週末版エピソードなどの限定コンテンツも公開中です！\n🔗 各種リンク（note）\n ▶︎ この番組について ⁠https://note.com/rinaarailevia/n/ne1b89db80c45\n ▶︎ ニュース解説記事 https://note.com/rinaarailevia\n ▶︎ PTA会員の詳細・ご登録（サポートのお願い） https://note.com/rinaarailevia/n/n29019f024e71\nーーーーーーーーーーーーーーーーーーーー\n【番組情報】\n 配信：毎週 月・水・金　朝　朝5:00\n 制作：新井里菜（オーディオジャーナリスト）\n ・X（Twitter）：https://x.com/RinaAraiLevia\n ・Profile：⁠⁠https://bio.site/RinaAraiLevia\nーーーーーーーーーーーーーーーーーーーー"
-  },
-  {
-    "id": "4113d141-9133-42da-80fe-0affc9ac60af",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "日本の握手は生ぬるい",
-    "date": "2026/7/16",
-    "timestamp": 1784188800000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/122371175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F8982af38-f125-8896-504e-0e4da62b59cb.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "しっかり握手せいや！！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "1f6f0b6a-d097-414b-b130-f1c2d015048b",
