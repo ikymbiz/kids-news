@@ -1,5 +1,15 @@
 [
   {
+    "id": "d7dc60e5-e57f-4eff-9a0a-722bb4a56b22",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "やまちゃんは現状W杯でどの国推し？",
+    "date": "2026/8/2",
+    "timestamp": 1785657600000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/122687213/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2Fcefafec0-2fc5-a5b4-aeef-4e7766d29653.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "スペイン観てみますか！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "44b1e542-8dac-11f1-b7e6-8f9d5a0ade87",
     "podcastName": "ながら日経",
     "title": "8月2日（日）波状の介入　円安・ドル高阻止へ、外国人受け入れ枠 外食95%・建設67%満たす",
@@ -698,16 +708,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/122371211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2Ff066333a-ace3-96ab-fa74-053f66a31b5d.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "学ばせていただいてますよGPTに...【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "2a49c9c6-6ccf-453a-b0a1-237ae0c70e1b",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "複数人に対して「You」が使えること、ケビンは知らなかった",
-    "date": "2026/7/18",
-    "timestamp": 1784361600000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/122371201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F173b0595-fbae-abcc-2a0f-745b2e6898f7.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "Y'allとかYou guysといってしまう【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a46e2d4c96d1eb0f1b979cf",
