@@ -1,5 +1,15 @@
 [
   {
+    "id": "110d63ff-ac12-484d-bab4-ef1726b24944",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "パリ旅行したいのだがちょっと差別が怖い",
+    "date": "2026/8/30",
+    "timestamp": 1788076800000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/124224539/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F1a6d4c84-83a5-a475-5173-be748dc903a9.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "やまちゃん教えて【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "16cee0ec-a3a7-11f1-b27d-03d09c096321",
     "podcastName": "ながら日経",
     "title": "8月30日（日） 自衛隊情報基盤にIOWN導入、福島第1廃炉にフィジカルAI",
@@ -698,16 +708,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/123522725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-30%2F8561ce9a-e137-c5db-2b2f-f20efdec93d7.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "ハーフタイムショーも話したい【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "9c8188fd-6b20-48d7-8a18-8823646a1087",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "え、暑い",
-    "date": "2026/8/15",
-    "timestamp": 1786780800000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/123522679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-30%2Ff341130b-0d38-7eb8-6384-27e481da3da2.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "やだ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "963cbbdd-a609-450b-9ee5-913175b0dc97",
