@@ -1,15 +1,5 @@
 [
   {
-    "id": "0a890d12-9598-4cbb-b2d6-a2b48d42e6fd",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "やまちゃんテレビ番組にゲスト出演！",
-    "date": "2026/9/6",
-    "timestamp": 1788681600000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/124330318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2Fb21cc690-3f4c-4d61-ee33-11b8763495a9.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "「うたなびMAX！！」【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
     "id": "e9ad8c94-a928-11f1-b4fb-2b6710758c5f",
     "podcastName": "ながら日経",
     "title": "9月6日（日） 東商取の電力先物 蘭ABNアムロが参入へ、消費税減税へ特命閣僚案　内閣改造時",
@@ -668,6 +658,16 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/123522942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-30%2F421c07de-d346-8ddf-ad48-9b1b5c25a681.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "どっちが普通？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
+    "id": "974272a9-62e5-4653-a630-6bc9650299e6",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "正しい英単語がわからない時に、よく英単語を作って喋る",
+    "date": "2026/8/22",
+    "timestamp": 1787385600000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/123522917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-30%2F5c908465-ed9e-e38d-d572-9220da4746f8.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "めっちゃよくやる！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a6bdeaaeeafeb8bc334cc07",
