@@ -1,15 +1,5 @@
 [
   {
-    "id": "4bd13852-31df-425b-9a12-3ee9f8abe8fa",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "二人のそのミニいろはすはどこから来てんの？",
-    "date": "2026/9/8",
-    "timestamp": 1788854400000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/124330368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F19595363-e668-049d-6966-e5e5d8fece37.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "やまちゃん取りすぎな【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
     "id": "96cc28b6-6ab2-4c24-ac43-005bc7f359f0",
     "podcastName": "News Connect",
     "title": "【国際欄 #15】国家情報局が発足。なぜ日本でインテリジェンス改革が急がれるのか（ゲスト：落合浩太郎さん）",
@@ -678,6 +668,16 @@
     "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/ef6ea99639fc2b5527442673c36ce2c1.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
     "desc": "「ネイティブの話す英語が速すぎて聞こえない」そんな方のための、毎日使える反復リスニングです。英語は合計4回流れます。\n音声のスクリプトは公式Lineから無料でどうぞ！\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://sakura-english.jp/pod_line/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\nSakura Englishのコンテンツをアプリで学べるアプリ・メンバーシップはこちらから👇（無料の体験版もご用意）\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://shop.sakura-english.jp/products/sakura-english-sub⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n学習できるのは、人気の30以上の動画と発売中の4つの書籍。さらに毎週公開される動画の内容も随時追加されます。"
+  },
+  {
+    "id": "11d9a7d1-76b6-4905-89d6-7d503259b34c",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "アメリカはW杯の賞金に対して税金をかけるという異例の対応をしたらしい",
+    "date": "2026/8/24",
+    "timestamp": 1787558400000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/124224322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F940e5a45-35dd-c9cc-35d5-54cca1a5cb18.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "あまり驚かないな【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a88b6ac2db82878ccf517f6",
