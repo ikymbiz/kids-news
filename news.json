@@ -1,5 +1,15 @@
 [
   {
+    "id": "306ec066-2ae0-4fb1-95ee-67a91d8ead96",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "アメリカのお笑いと日本のお笑いどっちが好き？",
+    "date": "2026/9/20",
+    "timestamp": 1789891200000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/125802860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2Fa5d0f2fd-9d02-1f8d-19c0-bd1277b18f03.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "お笑い養成所のカリキュラム見てみたい【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "717869c4-b422-11f1-bb48-9b9e1269f4c7",
     "podcastName": "ながら日経",
     "title": "9月20日（日） 中国新興リープがスバル・三菱自超え、GoogleのAIも他社システムに侵入",
@@ -648,16 +658,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/124330318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2Fb21cc690-3f4c-4d61-ee33-11b8763495a9.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "「うたなびMAX！！」【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "e64847e4-eb49-401d-84a8-cb810f29a4c7",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "トイ・ストーリー5の納得いかなかった所",
-    "date": "2026/9/5",
-    "timestamp": 1788595200000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/124330300/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2Ff31ba560-2998-a324-d24e-1a1e950c80d4.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "ネタバレあり！！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6a88af5b21182a29409d9736",
