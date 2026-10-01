@@ -1,5 +1,25 @@
 [
   {
+    "id": "d1551306-86c8-4b35-a578-2d243a8d63d5",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "やま、韓国で携帯を紛失する",
+    "date": "2026/10/1",
+    "timestamp": 1790841600000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126336951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F512052ba-f5b0-0a7a-6535-c826314e53f5.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "終わったやん【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
+    "id": "f53d6967-5134-4e4e-ac44-c7da5524c4d5",
+    "podcastName": "News Connect",
+    "title": "【文化欄 #18】未経験者ばかり。異色チームが作ったアニメ映画『我々は宇宙人』の裏側（ゲスト：林健太郎さん）",
+    "date": "2026/10/1",
+    "timestamp": 1790837700000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/126242153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2Fd6408c1d-bbc9-c936-10c8-5f467d7412ea.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect 文化欄、ゲストは映画プロデューサーの林健太郎さんです。林さんが代表を務めるNOTHING NEW制作の映画『我々は宇宙人』。今回は、同作の制作背景をじっくりと伺いました。監督の初期衝動を作品に結実させるまでの過程、さらに保育士やモデルも加わったチームによる異色のアニメ制作の裏側まで。熱量と工夫に満ちた作品作りについてお聞きしています。\n\n\n▼ゲスト\n林健太郎（映画プロデューサー）\n1993年生まれ。2017年、東宝株式会社入社。2020年、オンラインの創作集団「ノーミーツ」を立ち上げ、多くの作品を制作。2022年、「才能が潰されない世の中」を目指して映画レーベル NOTHING NEW を創業。ホラーとアニメーションを中心とした映画の製作、海外展開等に挑戦している。\n\nX：https://x.com/KentarooH\n新作『我々は宇宙人』：https://nothingnew.film/wearealiens/\n\n\n▼MC\n岩井圭也（小説家）\nX：⁠⁠⁠https://x.com/keiya_iwai⁠⁠\n\n\n▼News Connect 土曜版・日曜版・夕刊版 Spotifyプレイリストはこちら\n🟢土曜版\n⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/playlist/3MKhzjyNlx96n2Khmt35EK⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔴日曜版\n⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/playlist/2cAjmNYGXvSXCtPujQSNVb⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔵夕刊版 国際欄\nhttps://open.spotify.com/playlist/3CtpYOPniQT6FEuByBdfg3\n\n\n🟣夕刊版 文化欄\n⁠⁠⁠https://open.spotify.com/playlist/6DSiNeJQwWhV982h3BxOyg\n\n\n🟡夕刊版 金融欄\n⁠https://open.spotify.com/playlist/4btihPGM3vOhndcdtzQTtM\n\n\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nLISTENで開く"
+  },
+  {
     "id": "7066e44a-a840-11f1-bee7-f70a32ed3099",
     "podcastName": "ながら日経",
     "title": "ながら日経 特別版「100年の資産形成」",
@@ -550,16 +570,6 @@
     "desc": "【Amazon Music独占でスピンオフコンテンツ「ながら日経WEEKLY」がスタート！】\n\n \n\nながら日経のパーソナリティと、日経の記者をはじめとした有識者が週替わりで登場し、\n\nその週のポイントとなるニュースを紹介・解説します。\n\n毎週土曜日正午ごろ、Amazon Music独占でお聴きいただけます。\n\n \n\n詳しくはこちらをチェック↓\n\nhttps://music.amazon.co.jp/podcasts/af728319-e478-4300-9b34-38b547685f2d?ref=dm_sh_GJTSDni7N0Z6ohZVAQC1rfCQq\n\n---------------------------------------------------------------\n\n\n\n■土曜パーソナリティ：河野 千秋　\n\n \n\n新聞記者を経てアナウンサーに。NHK BSやTBS NEWSでキャスターを務め、現在はフリーで活動。趣味のゴルフは豪快なスイングが持ち味。"
   },
   {
-    "id": "c6c8049e-0876-459e-972e-7157775a1f8e",
-    "podcastName": "News Connect",
-    "title": "【土曜版 #95】時間の正体とは。せわしない現代人が知っておきたいベルクソン哲学（ゲスト：平井靖史さん）",
-    "date": "2026/9/18",
-    "timestamp": 1789761600000,
-    "audio": "https://cdn.listen.style/p/01hgjnrjszt1mrg3jk1829j0cn/audio/odl73gLp58COfcmPusVx0mDklkonXFH96Mm7akbh.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "【PR】日本イーライリリー株式会社\n＊東京ビジネスハブ、スペシャルセッションはこちら\nhttps://open.spotify.com/show/0qqdTvNOIHfveOoWBs98wN\n「News Connect」土曜版。今回のゲストは慶應義塾大学文学部教授の平井靖史さんです。ベルクソン哲学の第一人者である平井さんに、時間とは何かという根本的な問いから、記憶・生命・社会・AIまで、ベルクソンの哲学のレンズから、現代社会がどのように見えるかをじっくりと伺いました。コスパ・タイパに追われる我々にとって、世界の見え方が変わるインタビューです。\n▼Podcast Studio Chronicle YouTubeチャンネル\n⁠https://www.youtube.com/@PodcastStudioChronicle\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://x.com/nmrtkfm\n【ゲストプロフィール】\n平井靖史/慶應義塾大学教授\n1971年生まれ。武蔵野美術大学造形学部油絵学科卒業後、東京都立大学大学院博士課程単位取得退学。現在、慶應義塾大学文学部教授。専門はベルクソン・ライプニッツなど近現代哲学。PBJ（Project Bergson in Japan）代表、日仏哲学会理事、国際ベルクソン協会理事。著書に『世界は時間でできている ベルクソン哲学入門』（青土社）など。\n『はじめてのベルクソン 時間をひらく哲学』\nhttps://amzn.asia/d/0cyRHIGA\n▼News Connect 土曜版・日曜版・夕刊版 Spotifyプレイリストはこちら\n🟢土曜版\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/playlist/3MKhzjyNlx96n2Khmt35EK⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n🔴日曜版\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/playlist/2cAjmNYGXvSXCtPujQSNVb⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n🔵夕刊版 国際欄\nhttps://open.spotify.com/playlist/3CtpYOPniQT6FEuByBdfg3\n🟣夕刊版 文化欄\n⁠⁠⁠https://open.spotify.com/playlist/6DSiNeJQwWhV982h3BxOyg\n🟡夕刊版 金融欄\n⁠https://open.spotify.com/playlist/4btihPGM3vOhndcdtzQTtM\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\n\n\n LISTENで開く"
-  },
-  {
     "id": "c0e97692-b346-11f1-b5df-27978abfe47f",
     "podcastName": "ながら日経",
     "title": "9月18日（金）ＡＩが人類を滅ぼす？競争と共存のゆくえ〜with NIKKEI",
@@ -728,16 +738,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/125233808/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F0074f83c-7661-db3f-a4cb-33d9ef00626e.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "単調になってしまう【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "e8ac3d95-c69c-4d26-a0ae-67fdb88b100a",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "Randy's Dounuts最近めっちゃ店舗増やしてない？",
-    "date": "2026/9/12",
-    "timestamp": 1789200000000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/125233802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2Fcbc937d8-e319-82c5-931b-c4c40b616a81.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "もう一回挑戦してみるか【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "daihonnashi.podbean.com/3c676699-f965-3013-b430-9e77c321d5bf",
