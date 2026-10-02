@@ -1,5 +1,25 @@
 [
   {
+    "id": "1bdc633c-be0c-11f1-a962-6f393491f725",
+    "podcastName": "ながら日経",
+    "title": "10月2日（金）変わる、職場の「当たり前」〜with NIKKEI",
+    "date": "2026/10/2",
+    "timestamp": 1790928000000,
+    "audio": "https://traffic.megaphone.fm/NRBC6454372546.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
+    "desc": "ニュースレター「with NIKKEI」コラボ放送\n\n今週はくらし経済グループの河井萌記者が担当です。\n\n職場の当たり前が変わっています。制服のデザイン工夫、女性タクシー運転手の増加、アバター接客の導入など、働く人の多様性に合わせた取り組みが広がっています。大切なのは「仕組みに人を合わせるのではなく、人に仕組みを合わせる」こと。働きやすさの工夫は、実は多くの人にとってメリットになります。\n\n■ ニュースレター「with NIKKEI」\n\n経済、社会のモヤモヤを記者が読み解くニュースレターです。 日経の若手記者が20～30代の読者の皆様と同じ視点で、ニュースについて考えます。\n\n購読（無料）は⁠こちら⁠からお願いします。\n\nhttps://regist.nikkei.com/ds/setup/briefing.do?me=B014"
+  },
+  {
+    "id": "9d131f94-01f1-4448-863c-873f0a3144dd",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "やま、韓国のカジノで連敗",
+    "date": "2026/10/2",
+    "timestamp": 1790928000000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126336973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F417266dc-aa68-f59d-b5b2-d601e1e53ef5.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "ルールぐらい調べろや【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "6aa9e9bfd801d5d360ae6f6c",
     "podcastName": "Hapa英会話 Podcast",
     "title": "10年後の自分はどうなっているか（#634）",
@@ -590,16 +610,6 @@
     "desc": "香り最高すぎ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "a91f4b2e-b35d-11f1-bb80-1b5a89fd52e0",
-    "podcastName": "ながら日経",
-    "title": "9月19日（土） 日銀の植田総裁 連続・大幅利上げの可能性「排除せず」、コメ店頭価格 2年ぶり5キロ3000円割れ",
-    "date": "2026/9/18",
-    "timestamp": 1789771800000,
-    "audio": "https://traffic.megaphone.fm/NRBC3598544471.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
-    "desc": "【Amazon Music独占でスピンオフコンテンツ「ながら日経WEEKLY」がスタート！】\n\n \n\nながら日経のパーソナリティと、日経の記者をはじめとした有識者が週替わりで登場し、\n\nその週のポイントとなるニュースを紹介・解説します。\n\n毎週土曜日正午ごろ、Amazon Music独占でお聴きいただけます。\n\n \n\n詳しくはこちらをチェック↓\n\nhttps://music.amazon.co.jp/podcasts/af728319-e478-4300-9b34-38b547685f2d?ref=dm_sh_GJTSDni7N0Z6ohZVAQC1rfCQq\n\n---------------------------------------------------------------\n\n\n\n■土曜パーソナリティ：河野 千秋　\n\n \n\n新聞記者を経てアナウンサーに。NHK BSやTBS NEWSでキャスターを務め、現在はフリーで活動。趣味のゴルフは豪快なスイングが持ち味。"
-  },
-  {
     "id": "e48496d0-fa98-4ccf-98c0-34a6fb073a38",
     "podcastName": "Kevin's English Room Podcast",
     "title": "千葉の豪雨でやまちゃんの実家は大丈夫だった？",
@@ -748,15 +758,5 @@
     "audio": "https://anchor.fm/s/10afb9540/podcast/play/125019651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2Fd1aee5d6-89fe-4bf8-88e6-625e45f88f6d.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
     "desc": "【本日の参考ニュース】\n人間はどうやってうまれてきたの、どうして人間はいるhttps://kids.gakken.co.jp/kagaku/kagaku110/science0043_past/\n姿を消したアウストラロピテクス　変わる歴史教科書https://www.nikkei.com/article/DGXMZO72199060U1A520C2W11300/\nーーーーーーーーーーーーーーーーーーーー\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n 世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です\n この人（ひと）だれ？どんな国（くに）？なんでニュースになってるの？ そんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう！\n #キッズニュース\n▶︎質問箱（しつもんばこ）\n 番組にこたえてほしい質問（しつもん）をおくってください。大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の皆様へ】\n 〜親子に信頼できる情報源を〜\n 当番組は、ファクトに基づきバイアスを少なく、小学校低学年でもわかるように時事ニュースを解説しています。お子さんとの会話のきっかけにしていただけると幸いです。\n▼ noteでテキスト版や限定コンテンツを配信中！\n 大人の方に向けた「解説ノート」をnoteで配信しています。ニュースの概要はどなたでも【無料】でお読みいただけます。\n また、番組の継続運営をサポートしてくださる「キッズニュースPTA会員」の皆様には、制作の裏話や週末版エピソードなどの限定コンテンツも公開中です！\n🔗 各種リンク（note）\n ▶︎ この番組について ⁠https://note.com/rinaarailevia/n/ne1b89db80c45\n ▶︎ ニュース解説記事 https://note.com/rinaarailevia\n ▶︎ PTA会員の詳細・ご登録（サポートのお願い） https://note.com/rinaarailevia/n/n29019f024e71\nーーーーーーーーーーーーーーーーーーーー\n【番組情報】\n 配信：毎週 月・水・金　朝　朝5:00\n 制作：新井里菜（オーディオジャーナリスト）\n ・X（Twitter）：https://x.com/RinaAraiLevia\n ・Profile：⁠⁠https://bio.site/RinaAraiLevia\nーーーーーーーーーーーーーーーーーーーー"
-  },
-  {
-    "id": "124f93b5-eeeb-4b11-bcd8-7ee776ab9893",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "英語を話している時にどこに抑揚をつければいいか分からない",
-    "date": "2026/9/13",
-    "timestamp": 1789286400000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/125233808/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F0074f83c-7661-db3f-a4cb-33d9ef00626e.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "単調になってしまう【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   }
 ]
