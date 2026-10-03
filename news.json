@@ -1,5 +1,15 @@
 [
   {
+    "id": "0bdbab9c-d61e-4133-aa46-51839eac5c20",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "韓国旅行はいつも満足度が高い",
+    "date": "2026/10/3",
+    "timestamp": 1791014400000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126337089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F2ab31f97-ac8e-e7e9-fa43-3698463da471.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "近くてありがたいですわ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "8139dd36-be57-11f1-a593-23360bf4a19e",
     "podcastName": "ながら日経",
     "title": "10月3日（土） プルデンシャル生命 金融庁が処分へ、自衛隊の新型ミサイル 低コスト品量産へ",
@@ -718,16 +728,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/125233834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2Fa2372850-2fc1-19ec-cc8b-061d66d150e4.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "同じ世界の人の英語を聞くのはめっちゃいい！【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "dd13c3c8-6f20-4bb3-a972-7e7e7ea874af",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "企画でケビンがプレゼン中に二人に質問されて思うこと",
-    "date": "2026/9/14",
-    "timestamp": 1789372800000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/125233824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F544f8a5e-033f-2a30-e1f7-60726195760a.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "なぜ予想できなかったのか...【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6aa4cbc68fc469c4c922bc3c",
