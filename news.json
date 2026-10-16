@@ -1,5 +1,35 @@
 [
   {
+    "id": "fb35a2a2-c93b-11f1-9b1c-a7cf3d9ffdd5",
+    "podcastName": "ながら日経",
+    "title": "NIKKEI THE PITCH会議室 第25回　政府が動いた、民間が動いた——知っておきたい 防衛×スタートアップ",
+    "date": "2026/10/16",
+    "timestamp": 1792139400000,
+    "audio": "https://traffic.megaphone.fm/NRBC1504832193.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
+    "desc": "ながら日経とNIKKEI THE PITCHのコラボ企画「PITCH会議室」。\n\n今回のテーマは「防衛スタートアップ」です。\n\n 政府が2027年度にも防衛スタートアップを支援する新法人をつくるというニュースをきっかけに、政府・民間・スタートアップそれぞれの動きを整理します。\n\nテラドローンやサカナAI、米アンドゥリルの事例も紹介しながら、受注後の資金繰りや量産体制といった、残る課題まで深掘りします。"
+  },
+  {
+    "id": "0da49f0c-c91d-11f1-b853-0b9c1ec09568",
+    "podcastName": "ながら日経",
+    "title": "10月16日（金）民泊は迷惑施設？　各地で相次ぐ営業禁止〜with NIKKEI",
+    "date": "2026/10/16",
+    "timestamp": 1792137600000,
+    "audio": "https://traffic.megaphone.fm/NRBC4350397764.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
+    "desc": "ニュースレター「with NIKKEI」コラボ放送。今週は政策報道ユニットの古林悠夏記者が担当です。\n\n🏠民泊は本当に「迷惑施設」なのか？各地で営業禁止の動きが相次ぐ中、政府の方針が大きく転換。ルール違反の闇民泊は取り締まりながら、ルールを守る事業者をどう支援するか——観光立国の行方を左右する課題です。\n\n■ ニュースレター「with NIKKEI」\n\n経済、社会のモヤモヤを記者が読み解くニュースレターです。 日経の若手記者が20～30代の読者の皆様と同じ視点で、ニュースについて考えます。\n\n購読（無料）は⁠こちら⁠からお願いします。\n\nhttps://regist.nikkei.com/ds/setup/briefing.do?me=B014"
+  },
+  {
+    "id": "04fa55fc-7443-4ba8-94ee-1063de1c557a",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "前動画で紹介したKing's Hawaiianが日本でも買えるらしい！",
+    "date": "2026/10/16",
+    "timestamp": 1792137600000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/127273397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F23bbcf5e-ec47-f94e-30ca-fbf7ed646be6.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "普通のスーパーに売ってる...? 【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "6abf5574f86f3ba5bd1e986b",
     "podcastName": "Hapa英会話 Podcast",
     "title": "一生に一度はやってみたいこと（#640）",
@@ -630,16 +660,6 @@
     "desc": "傘がさせないから...\n\n\n【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "2fdd895c-bf28-11f1-9550-2fee727f52f3",
-    "podcastName": "ながら日経",
-    "title": "10月4日（日） ニトリが国内最大級リサイクル施設、学童保育に「小4以上枠」　待機解消へ子ども家庭庁",
-    "date": "2026/10/3",
-    "timestamp": 1791067800000,
-    "audio": "https://traffic.megaphone.fm/NRBC8048689118.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
-    "desc": "■日曜パーソナリティ：横田香峰\n\n 大学卒業後、個別塾の教室長を経て、現在はラジオパーソナリティ・舞台俳優・構成作家として活動"
-  },
-  {
     "id": "0bdbab9c-d61e-4133-aa46-51839eac5c20",
     "podcastName": "Kevin's English Room Podcast",
     "title": "韓国旅行はいつも満足度が高い",
@@ -648,16 +668,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/126337089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F2ab31f97-ac8e-e7e9-fa43-3698463da471.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "近くてありがたいですわ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "8139dd36-be57-11f1-a593-23360bf4a19e",
-    "podcastName": "ながら日経",
-    "title": "10月3日（土） プルデンシャル生命 金融庁が処分へ、自衛隊の新型ミサイル 低コスト品量産へ",
-    "date": "2026/10/2",
-    "timestamp": 1790981400000,
-    "audio": "https://traffic.megaphone.fm/NRBC8486337388.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
-    "desc": "【Amazon Music独占でスピンオフコンテンツ「ながら日経WEEKLY」がスタート！】\n\n \n\nながら日経のパーソナリティと、日経の記者をはじめとした有識者が週替わりで登場し、\n\nその週のポイントとなるニュースを紹介・解説します。\n\n毎週土曜日正午ごろ、Amazon Music独占でお聴きいただけます。\n\n \n\n詳しくはこちらをチェック↓\n\nhttps://music.amazon.co.jp/podcasts/af728319-e478-4300-9b34-38b547685f2d?ref=dm_sh_GJTSDni7N0Z6ohZVAQC1rfCQq\n\n---------------------------------------------------------------\n\n■土曜パーソナリティ：河野 千秋　\n\n \n\n新聞記者を経てアナウンサーに。NHK BSやTBS NEWSでキャスターを務め、現在はフリーで活動。趣味のゴルフは豪快なスイングが持ち味。"
   },
   {
     "id": "9d131f94-01f1-4448-863c-873f0a3144dd",
@@ -688,16 +698,6 @@
     "audio": "https://anchor.fm/s/10afb9540/podcast/play/125861790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2Fe02dbb9a-702b-9d7c-3a12-9f6ce8c5ac32.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
     "desc": "📩 ニュースレター始めました！\n番組制作で見つけた「子どもが世界に興味を持つきっかけ作り」を連載していきます。\n▶︎ 登録はこちら ⁠https://kidsnewspodcast.substack.com/⁠\nーーーーーーーーーーーーーーーーーーーー\n【本日の参考ニュース】\n「線状降水帯」ってどんなもの？https://kids.gakken.co.jp/kagaku/kagaku110/science20220720/\n線状降水帯に関する情報https://www.jma.go.jp/jma/kishou/know/bosai/kishojoho_senjoukousuitai.html\nーーーーーーーーーーーーーーーーーーーー\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n 世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です\n この人（ひと）だれ？どんな国（くに）？なんでニュースになってるの？ そんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう！\n #キッズニュース\n▶︎質問箱（しつもんばこ）\n 番組にこたえてほしい質問（しつもん）をおくってください。大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の皆様へ】\n 〜親子に信頼できる情報源を〜\n 当番組は、ファクトに基づきバイアスを少なく、小学校低学年でもわかるように時事ニュースを解説しています。お子さんとの会話のきっかけにしていただけると幸いです。\n▼ noteでテキスト版や限定コンテンツを配信中！\n 大人の方に向けた「解説ノート」をnoteで配信しています。ニュースの概要はどなたでも【無料】でお読みいただけます。\n また、番組の継続運営をサポートしてくださる「キッズニュースPTA会員」の皆様には、制作の裏話や週末版エピソードなどの限定コンテンツも公開中です！\n🔗 各種リンク（note）\n ▶︎ この番組について ⁠https://note.com/rinaarailevia/n/ne1b89db80c45\n ▶︎ ニュース解説記事 https://note.com/rinaarailevia\n ▶︎ PTA会員の詳細・ご登録（サポートのお願い） https://note.com/rinaarailevia/n/n29019f024e71\nーーーーーーーーーーーーーーーーーーーー\n【番組情報】\n 配信：毎週 月・水・金　朝　朝5:00\n 制作：新井里菜（オーディオジャーナリスト）\n ・X（Twitter）：https://x.com/RinaAraiLevia\n ・Profile：⁠⁠https://bio.site/RinaAraiLevia\nーーーーーーーーーーーーーーーーーーーー"
-  },
-  {
-    "id": "d1551306-86c8-4b35-a578-2d243a8d63d5",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "やま、韓国で携帯を紛失する",
-    "date": "2026/10/1",
-    "timestamp": 1790841600000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126336951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F512052ba-f5b0-0a7a-6535-c826314e53f5.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "終わったやん【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "b6800aaf-5be0-4a43-98a9-f08cbc9bf6f1",
