@@ -1,5 +1,15 @@
 [
   {
+    "id": "4e0c99ce-a098-4e17-9e83-464b3d199558",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "ケビンのニキビとの戦い、もうすぐ出す手無くなりそうで詰んだ",
+    "date": "2026/10/17",
+    "timestamp": 1792224000000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/127313718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F09834928-4dce-6d6d-f5a4-6f0e3a38b970.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "マジでどうすればいい？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "83d20ff6-c95a-11f1-8ee8-d3aac524b988",
     "podcastName": "ながら日経",
     "title": "10月17日（土）トヨタが全50車種をSDVに、新幹線「のぞみ」指定席値上げ",
@@ -668,16 +678,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/126337089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F2ab31f97-ac8e-e7e9-fa43-3698463da471.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "近くてありがたいですわ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "9d131f94-01f1-4448-863c-873f0a3144dd",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "やま、韓国のカジノで連敗",
-    "date": "2026/10/2",
-    "timestamp": 1790928000000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126336973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F417266dc-aa68-f59d-b5b2-d601e1e53ef5.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "ルールぐらい調べろや【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6aa9e9bfd801d5d360ae6f6c",
