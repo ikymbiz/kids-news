@@ -1,5 +1,25 @@
 [
   {
+    "id": "a300eb97-4f62-4ced-9c1d-2eb0dd692220",
+    "podcastName": "Sakura English",
+    "title": "寝ながら聞く 聞き流し 睡眠英語リスニング 90分",
+    "date": "2026/10/18",
+    "timestamp": 1792321200000,
+    "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/ace69e72b407e4d135620eb2ef32069f.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
+    "desc": "寝る前に最適な英語リスニング聞き流しです。心落ち着く雨音と穏やかな音楽と共にウィスパーボイスの英語をどうぞ。寝ながら聴きながらリラックスして安眠を誘います。英語は合計 4回流れます。後半は日本語音声なしです。"
+  },
+  {
+    "id": "6ad06122-0bcc-4d71-8353-7df2761697ee",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "「日常英会話はできても、洋画を字幕なしで理解するのは難しい」は本当？",
+    "date": "2026/10/18",
+    "timestamp": 1792310400000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/127313749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F692929ce-7356-a5d8-6ac5-c030fabc35bb.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "本当だと思う【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "df6429ee-ca22-11f1-8ce9-6f8548f88114",
     "podcastName": "ながら日経",
     "title": "10月18日（日） MS&AD、政府の国産AI計画に参加、世界債務5京円 借り換えの壁",
@@ -678,16 +698,6 @@
     "audio": "https://anchor.fm/s/260e5c24/podcast/play/126740855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-3%2F1a9a2435-c40a-235a-0fc0-ef9cc4d79f77.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
     "desc": "傘がさせないから...\n\n\n【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
-  },
-  {
-    "id": "0bdbab9c-d61e-4133-aa46-51839eac5c20",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "韓国旅行はいつも満足度が高い",
-    "date": "2026/10/3",
-    "timestamp": 1791014400000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126337089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F2ab31f97-ac8e-e7e9-fa43-3698463da471.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "近くてありがたいですわ【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6aa9e9bfd801d5d360ae6f6c",
