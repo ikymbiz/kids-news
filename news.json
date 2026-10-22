@@ -1,5 +1,25 @@
 [
   {
+    "id": "3eb5ba21-c6ab-4bfb-bd89-6af80df3515d",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "全身脱毛で1番火傷したくない所を火傷しました",
+    "date": "2026/10/22",
+    "timestamp": 1792656000000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126337114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F929092f6-efb5-8e02-fa04-7c4b07a005c5.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "そうです、あそこです【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
+    "id": "92239b27-7b6b-443e-a066-06a898735e30",
+    "podcastName": "News Connect",
+    "title": "【文化欄 #21】ダガー賞受賞作『ババヤガの夜』作者が登場。影響を受けた作品を明かす（ゲスト：王谷晶さん）",
+    "date": "2026/10/22",
+    "timestamp": 1792652100000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/127705737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2Fa56fbdf3-4a92-e7b8-a54b-7e8ca38eca89.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect 文化欄、今回のゲストは、小説家の王谷晶さんです。ダガー賞翻訳部門を受賞した『ババヤガの夜』でも注目の王谷さん。今回は、作家になるまでの道のりを伺いました。北関東の田舎で本と録画ビデオに囲まれて育った幼少期から、二次創作、海外文学との出会い、ライターから小説家への転換など。そして、王谷作品の強度を支える、「徹底的に刈り込む」執筆スタイルについてもお聞きしています。\n\n\n▼ゲスト\n王谷晶（小説家）\n1981年、東京都生まれ。2021年、『ババヤガの夜』が日本推理作家協会賞・長編部門の最終候補に。同作の英訳版『The Night of Baba Yaga』（翻訳：サム・ベット）が、2025年7月ダガー賞翻訳部門を日本人として初めて受賞。同作は、アメリカのLGBTQ＋文学における最高峰とされるラムダ文学賞ミステリー部門にもノミネートされた。その他の著書に『完璧じゃない、あたしたち』『君の六月は凍る』『カラダは私の何なんだ？』『令和元年生まれ ルリカ50歳』など。\n\n\n▼MC\n岩井圭也（小説家）\nX：⁠⁠⁠https://x.com/keiya_iwai⁠⁠\n\n\n▼News Connect 土曜版・日曜版・夕刊版 Spotifyプレイリストはこちら\n🟢土曜版\n⁠⁠https://open.spotify.com/playlist/3MKhzjyNlx96n2Khmt35EK⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔴日曜版\n⁠⁠https://open.spotify.com/playlist/2cAjmNYGXvSXCtPujQSNVb⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔵夕刊版 国際欄\nhttps://open.spotify.com/playlist/3CtpYOPniQT6FEuByBdfg3\n\n\n🟣夕刊版 文化欄\n⁠⁠⁠https://open.spotify.com/playlist/6DSiNeJQwWhV982h3BxOyg\n\n\n🟡夕刊版 金融欄\n⁠https://open.spotify.com/playlist/4btihPGM3vOhndcdtzQTtM\n\n\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nLISTENで開く"
+  },
+  {
     "id": "d0cc42e6-cd4b-11f1-a0ab-4b19e72cacfc",
     "podcastName": "ながら日経",
     "title": "10月22日（木）企業の適時開示 東証がAIでひな型作成、マンション高騰抑制策 自民党が検討",
@@ -560,16 +580,6 @@
     "desc": "📩 ニュースレター始めました！\n番組制作で見つけた「子どもが世界に興味を持つきっかけ作り」を連載していきます。\n▶︎ 登録はこちら ⁠⁠https://kidsnewspodcast.substack.com/⁠⁠\nーーーーーーーーーーーーーーーーーーーー\n【本日の参考ニュース】\nスポーツの日 (日本)https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%81%AE%E6%97%A5_(%E6%97%A5%E6%9C%AC)\n【2026年版】スポーツの日（旧：体育の日）とは？（10月12日） 〜子どもに伝えやすい行事の意味や由来、過ごし方アイデア〜https://hoiclue.jp/4225.html\nーーーーーーーーーーーーーーーーーーーー\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n 世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です\n この人（ひと）だれ？どんな国（くに）？なんでニュースになってるの？ そんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう！\n #キッズニュース\n▶︎質問箱（しつもんばこ）\n 番組にこたえてほしい質問（しつもん）をおくってください。大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の皆様へ】\n 〜親子に信頼できる情報源を〜\n 当番組は、ファクトに基づきバイアスを少なく、小学校低学年でもわかるように時事ニュースを解説しています。お子さんとの会話のきっかけにしていただけると幸いです。\n▼ noteでテキスト版や限定コンテンツを配信中！\n 大人の方に向けた「解説ノート」をnoteで配信しています。ニュースの概要はどなたでも【無料】でお読みいただけます。\n また、番組の継続運営をサポートしてくださる「キッズニュースPTA会員」の皆様には、制作の裏話や週末版エピソードなどの限定コンテンツも公開中です！\n🔗 各種リンク（note）\n ▶︎ この番組について ⁠https://note.com/rinaarailevia/n/ne1b89db80c45\n ▶︎ ニュース解説記事 https://note.com/rinaarailevia\n ▶︎ PTA会員の詳細・ご登録（サポートのお願い） https://note.com/rinaarailevia/n/n29019f024e71\nーーーーーーーーーーーーーーーーーーーー\n【番組情報】\n 配信：毎週 月・水・金　朝　朝5:00\n 制作：新井里菜（オーディオジャーナリスト）\n ・X（Twitter）：https://x.com/RinaAraiLevia\n ・Profile：⁠⁠https://bio.site/RinaAraiLevia\nーーーーーーーーーーーーーーーーーーーー"
   },
   {
-    "id": "8f2c6f23-d5a0-4b25-90d3-fd99beabd69e",
-    "podcastName": "News Connect",
-    "title": "【10月12日】アメリカで「競わない」スポーツ大会がトレンド",
-    "date": "2026/10/11",
-    "timestamp": 1791748800000,
-    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/127305598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F2524afab-2cbf-4add-ceb3-49637d72e7a9.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n竹村由紀子（報道ディレクター／映像作家）\nhttps://twitter.com/Yukiko_Takemura\n▼Podcast「世界のクリエイティブ思考」×「ニュースコネクト」コラボイベント\nhttps://open.spotify.com/episode/1nHQcrys4cl3kWaDAB5qkU\nhttps://open.spotify.com/episode/5jLjbZG7NLHHK5RCkAQRjK\nhttps://open.spotify.com/episode/6FZYSB3d0NJ7jvEV0EVpX5\n▼Podcast「The Creative Mindset」https://open.spotify.com/show/2CCKng04AT7jF2E3jHPcWZ\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://chronicle-inc.net/support?fbclid=IwY2xjawU4w1dleHRuA2FlbQIxMABwZG9mBWJyaWQRMWZNZlhFUFFRUzVMNnJIemlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4uZM1S2ybVrn1vCMONBNT_EHV51OdGXpaS7tVo7v_fHTKITXX6y00auRXFI_aem_BaCrd8DK4jOToa-7HRyiVw\n▼参考ニュース：\nThe color run\nhttps://thecolorrun.com/?srsltid=AU7gw4U_uv9LnsaQKuf-654zK0hnSNpUhgGw70UYSlYcNXxUj69Wft7S\nThe Bovine Classic\nhttps://www.thebovineclassic.com/\n\n\n LISTENで開く"
-  },
-  {
     "id": "016711e7-6900-4a04-9cb1-cd89101fb61b",
     "podcastName": "Kevin's English Room Podcast",
     "title": "動画を撮る日の服装を決めるときいつも思うこと",
@@ -688,16 +698,6 @@
     "audio": "https://cdn.listen.style/p/01jbb9xtgps014h4w5zw571j57/audio/5D1ag2zWb95SYH2pQU65Lf6a54MWMRFNRTIYuv5j.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/96/a6/4a96a6a7-e328-744f-f2d4-3fb045037166/mza_9168702762650049181.jpg/100x100bb.jpg",
     "desc": "今回は「特別回」です。  \n日本理科教育学会第76回全国大会（鹿児島大会）で、小学生から高校生までが発表する「児童生徒ポスター発表」のセッションが開催されてました。会場で特に興味を惹きつけた、奄美大島の小学6年生へのインタビュー音声をお届けします。好きなものに出会えたこと自体が素晴らしいと、大人がそろって感心しきり。子どもの情熱が詰まった「観察と調査」のあり方について、あれこれおしゃべりしました。    \n前回に引き続き、辻先生の同僚・筑波大学附属小学校の志田先生をゲストにお迎えしています。    \n--\n★目次    \n(01:30)　興味を惹いた奄美大島の小学校6年生へインタビューしてみた    \n(07:31)　声に「力」を感じる！研究者の話し方    \n(09:41)　「愛」があふれて調べているからもっと話を聞きたくなる    \n(11:55)　特別な子じゃなくて、好きなことを見つけられたら誰でも    \n(16:10)　ほんとうの「個別最適化」になってるケース    \n(18:18)　一緒に喜ぶことができる、めざせ！保護者のサポート    \n(22:55)　マインドを一緒に見つけてあげたい    \n(27:02)　芽を摘んでしまわないように見守りたい       \n\n\n-\n書籍紹介    \n『高校生科学オリンピックの青春　理系の子』    \nhttps://amzn.asia/d/0ep2EcKA\n\n\n-\n★パーソナリティー    \n木月里美（武蔵野市立小学校 主任教諭）    \n 辻　 健 （筑波大学附属小学校 教諭）    \n森田雄介（東京書籍 理科編集部）\n\n\n-\n★教科書『新編 新しい理科』のご案内    \nhttps://ten.tokyo-shoseki.co.jp/text/shou/rika/\n\n\n-\n★おたよりフォーム    \n・感想やお悩み相談、「理科川柳」はこちらから！    \n　https://forms.gle/EqdeyxDS9BLnyApm8\n\n\n=\n企画協力／音響,SE製作：株式会社 雑談     \n制作：東京書籍 株式会社\n=\n\n\n LISTENで開く"
-  },
-  {
-    "id": "9504cd29-b1c6-4c89-96df-54099179dee9",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "クリスピークリームのあるアメリカ店舗ではドーナッツ１個のみなら無料でくれるらしい",
-    "date": "2026/10/7",
-    "timestamp": 1791360000000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126741150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-3%2Fce920829-2846-f62c-e15b-fee9d572236d.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "最低購入個数が12個だと...?\n【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6abf1636461e70fab382571d",
