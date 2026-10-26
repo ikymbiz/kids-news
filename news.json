@@ -1,5 +1,35 @@
 [
   {
+    "id": "5d3e7b26-d144-11f1-80ea-ab28d0dd75b0",
+    "podcastName": "ながら日経",
+    "title": "10月27日（火）東京都千代田区 三菱地所系マンションに5年転売禁止要請、ペロブスカイト官民で量産へ",
+    "date": "2026/10/26",
+    "timestamp": 1793050200000,
+    "audio": "https://traffic.megaphone.fm/NRBC4129459474.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
+    "desc": "■火曜パーソナリティ：寺島啓太\n\n\n\nフリーアナウンサー（元四国放送・文化放送）\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
+  },
+  {
+    "id": "318bc810-2fc2-42f1-a318-1b7943627cfe",
+    "podcastName": "News Connect",
+    "title": "【10月27日】ブラジル大統領選、ルラ氏が決選投票で勝利。トランプ氏の盟友を破る",
+    "date": "2026/10/26",
+    "timestamp": 1793044800000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/128115874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F70be9e45-ddcb-81e1-4f79-e81a3858de25.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n野村高文（Podcastプロデューサー／Podcast Studio Chronicle代表）\nhttps://x.com/nmrtkfm\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n▼参考ニュース：\nLula wins fourth term as Brazil's president, beating Flávio Bolsonaro in runoff\nhttps://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/\nLula wins historic fourth term in Brazil, denying Trump a close ally\nhttps://www.usatoday.com/story/news/world/2026/10/25/brazil-election-lula-bolsonaro-trump/92327968007/\nInside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power\nhttps://www.reuters.com/world/us/inside-trump-administration-campaign-return-brazils-bolsonaro-clan-power-2026-10-24/\nFive economic challenges facing Brazil's re-elected President Lula\nhttps://www.reuters.com/world/americas/five-economic-challenges-facing-brazils-re-elected-president-lula-2026-10-26/\nConservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge\nhttps://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge\nBrazil's left-wing President Lula elected for fourth term\nhttps://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election\nLula wins reelection in historic runoff, setting up tense political battle\nhttps://www.politico.com/news/2026/10/25/lula-wins-reelection-in-historic-runoff-setting-up-tense-political-battle-01135148\nLula beats Bolsonaro to win Brazil presidential election\nhttps://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump\nLula, Flávio Bolsonaro and Brazil's Future Strategy Between\nhttps://www.kcl.ac.uk/lula-flavio-bolsonaro-and-brazils-future-strategy-between\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/\n\n\n LISTENで開く"
+  },
+  {
+    "id": "eca5ba5d-0257-440e-85e1-d5a96b3fd7bc",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "トランプのピックリニュースを聞いてケビンはどういう感情になるの？",
+    "date": "2026/10/26",
+    "timestamp": 1793001600000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/127313926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Feeac3270-2beb-8048-418d-d002b10595f9.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "不安に思うの？笑い話として聞いてるの？【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
     "id": "27f0fef0-d07f-11f1-9bf1-4faf1cfd6109",
     "podcastName": "ながら日経",
     "title": "10月26日（月）高市内閣支持率 横ばい62%、GMOへの攻撃者、利用者PCの乗っ取りを画策",
@@ -540,16 +570,6 @@
     "desc": "皆さんが一生に一度はやってみたいことは何ですか？ 今回の会話では、アリサとジェシーが「死ぬまでにやりたいこと」について話します。ジェシーは、長年ずっとやってみたいと思っていることと、なぜそれに興味を持つようになったのか、そしてどこまで挑戦してみたいのかを語ります。それでは、ジェシーの話を聞いてみましょう。スクリプト → hapaeikaiwa.com/podcast640\n・\n・\n【参加無料】Hapa英会話オンラインコミュニティ\n📚 Hapa英会話のコンテンツが集約\n・Podcast、YouTube、Blogなどの最新コンテンツをコミュニティ内でまとめてチェック。\n\n📝 毎日の「Phrase of the Day」\n・日常会話で使える英語表現を毎日学習。\n\n✍️ 1日1回の英語アウトプット\n・毎日出される簡単なお題に答えながら、初心者でも気軽に英語をアウトプット。\n\n🎯 英語学習法のヒント\n・効率的な学習法やモチベーション維持のコツをシェア。\n\n👨‍👩‍👧‍👦 私のプライベートトーク\n・育児、ロサンゼルスでの暮らし、おすすめスポットなど、Podcastでは話しきれない日常もお届け。\n\n💡 無料イベント\n・コミュニティメンバーと一緒に英語を楽しめるイベントを定期開催！\n\nBuddiesと一緒にあなたも話せる英語を身に付けませんか？ hapaeikaiwa.com/buddies/\n-\n-\n\n\n【Podcast Plusで学びを深めよう！】\nHapa英会話Podcastをもっと楽しみたい方は、Podcast Plusで一歩先の学びを！\n🎙️ 英語のみの音声（日本語なし）\n📘 全エピソードの和訳付きスクリプト\n🎧 クリックひとつで再生できる英語音声機能\n🎬 Live Conversationの収録風景\n💬Junに気軽に質問OK！\n\nスマホやパソコンから、いつでもどこでも学習可能。 初月無料でお試しいただけますので、興味をお持ちの方はぜひ一度お試しください！\nhttps://www.hapaeikaiwa-shop.net/products/detail.php?product_id=408\n-\n\n Hosted on Acast. See acast.com/privacy for more information."
   },
   {
-    "id": "5f2dd25e-c89f-11f1-aa05-87dc3468a8b5",
-    "podcastName": "ながら日経",
-    "title": "10月16日（金）日経平均3318円安 「コアウィーブ・ショック」で下げ幅歴代3位、外国船借り受け日本籍に 非常時の輸送を政府指示",
-    "date": "2026/10/15",
-    "timestamp": 1792099800000,
-    "audio": "https://traffic.megaphone.fm/NRBC1245679724.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
-    "desc": "[PR]\n\n10月22日（木）お昼12時10分生配信　NIKKEI Tech Foresight LIVE「AI半導体、変革期を占う　元『プレステ』CPU開発者の視点」\n\n \n\nAIの社会実装が進展し、半導体業界は変革期を迎えています。AI半導体をとりまく業界の勢力図も大きく変わるかもしれません。\n\n今回は最先端で半導体開発に挑む元「プレステ」CPU開発者をゲストに迎え、技術トレンドや業界の今後の動きをNIKKEI Tech Foresightの編集長や記者が解説します。\n\nhttps://www.nikkei.com/live/event/EVT260821002/?n_cid=DSPRM1OTR01_nagara\n\n---------------------------------------------------------------‎\n\n■金曜パーソナリティ：寺島啓太\n\n\n\nフリーアナウンサー（元四国放送・文化放送）\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
-  },
-  {
     "id": "c19c9fd2-6a25-4d87-8e4f-8fbf541e4392",
     "podcastName": "Kids News",
     "title": "【10月16日】フードロスってなに？",
@@ -598,16 +618,6 @@
     "audio": "https://anchor.fm/s/8c2088c/podcast/play/125576079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F1a541365-038e-abd3-2380-357c952d5c1e.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e3/bd/be/e3bdbe9a-ebe1-03be-2fd2-658c5e64825a/mza_10324805544078569436.jpg/100x100bb.jpg",
     "desc": "⁠⁠⁠⁠:::::::::::::::::: 今回のお話 ::::::::::::::::::\nモンゴル再び上陸、弘安の役／新説と通説／防衛に反応する人々／追撃の竹崎季長、また活躍／なぜ負けた?なぜ勝てた?\n※番組内で紹介する歴史の内容には諸説あります。\n :::::::::::::::::: 参考文献 ::::::::::::::::::\n 参考文献は、⁠⁠⁠⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠⁠⁠⁠\t\n :::::::::::::: COTEN CREW 募集中 ::::::::::::::\n コテンラジオや世界史データベースなど、COTENの活動はCOTEN CREWのみなさんの応援によって成り立っています。 月額サポートで、いっしょに人文知を社会に活かす仲間になりませんか？\n ▶︎ ⁠⁠⁠⁠⁠⁠⁠⁠⁠COTEN CREWに参加する⁠⁠⁠⁠⁠⁠⁠⁠⁠\t\n :::::::::::::::::: クレジット ::::::::::::::::::\n\n\n出演：深井龍之介／⁠⁠⁠⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠⁠⁠⁠／⁠⁠⁠⁠⁠⁠⁠⁠⁠樋口聖典⁠⁠⁠⁠⁠⁠⁠⁠⁠\n台本制作：深井龍之介／⁠⁠⁠⁠⁠⁠⁠⁠⁠楊睿之⁠⁠⁠⁠⁠⁠⁠⁠⁠／西谷剛史／橋本雅也\n書籍提供：⁠⁠⁠⁠⁠⁠⁠⁠⁠株式会社バリューブックス⁠⁠⁠⁠⁠⁠⁠⁠⁠\n収録スタジオ：⁠⁠⁠⁠⁠⁠⁠⁠⁠ACRO.POLIS⁠⁠⁠⁠⁠⁠⁠⁠⁠\n録音エンジニア：山口裕大\n音声編集：⁠⁠⁠⁠⁠⁠⁠⁠⁠株式会社FUBI⁠⁠⁠⁠⁠⁠⁠⁠⁠\nタイトル作成：⁠⁠⁠⁠⁠⁠⁠⁠⁠政光真吾⁠⁠⁠⁠⁠⁠⁠⁠⁠\nYouTubeサムネイル：⁠⁠⁠⁠⁠⁠⁠⁠⁠やましょー⁠⁠⁠⁠⁠⁠⁠⁠⁠\nYouTubeアニメーション（ドット絵）：⁠⁠⁠⁠⁠⁠⁠⁠⁠庭月野議啓⁠⁠⁠⁠⁠⁠⁠⁠⁠\nPodcastサムネイル：⁠⁠⁠⁠⁠⁠⁠⁠⁠高野菜々子⁠⁠⁠⁠⁠⁠⁠⁠⁠\n制作管理：⁠⁠⁠⁠⁠⁠⁠⁠⁠内山千咲⁠⁠⁠⁠⁠⁠⁠⁠⁠／⁠Jack Konishi⁠\n\n\n :::::::::::::: COTENについて ::::::::::::::\n 公式サイト：⁠⁠⁠⁠⁠⁠⁠⁠⁠https://coten.co.jp/⁠⁠⁠⁠⁠⁠⁠⁠⁠ 公式X（旧Twitter）：⁠⁠⁠⁠⁠⁠⁠⁠⁠@CotenInc⁠⁠⁠⁠⁠⁠⁠⁠⁠ 採用情報：⁠⁠⁠⁠⁠⁠⁠⁠⁠こちら⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n ::::: ご意見・ご感想・お問い合わせはこちらから :::::\n ご感想・ご意見・お問い合わせは、お気軽にチャットでお送りください。 ▶︎ ⁠⁠⁠⁠⁠⁠⁠⁠⁠お問い合わせ⁠"
-  },
-  {
-    "id": "6e0e7a5f-0242-4e67-b94d-9c576f5e2085",
-    "podcastName": "News Connect",
-    "title": "【10月15日】IMF、経済成長率3.1％に上方修正も「強靭性も限界に近づく」と指摘",
-    "date": "2026/10/14",
-    "timestamp": 1792008000000,
-    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/127445199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F431cab4a-b1f1-8209-be75-266c8912a865.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "News Connect（ニュースコネクト）あなたと経済をつなぐ5分間\n1日1つ、5分間で、国際政治や海外のビジネスシーンを中心に、世界のメガトレンドがわかる重要ニュースを解説。朝の支度や散歩、通勤、家事の時間などにお聴きいただけるとうれしいです。\n▼出演：\n新井里菜（オーディオジャーナリスト）　\nhttps://twitter.com/RinaAraiLevia\n子ども向けニュース番組『Kids' News - キッズニュース』\nhttps://open.spotify.com/show/1I9MfdGDCgbSj0NUupLjxq\n音声ドキュメンタリー『越境家族 - Transnational Family』\nhttps://open.spotify.com/show/42rkNGnYDASc315Ph3W7XL+\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nhttps://note.com/t_nomura/n/n43e514e703b4\n▼新刊書籍『プロ目線のPodcastのつくり方』\n⁠https://amzn.asia/d/0n3gLJN\n▼参考ニュース：世界経済成長率予測、今年3.1％に上げ　ＡＩ投資堅調＝ＩＭＦ（Reuters）\nhttps://www.reuters.com/jp/economy/EMZX5WPL3ZLENFLG4YT45EIV5U-2026-10-13/\n試される強靭性、迫られる決断（IMF）\nhttps://www.imf.org/ja/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026\n日本のＧＤＰ、来年はインドと英国に抜かれ「世界６位」の見込み…ＩＭＦ「世界経済見通し」で明らかに（讀賣）\nhttps://www.yomiuri.co.jp/economy/20261013-GYT1T00337/\n▼Podcast Studio Chronicle公式サイト\nhttps://chronicle-inc.net/\n\n\n LISTENで開く"
   },
   {
     "id": "cc386551-c1b5-4a1f-90b7-a2b82b3fb19a",
@@ -710,16 +720,6 @@
     "desc": "📩 ニュースレター始めました！\n番組制作で見つけた「子どもが世界に興味を持つきっかけ作り」を連載していきます。\n▶︎ 登録はこちら ⁠⁠https://kidsnewspodcast.substack.com/⁠⁠\nーーーーーーーーーーーーーーーーーーーー\n【本日の参考ニュース】\nスポーツの日 (日本)https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%81%AE%E6%97%A5_(%E6%97%A5%E6%9C%AC)\n【2026年版】スポーツの日（旧：体育の日）とは？（10月12日） 〜子どもに伝えやすい行事の意味や由来、過ごし方アイデア〜https://hoiclue.jp/4225.html\nーーーーーーーーーーーーーーーーーーーー\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n 世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です\n この人（ひと）だれ？どんな国（くに）？なんでニュースになってるの？ そんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう！\n #キッズニュース\n▶︎質問箱（しつもんばこ）\n 番組にこたえてほしい質問（しつもん）をおくってください。大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の皆様へ】\n 〜親子に信頼できる情報源を〜\n 当番組は、ファクトに基づきバイアスを少なく、小学校低学年でもわかるように時事ニュースを解説しています。お子さんとの会話のきっかけにしていただけると幸いです。\n▼ noteでテキスト版や限定コンテンツを配信中！\n 大人の方に向けた「解説ノート」をnoteで配信しています。ニュースの概要はどなたでも【無料】でお読みいただけます。\n また、番組の継続運営をサポートしてくださる「キッズニュースPTA会員」の皆様には、制作の裏話や週末版エピソードなどの限定コンテンツも公開中です！\n🔗 各種リンク（note）\n ▶︎ この番組について ⁠https://note.com/rinaarailevia/n/ne1b89db80c45\n ▶︎ ニュース解説記事 https://note.com/rinaarailevia\n ▶︎ PTA会員の詳細・ご登録（サポートのお願い） https://note.com/rinaarailevia/n/n29019f024e71\nーーーーーーーーーーーーーーーーーーーー\n【番組情報】\n 配信：毎週 月・水・金　朝　朝5:00\n 制作：新井里菜（オーディオジャーナリスト）\n ・X（Twitter）：https://x.com/RinaAraiLevia\n ・Profile：⁠⁠https://bio.site/RinaAraiLevia\nーーーーーーーーーーーーーーーーーーーー"
   },
   {
-    "id": "016711e7-6900-4a04-9cb1-cd89101fb61b",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "動画を撮る日の服装を決めるときいつも思うこと",
-    "date": "2026/10/11",
-    "timestamp": 1791705600000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126982930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F46a407fd-f090-decc-610b-7e584e3a0f01.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "パラドックスや"
-  },
-  {
     "id": "daihonnashi.podbean.com/d16aaa82-de8b-3b00-a2a7-244d953c0094",
     "podcastName": "台本なし英会話レッスン",
     "title": "【全英語】沖縄の米軍基地をアメリカ人はどう思う？🇯🇵",
@@ -778,25 +778,5 @@
     "audio": "https://cdn.listen.style/p/01jbb9xtgps014h4w5zw571j57/audio/5D1ag2zWb95SYH2pQU65Lf6a54MWMRFNRTIYuv5j.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/96/a6/4a96a6a7-e328-744f-f2d4-3fb045037166/mza_9168702762650049181.jpg/100x100bb.jpg",
     "desc": "今回は「特別回」です。  \n日本理科教育学会第76回全国大会（鹿児島大会）で、小学生から高校生までが発表する「児童生徒ポスター発表」のセッションが開催されてました。会場で特に興味を惹きつけた、奄美大島の小学6年生へのインタビュー音声をお届けします。好きなものに出会えたこと自体が素晴らしいと、大人がそろって感心しきり。子どもの情熱が詰まった「観察と調査」のあり方について、あれこれおしゃべりしました。    \n前回に引き続き、辻先生の同僚・筑波大学附属小学校の志田先生をゲストにお迎えしています。    \n--\n★目次    \n(01:30)　興味を惹いた奄美大島の小学校6年生へインタビューしてみた    \n(07:31)　声に「力」を感じる！研究者の話し方    \n(09:41)　「愛」があふれて調べているからもっと話を聞きたくなる    \n(11:55)　特別な子じゃなくて、好きなことを見つけられたら誰でも    \n(16:10)　ほんとうの「個別最適化」になってるケース    \n(18:18)　一緒に喜ぶことができる、めざせ！保護者のサポート    \n(22:55)　マインドを一緒に見つけてあげたい    \n(27:02)　芽を摘んでしまわないように見守りたい       \n\n\n-\n書籍紹介    \n『高校生科学オリンピックの青春　理系の子』    \nhttps://amzn.asia/d/0ep2EcKA\n\n\n-\n★パーソナリティー    \n木月里美（武蔵野市立小学校 主任教諭）    \n 辻　 健 （筑波大学附属小学校 教諭）    \n森田雄介（東京書籍 理科編集部）\n\n\n-\n★教科書『新編 新しい理科』のご案内    \nhttps://ten.tokyo-shoseki.co.jp/text/shou/rika/\n\n\n-\n★おたよりフォーム    \n・感想やお悩み相談、「理科川柳」はこちらから！    \n　https://forms.gle/EqdeyxDS9BLnyApm8\n\n\n=\n企画協力／音響,SE製作：株式会社 雑談     \n制作：東京書籍 株式会社\n=\n\n\n LISTENで開く"
-  },
-  {
-    "id": "6abf1636461e70fab382571d",
-    "podcastName": "Hapa英会話 Podcast",
-    "title": "完璧な英語より、人とつながる英語。All Ears English Lindsayと語る英語学習の本質（#636）",
-    "date": "2026/10/6",
-    "timestamp": 1791320400000,
-    "audio": "https://sphinx.acast.com/p/open/s/65a19d6398c1070016f3e0f8/e/6abf1636461e70fab382571d/media.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/32/01/fb/3201fb9f-c284-8273-6832-0aed6b7a4d28/mza_6432996578399273752.jpg/100x100bb.jpg",
-    "desc": "今回は、人気英語学習Podcast「All Ears English」のホスト、Lindsay McMahonさんをゲストにお迎えします。実はLindsayさんとは10年以上前、お互いにPodcastを始めたばかりの頃に一度コラボしたことが、今回は本当に久しぶりの再会となりました。インタビューでは、All Ears Englishが大切にしている「Connection, NOT perfection（完璧さより、人とのつながり）」という考え方を軸に、英語を話すときに完璧を求めすぎてしまう理由や、間違いを恐れず自信を持って話せるようになるためのヒント、そして英語で本当の意味で人とつながるために大切なことについてじっくり語り合いました。さらに、AI時代の英語学習や、自分が本当に伝えたいことを自分らしい英語で表現する方法など、これからの時代に英語を学ぶ上で大切なヒントがたくさん詰まったインタビューです。\n-\n🎥 このインタビュー・対談の動画はこちら！https://youtu.be/5CbCUPXbs_o\n・\n・\n🌐【All Ears Englishの情報】\n・YouTube：https://www.youtube.com/@AllEarsEnglishPodcast\n・Podcast：https://lnk.to/aee-sn\n・無料の英語レベル診断：https://cf.allearsenglish.com/fluency-quiz\n　（ご自身の英語力がB1・B2・C1のどのレベルに当たるかを確認できます）\n・\n・\n📣 【10/9〜10/12 東京・大阪・名古屋開催】Hapa英会話セミナー2026！\n今年は「AI時代の英語学習法」と「また話したいと思われる英語の話し方」の2つのテーマで開催します。単に正しく話すためではなく、英語で人とつながるためのコミュニケーション力を実践的なワークショップを通して身につけていきます。英語レベルを問わず、どなたでもご参加いただけますので、ぜひお近くの会場でお会いしましょう！詳細・お申し込みはこちら：https://hapaeikaiwa.com/\n-\n-\n\n\n【参加無料】Hapa英会話オンラインコミュニティ\n📚 Hapa英会話のコンテンツが集約\n・Podcast、YouTube、Blogなどの最新コンテンツをコミュニティ内でまとめてチェック。\n\n📝 毎日の「Phrase of the Day」\n・日常会話で使える英語表現を毎日学習。\n\n✍️ 1日1回の英語アウトプット\n・毎日出される簡単なお題に答えながら、初心者でも気軽に英語をアウトプット。\n\n🎯 英語学習法のヒント\n・効率的な学習法やモチベーション維持のコツをシェア。\n\n👨‍👩‍👧‍👦 私のプライベートトーク\n・育児、ロサンゼルスでの暮らし、おすすめスポットなど、Podcastでは話しきれない日常もお届け。\n\n💡 無料イベント\n・コミュニティメンバーと一緒に英語を楽しめるイベントを定期開催！\n\nBuddiesと一緒にあなたも話せる英語を身に付けませんか？ hapaeikaiwa.com/buddies/\n-\n-\n\n\n【Podcast Plusで学びを深めよう！】\nHapa英会話Podcastをもっと楽しみたい方は、Podcast Plusで一歩先の学びを！\n🎙️ 英語のみの音声（日本語なし）\n📘 全エピソードの和訳付きスクリプト\n🎧 クリックひとつで再生できる英語音声機能\n🎬 Live Conversationの収録風景\n💬Junに気軽に質問OK！\n\nスマホやパソコンから、いつでもどこでも学習可能。 初月無料でお試しいただけますので、興味をお持ちの方はぜひ一度お試しください！\nhttps://www.hapaeikaiwa-shop.net/products/detail.php?product_id=408\n\n Hosted on Acast. See acast.com/privacy for more information."
-  },
-  {
-    "id": "f1ee56c7-06a0-49be-80ae-68eca0449333",
-    "podcastName": "Kids News",
-    "title": "【10月7日】原油（げんゆ）ってなに？",
-    "date": "2026/10/6",
-    "timestamp": 1791316800000,
-    "audio": "https://anchor.fm/s/10afb9540/podcast/play/126072339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2Fc8e588f5-afca-2e73-4e09-2d21444c5035.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/74/5b/ed745ba0-8cb7-5d0d-5e60-181134a8f82e/mza_2181467771622233691.jpg/100x100bb.jpg",
-    "desc": "📩 ニュースレター始めました！\n番組制作で見つけた「子どもが世界に興味を持つきっかけ作り」を連載していきます。\n▶︎ 登録はこちら ⁠⁠https://kidsnewspodcast.substack.com/⁠⁠\nーーーーーーーーーーーーーーーーーーーー\n\n\n【本日の参考ニュース】\nげんゆ【原油】https://kids.gakken.co.jp/jiten/dictionary02400413/\n石せき油ゆから何なにができるの？https://www.tomabi.co.jp/kids/whatcan.html\nーーーーーーーーーーーーーーーーーーーー\n『Kids' News - キッズニュース』\n▶︎この番組（ばんぐみ）は？\n 世界（せかい）で起こる（おこる）ニュースをわかりやすくお話（おはなし）していく番組です\n この人（ひと）だれ？どんな国（くに）？なんでニュースになってるの？ そんな気になる（きになる）こたえを一緒（いっしょ）にみつけていきましょう！\n #キッズニュース\n▶︎質問箱（しつもんばこ）\n 番組にこたえてほしい質問（しつもん）をおくってください。大人の人（おとなのひと）に手伝って（てつだって）もらってね。\n https://forms.gle/R4URzgAtMhAiLuio8⁠\nーーーーーーーーーーーーーーーーーーーー\n【大人の皆様へ】\n 〜親子に信頼できる情報源を〜\n 当番組は、ファクトに基づきバイアスを少なく、小学校低学年でもわかるように時事ニュースを解説しています。お子さんとの会話のきっかけにしていただけると幸いです。\n▼ noteでテキスト版や限定コンテンツを配信中！\n 大人の方に向けた「解説ノート」をnoteで配信しています。ニュースの概要はどなたでも【無料】でお読みいただけます。\n また、番組の継続運営をサポートしてくださる「キッズニュースPTA会員」の皆様には、制作の裏話や週末版エピソードなどの限定コンテンツも公開中です！\n🔗 各種リンク（note）\n ▶︎ この番組について ⁠https://note.com/rinaarailevia/n/ne1b89db80c45\n ▶︎ ニュース解説記事 https://note.com/rinaarailevia\n ▶︎ PTA会員の詳細・ご登録（サポートのお願い） https://note.com/rinaarailevia/n/n29019f024e71\nーーーーーーーーーーーーーーーーーーーー\n【番組情報】\n 配信：毎週 月・水・金　朝　朝5:00\n 制作：新井里菜（オーディオジャーナリスト）\n ・X（Twitter）：https://x.com/RinaAraiLevia\n ・Profile：⁠⁠https://bio.site/RinaAraiLevia\nーーーーーーーーーーーーーーーーーーーー"
   }
 ]
