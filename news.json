@@ -1,5 +1,25 @@
 [
   {
+    "id": "0293aba7-8bcf-43d2-863e-714cec573dbc",
+    "podcastName": "Kevin's English Room Podcast",
+    "title": "AIで生成された投稿が紛れすぎててSNSが最近つまらなくなってきた",
+    "date": "2026/10/27",
+    "timestamp": 1793088000000,
+    "audio": "https://anchor.fm/s/260e5c24/podcast/play/126363160/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2F251a4f61-6004-eca7-69b1-5a976d2f4eaa.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
+    "desc": "しかもどんどん見抜きにくくなってる【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
+  },
+  {
+    "id": "02e5def7-fa0c-45a0-b379-477a66209076",
+    "podcastName": "News Connect",
+    "title": "【国際欄 #21】桁違いの石油供給途絶。それでも「なんとかなっている」理由（ゲスト：小山堅さん）",
+    "date": "2026/10/27",
+    "timestamp": 1793084100000,
+    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/128079443/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fcbcedbea-6963-3ca7-fb9a-30716bd0ca7b.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
+    "desc": "News Connect国際欄、今回のゲストは、日本エネルギー経済研究所顧問の小山堅さんです。ホルムズ海峡の事実上の封鎖から8か月、石油危機の現在地を解説いただきました。世界の原油とLNGの2割が通るチョークポイントが止まったことの意味、過去の石油危機との違い、私たちの暮らしへの影響など、今回のホルムズ海峡危機についておさらいできる回です。\n\n\n▼ゲストプロフィール\n小山堅（日本エネルギー経済研究所顧問）\n1959年，長野県生まれ。早稲田大学大学院経済学修士修了後，1986年に日本エネルギー経済研究所入所。英ダンディ大学にて博士号取得。The OPEC Award for Researchを受賞。日本エネルギー経済研究所専務理事・首席研究員などを経て現職。著書に『エネルギーの地政学』『地政学から読み解く！ 戦略物資の未来地図』『大転換期の国際エネルギー秩序』などがある。\n\n\n▼MC\n佐々木真奈美（経済キャスター）\nX：⁠⁠⁠https://x.com/manamisasaki⁠⁠⁠\n\n\n▼News Connect 土曜版・日曜版・夕刊版 Spotifyプレイリストはこちら\n🟢土曜版\n⁠⁠⁠https://open.spotify.com/playlist/3MKhzjyNlx96n2Khmt35EK⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔴日曜版\n⁠⁠⁠https://open.spotify.com/playlist/2cAjmNYGXvSXCtPujQSNVb⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔵夕刊版 国際欄\n⁠https://open.spotify.com/playlist/3CtpYOPniQT6FEuByBdfg3⁠\n\n\n🟣夕刊版 文化欄\n⁠⁠⁠⁠https://open.spotify.com/playlist/6DSiNeJQwWhV982h3BxOyg⁠\n\n\n🟡夕刊版 金融欄\n⁠⁠https://open.spotify.com/playlist/4btihPGM3vOhndcdtzQTtM⁠\n\n\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\n⁠https://chronicle-inc.net/support\nLISTENで開く"
+  },
+  {
     "id": "5d3e7b26-d144-11f1-80ea-ab28d0dd75b0",
     "podcastName": "ながら日経",
     "title": "10月27日（火）東京都千代田区 三菱地所系マンションに5年転売禁止要請、ペロブスカイト官民で量産へ",
@@ -600,16 +620,6 @@
     "desc": "辛さ大丈夫そう？ 【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
-    "id": "1af394a1-c4ae-4d63-8094-45703596e5b1",
-    "podcastName": "News Connect",
-    "title": "【文化欄 #20】「喪失」を書くとはどういうことか。原田ひ香さんの新刊をめぐって（ゲスト：原田ひ香さん）",
-    "date": "2026/10/15",
-    "timestamp": 1792047300000,
-    "audio": "https://anchor.fm/s/81fb5eec/podcast/play/127369772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F38b4a97c-819f-0b04-37c9-b537c0c06536.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
-    "desc": "News Connect 文化欄、ゲストは小説家の原田ひ香さんです。後編となる今回は新刊『あなたのいない世界で』を中心にお話を伺いました。約20年前に書かれた作品から未発表作までを収めた短編集は、どのように一冊の本になったのでしょうか。共通して流れる“喪失”というテーマについても深掘りしています。\n\n\n▼ゲスト\n原田ひ香（小説家）\n1970年、神奈川県生まれ。2005年、「リトルプリンセス2号」でNHK創作ラジオドラマ大賞受賞。2007年、「はじまらないティータイム」で第31回すばる文学賞を受賞。『ランチ酒』『古本食堂』『母親からの小包はなぜこんなにダサいのか』など著書多数。なかでも『三千円の使いかた』は、100万部を超えるベストセラーに。9月25日、光文社より新刊『あなたのいない世界で』刊行。\n\nX：https://x.com/hika_harada\n新刊『あなたのいない世界で』：https://books.kobunsha.com/book/b10194222.html\n\n\n▼MC\n岩井圭也（小説家）\nX：⁠⁠⁠https://x.com/keiya_iwai⁠⁠\n\n\n▼News Connect 土曜版・日曜版・夕刊版 Spotifyプレイリストはこちら\n🟢土曜版\n⁠⁠https://open.spotify.com/playlist/3MKhzjyNlx96n2Khmt35EK⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔴日曜版\n⁠⁠https://open.spotify.com/playlist/2cAjmNYGXvSXCtPujQSNVb⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔵夕刊版 国際欄\nhttps://open.spotify.com/playlist/3CtpYOPniQT6FEuByBdfg3\n\n\n🟣夕刊版 文化欄\n⁠⁠⁠https://open.spotify.com/playlist/6DSiNeJQwWhV982h3BxOyg\n\n\n🟡夕刊版 金融欄\n⁠https://open.spotify.com/playlist/4btihPGM3vOhndcdtzQTtM\n\n\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\nhttps://chronicle-inc.net/support\nLISTENで開く"
-  },
-  {
     "id": "7ed0a00f-f16a-4156-b59e-daa4685b192f",
     "podcastName": "歴史を面白く学ぶコテンラジオ (COTEN RADIO)",
     "title": "【67-9】備えあれば勝機あり！弘安の役で真価を見せるガッチガチな石壁【COTEN RADIO モンゴル帝国襲来編9】",
@@ -678,16 +688,6 @@
     "audio": "https://api.robotstart.jp/api/for-media/v1/articles/378004a3/permanent/with-advertise/podcast/13024c413ac29e1a93bd003451d86103.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/9c/83/7b9c836a-0d8e-d171-68fd-27a8d0b0de7f/mza_14299853164239863346.jpg/100x100bb.jpg",
     "desc": "英語ができる人がやっているリスニングの技術、意味のかたまりごとに前から聞いていく練習をしましょう。英語・日本語音声の構成です。\n音声のスクリプトは公式Lineから無料でどうぞ！\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://sakura-english.jp/pod_line/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠"
-  },
-  {
-    "id": "a73fc5cd-99f6-4c7f-90bc-4f459dd72b40",
-    "podcastName": "Kevin's English Room Podcast",
-    "title": "前腕用の筋トレマシンって存在する？",
-    "date": "2026/10/12",
-    "timestamp": 1791792000000,
-    "audio": "https://anchor.fm/s/260e5c24/podcast/play/127273239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F9b2f2f41-12f3-ac2a-89f4-c28ccdc5c418.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/09/48/a6094829-27bc-40d1-1715-358cf7295b73/mza_2616815330632459089.jpg/100x100bb.jpg",
-    "desc": "GoldGymに導入希望 【トピックリクエスト送り先】https://forms.gle/T1DoGnv361nS8NLc7"
   },
   {
     "id": "6aca37053b025233da185b78",
