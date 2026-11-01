@@ -1,5 +1,15 @@
 [
   {
+    "id": "552e3ac8-d529-11f1-a9a3-67fa67c25d4e",
+    "podcastName": "ながら日経",
+    "title": "11月1日（日）GMO不正侵入 システム脆弱性を2年前に把握、iDeCoが12月大幅拡充利用拡大へ",
+    "date": "2026/10/31",
+    "timestamp": 1793487000000,
+    "audio": "https://traffic.megaphone.fm/NRBC7924971994.mp3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
+    "desc": "■日曜パーソナリティ：横田香峰\n\n 大学卒業後、個別塾の教室長を経て、現在はラジオパーソナリティ・舞台俳優・構成作家として活動"
+  },
+  {
     "id": "89c2d5d8-fa63-4263-94df-eaa1f4415b70",
     "podcastName": "News Connect",
     "title": "【ニュース小話 #238】フランス、ブラジル、イスラエル…選挙が映し出す各国の分断",
@@ -598,16 +608,6 @@
     "audio": "https://anchor.fm/s/81fb5eec/podcast/play/127705623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F879c53cd-2909-c4aa-e3f1-562b18ff8394.mp3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/85/b4/c0/85b4c09c-4db3-707e-0a54-c95e60d3bbac/mza_7861046103707665682.jpg/100x100bb.jpg",
     "desc": "News Connect 国際欄、国際大学グローバルコミュニケーションセンター教授の山口真一さんです。前回に引き続き、青少年のSNS規制をテーマにお話を伺いました。「使わせない」のが一番簡単なのに一番危ないという一律禁止の副作用、子どもを守るための年齢確認が新たな個人情報リスクを生むジレンマ、規制が新興サービスへの参入障壁になるという産業面での見落とされがちな論点など、まだ正解の出ていないSNS規制のいまについて多角的にお聞きしています。\n\n\n▼ゲストプロフィール\n山口真一（国際大学グローバル・コミュニケーション・センター教授）\n\n1986年東京生まれ。博士（経済学・慶應義塾大学）。専門は計量経済学、社会情報学、情報経済論。NHKや日本経済新聞をはじめとして、メディアにも多数出演・掲載。KDDI Foundation Award貢献賞、組織学会高宮賞、情報通信学会論文賞（2回）、社会情報学会論文奨励賞、電気通信普及財団賞、Web人賞、紀伊國屋じんぶん大賞、Nextcom論文賞を受賞。主な著作に『炎上で世論はつくられる』（ちくま新書）、『スマホを持たせる前に親子で読む本』（時事通信）などがある。\n\n\n▼MC\n佐々木真奈美（経済キャスター）\nX：⁠⁠⁠https://x.com/manamisasaki⁠⁠⁠\n\n\n▼News Connect 土曜版・日曜版・夕刊版 Spotifyプレイリストはこちら\n🟢土曜版\n⁠⁠⁠https://open.spotify.com/playlist/3MKhzjyNlx96n2Khmt35EK⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔴日曜版\n⁠⁠⁠https://open.spotify.com/playlist/2cAjmNYGXvSXCtPujQSNVb⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n🔵夕刊版 国際欄\n⁠https://open.spotify.com/playlist/3CtpYOPniQT6FEuByBdfg3⁠\n\n\n🟣夕刊版 文化欄\n⁠⁠⁠⁠https://open.spotify.com/playlist/6DSiNeJQwWhV982h3BxOyg⁠\n\n\n🟡夕刊版 金融欄\n⁠⁠https://open.spotify.com/playlist/4btihPGM3vOhndcdtzQTtM⁠\n\n\n▼支援プログラム「Chronicleサポーター」については、こちらをご参照ください。\n⁠https://chronicle-inc.net/support\nLISTENで開く"
-  },
-  {
-    "id": "c18addfe-cbb8-11f1-a236-237f34f2bd05",
-    "podcastName": "ながら日経",
-    "title": "10月20日（火）国内初「森林ファンド」1000億円投資、 データセンター・クラウド 国が安全認証へ",
-    "date": "2026/10/19",
-    "timestamp": 1792445400000,
-    "audio": "https://traffic.megaphone.fm/NRBC8020423277.mp3",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/f3/2d/6cf32dbf-7c87-f936-792b-5ccfac343864/mza_12698989723712464214.jpg/100x100bb.jpg",
-    "desc": "【Amazon Music独占でスピンオフコンテンツ「ながら日経WEEKLY」がスタート！】\n\n\n\nながら日経のパーソナリティと、日経の記者をはじめとした有識者が週替わりで登場し、\n\nその週のポイントとなるニュースを紹介・解説します。\n\n毎週土曜日正午ごろ、Amazon Music独占でお聴きいただけます。\n\n\n\n詳しくはこちらをチェック↓\n\nhttps://music.amazon.co.jp/podcasts/af728319-e478-4300-9b34-38b547685f2d?ref=dm_sh_GJTSDni7N0Z6ohZVAQC1rfCQq\n\n---------------------------------------------------------------‎\n\n[PR]\n\n志望業界の最新ニュース、ちゃんと追えていますか？\n\n日経電子版から、学生限定キャンペーンのご案内です。\n\n\n\n冬のインターンに向けたES作成や面接の準備。日経電子版で業界の動向や企業の最新ニュースを知っておくと周りの就活生と差が付きます。\n\n\n\n今なら学生は日経電子版が【2カ月無料＋6カ月間1,500円割引/月】でご利用いただけます。\n\n学生限定キャンペーンは【2026年10月28日まで】。締切間近のため、お申し込みはお早めに。\n\n詳細は以下のリンクからご確認ください。\n\nhttps://s.nikkei.com/4bTxivC\n\n---------------------------------------------------------------‎\n\n■火曜パーソナリティ：寺島啓太\n\n\n\nフリーアナウンサー（元四国放送・文化放送）\n\nプロ野球や大学駅伝などスポーツ中継を中心に担当\n\n趣味は旅行、ドラマ鑑賞、お笑いなど"
   },
   {
     "id": "992118ce-27cc-4afd-8576-c6a70c52a5d7",
